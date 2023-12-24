@@ -1,0 +1,71 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #085148;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #FFBF42;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.start-page, .game-page, .result-page {
+    padding: 20px;
+    text-align: center;
+}
+
+.start-button, .next-button, .play-again-button, .back-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #085148;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.start-button:hover, .next-button:hover, .play-again-button:hover, .back-button:hover {
+    background-color: #13a08f;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.description, .word, .result-message {
+    color: #666;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+.text-1{
+    color: #FFBF42;
+    font-size: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+}

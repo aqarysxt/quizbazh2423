@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ислам діні</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 20px;
+            background-color: #085148;
+        }
+        
+        .container {
+            min-width: 600px;
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: #FFBF42;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        .start-page, .game-page, .result-page {
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .start-button, .next-button, .play-again-button, .back-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #085148;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            transition: background-color 0.3s ease-in-out;
+        }
+        
+        .start-button:hover, .next-button:hover, .play-again-button:hover, .back-button:hover {
+            background-color: #13a08f;
+        }
+        
+        h1, h2 {
+            color: #333;
+        }
+        
+        .description, .word, .result-message {
+            color:#085148;
+        }
+        
+        .image-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        
+        img {
+            width: 300px;
+            height: 300px;
+            border-radius: 50px;
+            margin: 10px;
+            cursor: pointer;
+            transition: transform 0.3s ease-in-out;
+        }
+        
+        img:hover {
+            transform: scale(1.1);
+        }
+        
+        .text-1{
+            color: #FFBF42;
+            font-size: 50px;
+            padding-bottom: 50px;
+            padding-top: 20px;
+            font-weight: 800;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .word{
+            font-size: 30px;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-1">АРТЫҚ СУРЕТТІ ТАП</div>
+    <div class="container">
+        <div class="start-page">
+            <h1>Ойын ережесі:</h1>
+            <p class="description">Бұл ойында 1 сөз және 3 сурет болады. Сол сөзге байланысты 3 суреттін ішінде артық суретті табу керек.</p>
+            <button class="start-button" onclick="startGame()">Бастау</button>
+        </div>
+
+        <div class="game-page" style="display: none;">
+            <h2>Раунд <span id="roundNumber">1</span></h2>
+            <p class="word" id="word">Ислам</p>
+            <div id="image-container">
+                <!-- Images will be dynamically added here -->
+            </div>
+            <p id="roundResult"></p>
+            <button class="back-button" onclick="goBack()" style="display: none;">Арқа</button>
+            <button class="next-button" onclick="goNext()">Келесі</button>
+        </div>
+
+        <div class="result-page" style="display: none;">
+            <h2>Ойын аяқталды!</h2>
+            <p class="result-message" id="resultMessage"></p>
+            <a href="index2.html"><button class="play-again-button" onclick="resetGame()">Келесі ойынға өту</button></a>
+        </div>
+    </div>
+
+    <script>
+        const rounds = [
+            {
+                word: "Ислам",
+                images: [
+                { src: "img/image_islam_1.jpg", correct: false },
+                { src: "img/image_islam1_1.jpg", correct: true },
+                { src: "img/image_islam_2.jpg", correct: false },
+                ]
+            },
+            {
+                word: "Құран",
+                images: [
+                { src: "img/image_is_1.jpg", correct: true },
+                { src: "img/image_quran_1.jpg", correct: false },
+                { src: "img/image_quran_2.jpg", correct: false },
+                ]
+            },
+            {
+                word: "Намаз",
+                images: [
+                    { src: "img/image_namaz_1.jpg", correct: false },
+                    { src: "img/image_islam_1.jpg", correct: false },
+                    { src: "img/image_namaz1_1.jpg", correct: true },
+                ]
+            }
+            ,{
+                word: "Рамазан",
+                images: [
+                    { src: "img/image_ramadan_1.jpg", correct: false },
+                    { src: "img/image_ramadan_2.jpg", correct: false },
+                    { src: "img/image_ramadan1_1.jpg", correct: true },
+                ]
+            },
+            {
+                word: "Мешіт",
+                images: [
+                { src: "img/image_meshit1_1.jpg", correct: true },
+                    { src: "img/image_meshit_1.jpg", correct: false },
+                    { src: "img/image_meshit_2.jpg", correct: false },
+                ]
+            },
+            {
+                word: "Мекке",
+                images: [
+                    { src: "img/image_mekke_1.jpg", correct: false },
+                    { src: "img/image_mekke_2.jpg", correct: false },
+                    { src: "img/image_mekke1_1.jpg", correct: true },
+                ]
+            }
+            ,
+            {
+                word: "Тасбих",
+                images: [
+                    { src: "img/image_tasbih_1.jpg", correct: false },
+                    { src: "img/image_tasbih1_1.jpg", correct: true },
+                    { src: "img/image_tasbih_2.jpg", correct: false },
+                ]
+            }
+        ];
+
+        let currentRound = 0;
+        let correctAnswers = 0;
+
+        function startGame() {
+            document.querySelector('.start-page').style.display = 'none';
+            document.querySelector('.game-page').style.display = 'block';
+            playRound();
+        }
+
+        function playRound() {
+            if (currentRound < rounds.length) {
+                const currentRoundData = rounds[currentRound];
+                const { word, images } = currentRoundData;
+
+                document.getElementById('roundNumber').innerText = currentRound + 1;
+                document.getElementById('word').innerText = word;
+                document.getElementById('roundResult').innerText = '';
+
+                const imageContainer = document.getElementById('image-container');
+                imageContainer.innerHTML = '';
+
+                images.forEach((imgData, index) => {
+                    const { src, correct } = imgData;
+                    const imgElement = document.createElement('img');
+                    imgElement.src = src;
+                    imgElement.alt = `Image ${index + 1}`;
+                    imgElement.onclick = () => checkAnswer(correct);
+                    imageContainer.appendChild(imgElement);
+                });
+
+                // Показать кнопку "Назад" только после первого раунда
+                if (currentRound > 0) {
+                    document.querySelector('.back-button').style.display = 'inline-block';
+                }
+            }
+        }
+
+        function checkAnswer(isCorrect) {
+            const roundResult = document.getElementById('roundResult');
+
+            if (isCorrect) {
+                roundResult.innerText = "Дұрыс! Сурет сәйкес келмейді.";
+                correctAnswers++;
+            } else {
+                roundResult.innerText = "Дұрыс емес.";
+            }
+
+            document.querySelector('.back-button').style.display = 'none'; // Скрыть кнопку "Назад" после ответа
+            document.querySelector('.next-button').style.display = 'inline-block'; // Показать кнопку "Далее" после ответа
+        }
+
+        function goBack() {
+            currentRound--;
+            playRound();
+        }
+
+        function goNext() {
+            currentRound++;
+            if (currentRound < rounds.length) {
+                playRound();
+            } else {
+                document.querySelector('.game-page').style.display = 'none';
+            document.querySelector('.result-page').style.display = 'block';
+
+            const resultMessage = document.getElementById('resultMessage');
+            resultMessage.innerText = `Сіз ${rounds.length} раундта ${correctAnswers} дұрыс таптыныз.`
+            }
+        }
+        
+      
+    </script>
+</body>
+</html>

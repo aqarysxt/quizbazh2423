@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Дұрыс жауабын тап!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 20px;
+            background-color: #085148;
+            color: #fff;
+        }
+        
+        .container {
+            max-width: 1000px;
+            max-height: 500px;
+            margin: 0 auto;
+            background-color: #FFBF42;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        .start-page, .game-page, .result-page, .question-page {
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .start-button, .next-button, .play-again-button, .answer-button, .result-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #085148;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            transition: background-color 0.3s ease-in-out;
+        }
+        
+        .start-button:hover, .next-button:hover, .play-again-button:hover, .answer-button:hover, .result-button:hover {
+            background-color: #13a08f;
+        }
+        
+        h1, h2, h3 {
+            color: #333;
+        }
+        
+        .description, .question, .result-message {
+            color: #666;
+        }
+        
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            margin-top: 20px;
+            font-size: 40px;
+        }
+
+        .grid-item {
+            background-color: #085148;
+            color: #fff;
+            padding: 40px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .grid-item:hover {
+            background-color: #13a08f;
+        }
+
+        .selected-cell {
+            background-color: #13a08f;
+        }
+
+        .correct-answer {
+            background-color: green;
+        }
+
+        .wrong-answer {
+            background-color: red;
+        }
+
+        .text-1{
+            color: #FFBF42;
+            font-size: 50px;
+            padding-bottom: 50px;
+            padding-top: 20px;
+            font-weight: 800;
+            font-family: 'Times New Roman', Times, serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-1">ДҰРЫС ЖАУАБЫН ТАП</div>
+    <div class="container">
+        <div class="start-page">
+            <h1>Ойын ережесі:</h1>
+            <p class="description">Сұрақты көрсету үшін ұяшықты таңдаңыз және 4 жауаптын ішінен дұрыс жауабын табыңыз.</p>
+            <button class="start-button" onclick="startGame()">Ойынды бастау</button>
+        </div>
+
+        <div class="game-page" style="display: none;">
+            <div class="grid-container" id="gridContainer"></div>
+            <button class="next-button" onclick="goNext()" style="display: none;">Басынан бастау</button>
+            <button class="result-button" onclick="endGame()" style="display: none;">Қорытынды</button>
+        </div>
+
+        <div class="question-page" style="display: none;">
+            <h2>Сұрақ <span id="questionNumber">1</span></h2>
+            <p class="question" id="question"></p>
+            <button class="answer-button" onclick="checkAnswer('option1')"></button>
+            <button class="answer-button" onclick="checkAnswer('option2')"></button>
+            <button class="answer-button" onclick="checkAnswer('option3')"></button>
+            <button class="answer-button" onclick="checkAnswer('option4')"></button>
+        </div>
+
+        <div class="result-page" style="display: none;">
+            <h2>Ойын аяқталды!</h2>
+            <p class="result-message" id="resultMessage"></p>
+           <a><button class="play-again-button" onclick="resetGame()">Басынан бастау</button></a> 
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+            {
+                question: "Ислам діні қай жерде пайда болды?",
+                options: {
+                    option1: "Араб түбегінде",
+                    option2: "Ирак түбегінде",
+                    option3: "Палсетина аймағында",
+                    option4: "Дұрыс жауап жоқ",
+                },
+                correctAnswer: "option1"
+            },
+            {
+                question: "Ислам діні қай ғасырда пайда болды?",
+                options: {
+                    option1: "3-7 ғасырларда",
+                    option2: "5-7 ғасырларда",
+                    option3: "5 ғасыр",
+                    option4: "7 ғасыр",
+                },
+                correctAnswer: "option4"
+            },
+            {
+                question: "Ислам дінінің негізін салған кім?",
+                options: {
+                    option1: "Мухаммед (с.а.у)",
+                    option2: "Иса(а.с)",
+                    option3: "Ибраһим (а.с)",
+                    option4: "Мұса (а.с)",
+                },
+                correctAnswer: "option1"
+            },
+            {
+                question: "Мұхаммед пайғамбар оған Алланың игілі мен сәлемі болсын қай жылы дүниеге келді ?",
+                options: {
+                    option1: "550ж",
+                    option2: "571ж",
+                    option3: "Дұрыс жауап жоқ",
+                    option4: "553ж",
+                },
+                correctAnswer: "option3"
+            },
+            {
+                question: "Мұхаммед пайғамбарға Алладан алғашқы хабарлар қай періште арқылы жіберілді?",
+                options: {
+                    option1: "Әзірейіл",
+                    option2: "Жәбірейіл",
+                    option3: "Микайл",
+                    option4: "Исрафил",
+                },
+                correctAnswer: "option2"
+            },
+            {
+                question: "Құранның алғашқы аяттары қай жылы түскен?",
+                options: {
+                    option1: "570",
+                    option2: "510",
+                    option3: "600",
+                    option4: "610",
+                },
+                correctAnswer: "option4"
+            },
+            {
+                question: "Халифа деген кім",
+                options: {
+                    option1: "Ислам мәліметтері туралы термині",
+                    option2: "Исламдағы адамдар туралы термині",
+                    option3: "Ислам көшбасшысының термині",
+                    option4: "Ислам туралы деректер термині",
+                },
+                correctAnswer: "option3"
+            },
+            {
+                question: "Алғашқы бірінші халифаны ата?",
+                options: {
+                    option1: "Әли Ибн Әби Талиб",
+                    option2: "Әбу Бәкір Сиддик",
+                    option3: "Омар Ибн әл-Хаттаб",
+                    option4: "Осман Ибн Аффан",
+                },
+                correctAnswer: "option2"
+            },
+            {
+                question: "Ислам күнтізбесіндегі қасиетті ай?",
+                options: {
+                    option1: "Барлық жауап дұрыс",
+                    option2: "Барлық айлар",
+                    option3: "Рамазан",
+                    option4: "Пайғамбарымыз дүниеге келген ай",
+                },
+                correctAnswer: "option3"
+            },
+            {
+                question: "Мұсылманның неше парызы бар?",
+                options: {
+                    option1: "5",
+                    option2: "40",
+                    option3: "17",
+                    option4: "12",
+                },
+                correctAnswer: "option2"
+            },
+            {
+                question: "Пайғамбарымыз қанша жыл өмір сүрген?",
+                options: {
+                    option1: "53 ж",
+                    option2: "61ж",
+                    option3: "50ж",
+                    option4: " Дұрыс жауап жоқ",
+                },
+                correctAnswer: "option4"
+            },
+            {
+                question: "Пайғамбарымыз қанша жасында Жәбірейіл періште арқылы Алладан аян ала бастады?",
+                options: {
+                    option1: "40",
+                    option2: "50",
+                    option3: "37",
+                    option4: "35",
+                },
+                correctAnswer: "option1"
+            },
+            {
+                question: "жалпы республикада қанша мешіт тіркелген?",
+                options: {
+                    option1: "2755",
+                    option2: "2752",
+                    option3: "2666",
+                    option4: "2500 ден астам",
+                },
+                correctAnswer: "option2"
+            },
+            {
+                question: "Пайғамбарымыздың жақын досы?",
+                options: {
+                    option1: "Омар (р.а)",
+                    option2: "Осман (р.а)",
+                    option3: "Әли (р.а)",
+                    option4: "Әбу Бәкір (р.а)",
+                },
+                correctAnswer: "option4"
+            },
+            {
+                question: "дәретте қанша парыз бар?",
+                options: {
+                    option1: "5",
+                    option2: "12",
+                    option3: "4",
+                    option4: "7",
+                },
+                correctAnswer: "option3"
+            }
+            // Добавьте дополнительные вопросы аналогичным образом
+        ];
+        let currentQuestion = 0;
+        let correctAnswers = 0;
+
+        function startGame() {
+            document.querySelector('.start-page').style.display = 'none';
+            document.querySelector('.game-page').style.display = 'block';
+            generateGrid();
+        }
+
+        function generateGrid() {
+            const gridContainer = document.getElementById('gridContainer');
+            gridContainer.innerHTML = '';
+
+            for (let i = 1; i <= 15; i++) {
+                const gridItem = document.createElement('div');
+                gridItem.className = 'grid-item';
+                gridItem.innerText = i;
+                gridItem.onclick = () => showQuestion(i);
+                gridContainer.appendChild(gridItem);
+            }
+        }
+
+        function showQuestion(cellNumber) {
+            document.querySelector('.start-page').style.display = 'none';
+            document.querySelector('.question-page').style.display = 'block';
+            document.querySelector('.game-page').style.display = 'none';
+
+            const selectedCell = document.querySelector('.selected-cell');
+            if (selectedCell) {
+                selectedCell.classList.remove('selected-cell');
+            }
+
+            const currentGridItem = document.querySelector(`.grid-item:nth-child(${cellNumber})`);
+            currentGridItem.classList.add('selected-cell');
+
+            // Отобразить текущий вопрос и варианты ответов
+            const currentQuestionData = questions[currentQuestion];
+            document.getElementById('questionNumber').innerText = currentQuestion + 1;
+            document.getElementById('question').innerText = currentQuestionData.question;
+
+            const answerButtons = document.querySelectorAll('.answer-button');
+            const options = Object.values(currentQuestionData.options);
+            for (let i = 0; i < answerButtons.length; i++) {
+                answerButtons[i].innerText = options[i];
+            }
+        }
+
+        function checkAnswer(selectedOption) {
+            const currentQuestionData = questions[currentQuestion];
+            const isCorrect = selectedOption === currentQuestionData.correctAnswer;
+
+            if (isCorrect) {
+                document.querySelector('.result-message').innerText = "Правильный ответ!";
+                correctAnswers++;
+            } else {
+                document.querySelector('.result-message').innerText = "Неправильный ответ!";
+            }
+
+            document.querySelector('.question-page').style.display = 'none';
+            document.querySelector('.game-page').style.display = 'block';
+
+            const selectedCell = document.querySelector('.selected-cell');
+            if (isCorrect) {
+                selectedCell.classList.add('correct-answer');
+            } else {
+                selectedCell.classList.add('wrong-answer');
+            }
+
+            currentQuestion++;
+
+            if (currentQuestion < questions.length) {
+                document.querySelector('.next-button').style.display = 'inline-block';
+            } else {
+                document.querySelector('.result-button').style.display = 'inline-block';
+            }
+        }
+
+
+
+        function goNext() {
+            if (currentQuestion < questions.length) {
+                generateGrid();
+                playRound();
+            }
+        }
+
+        function endGame() {
+            document.querySelector('.game-page').style.display = 'none';
+            document.querySelector('.result-page').style.display = 'block';
+
+            const resultMessage = document.getElementById('resultMessage');
+            resultMessage.innerText = `Вы ответили правильно на ${correctAnswers} из ${questions.length} вопросов.`;
+        }
+    </script>
+</body>
+</html>
