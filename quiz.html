@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 20px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .question {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        .variants {
+            list-style: none;
+            padding: 0;
+        }
+        .variants li {
+            margin-bottom: 10px;
+        }
+        .variants button {
+            width: 100%;
+            padding: 10px;
+            font-size: 1em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background: #e0e0e0;
+            transition: background 0.3s;
+        }
+        .variants button.correct {
+            background: #4caf50;
+            color: #fff;
+        }
+        .variants button.incorrect {
+            background: #f44336;
+            color: #fff;
+        }
+        .variants button:hover {
+            background: #d6d6d6;
+        }
+        .score {
+            text-align: center;
+            font-size: 1.5em;
+            margin-top: 20px;
+        }
+
+        /* Адаптивті дизайн */
+        @media (max-width: 600px) {
+            .container {
+                padding: 15px;
+                width: 90%;
+            }
+            .question {
+                font-size: 1em;
+            }
+            .variants button {
+                font-size: 0.9em;
+                padding: 12px;
+            }
+            .score {
+                font-size: 1.2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="quiz">
+            <!-- Викторина динамикалық түрде жүктеледі -->
+        </div>
+        <div id="score" class="score" style="display: none;">
+            <!-- Соңғы нәтижені көрсету -->
+        </div>
+    </div>
+
+    <script>
+        // URL параметрінен пәнді алу
+        const urlParams = new URLSearchParams(window.location.search);
+        const subjectFile = urlParams.get('subject');
+
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let questions = [];
+
+        // Сұрақтарды жүктеу
+        fetch(subjectFile)
+            .then(response => response.json())
+            .then(data => {
+                questions = shuffleArray(data); // Сұрақтар тізімін араластыру
+                loadQuestion();
+            });
+
+        // Сұрақтарды кездейсоқ ретке келтіру функциясы
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]]; // Элементтерді ауыстыру
+            }
+            return array;
+        }
+
+        // Варианттарды кездейсоқ ретке келтіру функциясы
+        function shuffleVariants(variants) {
+            for (let i = variants.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [variants[i], variants[j]] = [variants[j], variants[i]]; // Элементтерді ауыстыру
+            }
+            return variants;
+        }
+
+        function loadQuestion() {
+            const quizDiv = document.getElementById('quiz');
+            const scoreDiv = document.getElementById('score');
+
+            // Барлық сұрақтар шешілгенде нәтиже көрсету
+            if (currentQuestionIndex >= questions.length) {
+                quizDiv.style.display = 'none';
+                scoreDiv.style.display = 'block';
+                scoreDiv.innerHTML = `Сіздің соңғы ұпайыңыз: ${score} / ${questions.length}`;
+                return;
+            }
+
+            // Қазіргі сұрақты жүктеу
+            const questionData = questions[currentQuestionIndex];
+            const shuffledVariants = shuffleVariants(questionData.variants); // Варианттарды аралау
+
+            quizDiv.innerHTML = `
+                <div class="question">${questionData.question} (Сұрақ ${currentQuestionIndex + 1} / ${questions.length})</div>
+                <ul class="variants">
+                    ${shuffledVariants.map((variant, index) => `
+                        <li>
+                            <button onclick="checkAnswer(${index})">${variant.text}</button>
+                        </li>
+                    `).join('')}
+                </ul>
+            `;
+        }
+
+        function checkAnswer(selectedIndex) {
+            const questionData = questions[currentQuestionIndex];
+            const buttons = document.querySelectorAll('.variants button');
+
+            questionData.variants.forEach((variant, index) => {
+                if (variant.is_correct) {
+                    buttons[index].classList.add('correct');
+                }
+                if (index === selectedIndex && !variant.is_correct) {
+                    buttons[index].classList.add('incorrect');
+                }
+            });
+
+            // Ұпайды жаңарту
+            if (questionData.variants[selectedIndex].is_correct) {
+                score++;
+            }
+
+            // Келесі сұраққа өту
+            setTimeout(() => {
+                currentQuestionIndex++;
+                loadQuestion();
+            }, 1500);
+        }
+    </script>
+</body>
+</html>
