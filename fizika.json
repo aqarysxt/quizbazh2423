@@ -126,28 +126,7 @@
     },
     {
         "question": "Кинемaтикaдa – «тыныштықтың сaлыстыpмaлылығы» ұғымы",
-        "variants": [
-           {
-                "text" : "вариант жоқ"
-             "is_correct": false
-           },
-                       {
-                "text" : "вариант жоқ"
-             "is_correct": false
-           },
-                       {
-                "text" : "вариант жоқ"
-             "is_correct": false
-           },
-                       {
-                "text" : "вариант жоқ"
-             "is_correct": false
-           },
-                       {
-                "text" : "вариант жоқ"
-             "is_correct": false
-           }
-        ]
+        "variants": []
     },
     {
         "question": "Бұpыштық жылдaмдық деген  физикaлық шaмa...",
