@@ -1,0 +1,4998 @@
+[
+    {
+        "question": ".Семей ядролық полигонында алғашқы сынақ қашан өткізілді?",
+        "variants": [
+            {
+                "text": "1949 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1947 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1953 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1951 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1945 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Алаш\" партиясының көшбасшысы кім болды?",
+        "variants": [
+            {
+                "text": "Ә. Бөкейханов",
+                "is_correct": true
+            },
+            {
+                "text": "Т. Рысқұлов",
+                "is_correct": false
+            },
+            {
+                "text": "С. Сейфуллин.",
+                "is_correct": false
+            },
+            {
+                "text": "Ә. Жангельдинов",
+                "is_correct": false
+            },
+            {
+                "text": "К. Тоғысов",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Ғақлия\" көркем-философиялық шығармасының авторы кім?",
+        "variants": [
+            {
+                "text": "А. Құнанбаев",
+                "is_correct": true
+            },
+            {
+                "text": "Ш.Құдайбердиев.",
+                "is_correct": false
+            },
+            {
+                "text": "Ы. Алтынсарин",
+                "is_correct": false
+            },
+            {
+                "text": "А. Байтұрсынов",
+                "is_correct": false
+            },
+            {
+                "text": "Ш. Уәлиханов",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Қазақ КСР Мемлекеттік Егемендігі туралы Декларация\" қашан қабылданды?",
+        "variants": [
+            {
+                "text": "1990 ж. 25 қаңтарда",
+                "is_correct": true
+            },
+            {
+                "text": "1995 ж. 30 тамызда",
+                "is_correct": false
+            },
+            {
+                "text": "1991 ж. 16 желтоқсанда",
+                "is_correct": false
+            },
+            {
+                "text": "1990 ж. 1 мамырда.",
+                "is_correct": false
+            },
+            {
+                "text": "1989 ж. 25 қазанда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Қазақ\" апталық газетінің алғашқы редакторы?",
+        "variants": [
+            {
+                "text": "А. Байтұрсынов",
+                "is_correct": false
+            },
+            {
+                "text": "Ә. Бөкейханов",
+                "is_correct": true
+            },
+            {
+                "text": "С. Сейфуллин",
+                "is_correct": false
+            },
+            {
+                "text": "М. Жұмабаев",
+                "is_correct": false
+            },
+            {
+                "text": "М. Дулатов.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Қазақстан халқы Ассамблеясын құру туралы\" Президенттің Жарлығы қай жылы қабылданды?",
+        "variants": [
+            {
+                "text": "1995 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1999 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1997 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1996 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1998 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Ленинградтық өренім!\" өлеңінің авторы:",
+        "variants": [
+            {
+                "text": "Ж. Жабаев",
+                "is_correct": true
+            },
+            {
+                "text": "В. Вишневский.",
+                "is_correct": false
+            },
+            {
+                "text": "К. Әзірбаев",
+                "is_correct": false
+            },
+            {
+                "text": "Н. Байғанин",
+                "is_correct": false
+            },
+            {
+                "text": "О. Шипин",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Невада-Семей\" экологиялық қозғалысы қай жылы құрылды:",
+        "variants": [
+            {
+                "text": "1989 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1987 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1991 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1992 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1990 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "\"Тың\" ұғымына енген аймақтарды көрсетіңіз:",
+        "variants": [
+            {
+                "text": "Оңтүстік Сібір, Қазақстан, Орал, Солтүстік Кавказ",
+                "is_correct": true
+            },
+            {
+                "text": "Қазақстан, Орал, Солтүстік Кавказ.",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстан, Орал, Украина",
+                "is_correct": false
+            },
+            {
+                "text": "Оңтүстік Сібір, Қазақстан, Орал, Украина",
+                "is_correct": false
+            },
+            {
+                "text": "Солтүстік Кавказ, Қазақстан, Орал, Украина",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "“Алаш” партиясы қай жылы құрылды?",
+        "variants": [
+            {
+                "text": "1917 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1916 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1921 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1918 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1920 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "«Қырғыз (қазақ) халқының 1000 әні» және «Қазақ халқының 500 әні мен күйі» атты құнды жинақтарды жинап, жазған өнер зерттеушісі?",
+        "variants": [
+            {
+                "text": "А. Затаевич",
+                "is_correct": true
+            },
+            {
+                "text": "Е. Брусиловский",
+                "is_correct": false
+            },
+            {
+                "text": "М. Төлебаев",
+                "is_correct": false
+            },
+            {
+                "text": "Л. Хамиди",
+                "is_correct": false
+            },
+            {
+                "text": "А. Жұбанов.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "«Соғыс коммунизмі» кезеңіндегі ауыл шаруашылығы өнімдерін сатып алу жүйесі:",
+        "variants": [
+            {
+                "text": "артық иелену",
+                "is_correct": false
+            },
+            {
+                "text": "ақша салығы",
+                "is_correct": false
+            },
+            {
+                "text": "заттай салық.",
+                "is_correct": true
+            },
+            {
+                "text": "ақшалай-азық-түлік салығы",
+                "is_correct": false
+            },
+            {
+                "text": "азық-түлік салығы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1822-1824 жылдарға дейінгі реформа бойынша Қазақстан территориясы неше генерал-губернаторлыққа бөлінді?",
+        "variants": [
+            {
+                "text": "2",
+                "is_correct": true
+            },
+            {
+                "text": "3",
+                "is_correct": false
+            },
+            {
+                "text": "1.",
+                "is_correct": false
+            },
+            {
+                "text": "5",
+                "is_correct": false
+            },
+            {
+                "text": "4",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1867-1868 жылдардағы реформа бойынша Қазақстан территориясы неше генерал-губернаторлыққа бөлінді?",
+        "variants": [
+            {
+                "text": "3",
+                "is_correct": true
+            },
+            {
+                "text": "6.",
+                "is_correct": false
+            },
+            {
+                "text": "4Ө",
+                "is_correct": false
+            },
+            {
+                "text": "2",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1906-1912 жж. Столыпинның аграрлық реформасы кезінде қазақ халқынан қанша жер тартып алынды?",
+        "variants": [
+            {
+                "text": "17 млн. десятина",
+                "is_correct": true
+            },
+            {
+                "text": "20 млн. десятина",
+                "is_correct": false
+            },
+            {
+                "text": "14 млн. десятина",
+                "is_correct": false
+            },
+            {
+                "text": "5 млн. десятина.",
+                "is_correct": false
+            },
+            {
+                "text": "10 млн. десятина",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1916 жылғы көтерілістің себебі:",
+        "variants": [
+            {
+                "text": "1916 жылғы 25 маусымдағы патша жарлығы",
+                "is_correct": true
+            },
+            {
+                "text": "либерал-демократиялық зиялы қауымның үндеуі",
+                "is_correct": false
+            },
+            {
+                "text": "отарлық саясат",
+                "is_correct": false
+            },
+            {
+                "text": "жерді тартып алу",
+                "is_correct": false
+            },
+            {
+                "text": "болыс билеушісін өлтіру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1916 жылғы ұлт-азаттық көтеріліс қандай аумақты қамтыды:",
+        "variants": [
+            {
+                "text": "бүкіл Қазақстанды",
+                "is_correct": true
+            },
+            {
+                "text": "Торғай облысы.",
+                "is_correct": false
+            },
+            {
+                "text": "Ақмола облысы",
+                "is_correct": false
+            },
+            {
+                "text": "Семей облысы",
+                "is_correct": false
+            },
+            {
+                "text": "Жетісу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1917 жылға қарай қазақтардан тартып алынған жердің көлемі:",
+        "variants": [
+            {
+                "text": "45 млн.",
+                "is_correct": true
+            },
+            {
+                "text": "37 млн.",
+                "is_correct": false
+            },
+            {
+                "text": "57 млн.",
+                "is_correct": false
+            },
+            {
+                "text": "17 млн.",
+                "is_correct": false
+            },
+            {
+                "text": "27 млн.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1920 жылғы 4 қазанда Орынборда өткен Қазақстан Кеңестерінің Құрылтай съезінде Қазақ АКСР-нің Орталық Атқару Комитеті төрағасы болып кім сайланды:",
+        "variants": [
+            {
+                "text": "С. Меңдешев",
+                "is_correct": true
+            },
+            {
+                "text": "Б. Қаратаев",
+                "is_correct": false
+            },
+            {
+                "text": "В. Радус-Зенкович.",
+                "is_correct": false
+            },
+            {
+                "text": "Ә. Бөкейханов",
+                "is_correct": false
+            },
+            {
+                "text": "А. Байтұрсынов",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1921 жылғы жер-су реформасының негізгі мақсаты:",
+        "variants": [
+            {
+                "text": "патша үкіметі тартып алған жерлерді қазақтарға қайтарып беру",
+                "is_correct": true
+            },
+            {
+                "text": "себу үшін тұқым бөлу",
+                "is_correct": false
+            },
+            {
+                "text": "аштықты жою.",
+                "is_correct": false
+            },
+            {
+                "text": "Түркістанға бауырластық көмек көрсету",
+                "is_correct": false
+            },
+            {
+                "text": "барлық жерлерді мемлекеттің қарамағына беру",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1921 жылы қазанда өткен Кеңестердің екінші Бүкілқазақстандық съезінде аса маңызды міндет ретінде айқындалды:",
+        "variants": [
+            {
+                "text": "ауылдағы кеңестік құрылыс",
+                "is_correct": false
+            },
+            {
+                "text": "индустрияландыру",
+                "is_correct": false
+            },
+            {
+                "text": "мәдени революция",
+                "is_correct": false
+            },
+            {
+                "text": "репрессиялық саясатты күшейту",
+                "is_correct": false
+            },
+            {
+                "text": "ұжымдастыру.",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "question": "1925 жылы желтоқсанда өткен \"ауылды кеңестендіру туралы\" V аймақтық партия конференциясының шешіміне күрт серпін берді:",
+        "variants": [
+            {
+                "text": "таптық күрестің шиеленісуі",
+                "is_correct": true
+            },
+            {
+                "text": "ауылдың әл-ауқатын жақсарту.",
+                "is_correct": false
+            },
+            {
+                "text": "ауылдың әлеуметтік стратификациясы",
+                "is_correct": false
+            },
+            {
+                "text": "ауылдың әлеуметтік өмірін тұрақтандыру",
+                "is_correct": false
+            },
+            {
+                "text": "жер-су реформасы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1925 жылы Қазақ АКСР-нің астанасы болған қала:",
+        "variants": [
+            {
+                "text": "Қызылорда",
+                "is_correct": true
+            },
+            {
+                "text": "Семей",
+                "is_correct": false
+            },
+            {
+                "text": "Алматы",
+                "is_correct": false
+            },
+            {
+                "text": "Орынбор.",
+                "is_correct": false
+            },
+            {
+                "text": "Омбы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1925-1933 жылдары Қазревкомның бірінші хатшысы:",
+        "variants": [
+            {
+                "text": "Ф. Голощекин",
+                "is_correct": true
+            },
+            {
+                "text": "Т. Қазабеков.",
+                "is_correct": false
+            },
+            {
+                "text": "Т. Рысқұлов",
+                "is_correct": false
+            },
+            {
+                "text": "С. Сәдуақасов",
+                "is_correct": false
+            },
+            {
+                "text": "Д. Омаров",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1945 жылы Берлинде Рейхстагтағы жеңіс туын көтерген қазақстандық?",
+        "variants": [
+            {
+                "text": "Р. Қошқарбаев",
+                "is_correct": true
+            },
+            {
+                "text": "Р. Караманов",
+                "is_correct": false
+            },
+            {
+                "text": "Х. Қайдауов",
+                "is_correct": false
+            },
+            {
+                "text": "Х. Көбеков",
+                "is_correct": false
+            },
+            {
+                "text": "А. Еремеев.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1954 жылы наурызда КОКП Орталық Комитетінің пленумында қандай қаулы қабылданды?",
+        "variants": [
+            {
+                "text": "Астық өндіруді арттыру, тың және тыңайған жерлерді игеру туралы",
+                "is_correct": true
+            },
+            {
+                "text": "Алматы Қаз КСР астанасы болып жарияланды",
+                "is_correct": false
+            },
+            {
+                "text": "Жердің жасанды спутнигін алғаш рет ұшыру жөнінде.",
+                "is_correct": false
+            },
+            {
+                "text": "Түрксіб құрылысының аяқталғандығы жөнінде",
+                "is_correct": false
+            },
+            {
+                "text": "колхоздарды совхоздарға айналдыру жөніндегі қаулы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1970 жылға қарай республиканың халық шаруашылығының қай салалары жалпыодақтық маңызға ие болды:",
+        "variants": [
+            {
+                "text": "мұнай өндіру және химиялық",
+                "is_correct": false
+            },
+            {
+                "text": "жеңіл және тамақ",
+                "is_correct": false
+            },
+            {
+                "text": "машина жасау және металлургия",
+                "is_correct": true
+            },
+            {
+                "text": "ет-сүт",
+                "is_correct": false
+            },
+            {
+                "text": "Ағаш өңдеу.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1980 жылдары қазақстандық өнімді сыртқа шығарудың 97 \\% құраған:",
+        "variants": [
+            {
+                "text": "шикізат",
+                "is_correct": true
+            },
+            {
+                "text": "мебель",
+                "is_correct": false
+            },
+            {
+                "text": "электр товарлары.",
+                "is_correct": false
+            },
+            {
+                "text": "киім-кешек",
+                "is_correct": false
+            },
+            {
+                "text": "құрал-жабдық",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1985-1991 жылдары КСРО-да жүргізілген саясат:",
+        "variants": [
+            {
+                "text": "қайта құру",
+                "is_correct": true
+            },
+            {
+                "text": "жаңа курс.",
+                "is_correct": false
+            },
+            {
+                "text": "реставрация",
+                "is_correct": false
+            },
+            {
+                "text": "реконструкция",
+                "is_correct": false
+            },
+            {
+                "text": "жаңа экономикалық саясат",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1986 Жылғы Желтоқсан оқиғасының қатысушылары қай жылы Алматы қаласында \"Желтоқсан\" партиясын құрды?",
+        "variants": [
+            {
+                "text": "1990 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1988 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1987 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1989 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1991 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1986 жылғы желтоқсандағы Алматы қаласындағы оқиғаларды КОКП ОК Пленумы 1987 жылғы шілдеде былай бағалады:",
+        "variants": [
+            {
+                "text": "\"қазақ ұлтшылдығының\" көрінісі",
+                "is_correct": true
+            },
+            {
+                "text": "ынтымақтастықты көрсету",
+                "is_correct": false
+            },
+            {
+                "text": "жастардың демократиялық ой-пікірі.",
+                "is_correct": false
+            },
+            {
+                "text": "азаматтардың еркін ойын білдіруі",
+                "is_correct": false
+            },
+            {
+                "text": "ұлт-азаттық қозғалыс",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1991 жылы желтоқсанда ТМД-ға неше республика кірді:",
+        "variants": [
+            {
+                "text": "11 республика",
+                "is_correct": true
+            },
+            {
+                "text": "10 республика",
+                "is_correct": false
+            },
+            {
+                "text": "9 республика",
+                "is_correct": false
+            },
+            {
+                "text": "8 республика.",
+                "is_correct": false
+            },
+            {
+                "text": "7 республика",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1992 жылы 2 наурызда Қазақстан өмірінде қандай оқиға болды:",
+        "variants": [
+            {
+                "text": "Қазақстан БҰҰ-ның мүшелігіне қабылданды",
+                "is_correct": true
+            },
+            {
+                "text": "жекешелендіру туралы заң қабылданды",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстан ДДҰ-ның мүшесі болды",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстан Президентін сайлау",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстанның Егемендігі туралы жарияланды.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1993 жылы Президент Н.Ә. Назарбаев қол қойған Лиссабон хаттамасында Қазақстан қандай мемлекет деп жарияланды:",
+        "variants": [
+            {
+                "text": "ядролық қарудан бос аймақ",
+                "is_correct": true
+            },
+            {
+                "text": "құқықтық мемлекет",
+                "is_correct": false
+            },
+            {
+                "text": "еркін экономикалық аймақ.",
+                "is_correct": false
+            },
+            {
+                "text": "демократиялық мемлекет",
+                "is_correct": false
+            },
+            {
+                "text": "егеменді мемлекет",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1995 жылғы Конституцияға сәйкес Қазақстанда басқарудың қандай түрі қолданылады?",
+        "variants": [
+            {
+                "text": "Президенттік",
+                "is_correct": true
+            },
+            {
+                "text": "монархиялық",
+                "is_correct": false
+            },
+            {
+                "text": "аралас",
+                "is_correct": false
+            },
+            {
+                "text": "парламенттік",
+                "is_correct": false
+            },
+            {
+                "text": "теократиялық.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ақмола қаласы қашан Астана болып өзгертілді?",
+        "variants": [
+            {
+                "text": "1998 ж. 6 мамырда",
+                "is_correct": true
+            },
+            {
+                "text": "1990 ж. 10 сәуірде",
+                "is_correct": false
+            },
+            {
+                "text": "1999 ж. 25 қазанда.",
+                "is_correct": false
+            },
+            {
+                "text": "2000 ж. 4 қазанда",
+                "is_correct": false
+            },
+            {
+                "text": "1998 ж. 20 желтоқсанда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Алаш партиясының бағдарламасы қай газетте жарияланды?",
+        "variants": [
+            {
+                "text": "«Қазақ» газетінде",
+                "is_correct": true
+            },
+            {
+                "text": "«Правда» газетінде",
+                "is_correct": false
+            },
+            {
+                "text": "«Ақжол» газетінде",
+                "is_correct": false
+            },
+            {
+                "text": "Айқап газетінде",
+                "is_correct": false
+            },
+            {
+                "text": "«Еңбекші қазақ» газетінде.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Алғашқы төрағасы М.Әйтпенов, К.Төгісов болған ұлттық-саяси ұйым?",
+        "variants": [
+            {
+                "text": "\"Үш жүз\"",
+                "is_correct": true
+            },
+            {
+                "text": "\"Жас қазақ\"",
+                "is_correct": false
+            },
+            {
+                "text": "\"Жанар\"",
+                "is_correct": false
+            },
+            {
+                "text": "\"Талап\"",
+                "is_correct": false
+            },
+            {
+                "text": "\"Желтоқсан\".",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Алматы қаласында АӨСШК-нің бірінші саммиті (Азиядағы өзара іс-қимыл және сенім шаралары жөніндегі кеңес қашан өтті?",
+        "variants": [
+            {
+                "text": "2002 ж. маусымда",
+                "is_correct": true
+            },
+            {
+                "text": "2003 ж. тамызда",
+                "is_correct": false
+            },
+            {
+                "text": "2002 ж. қарашада",
+                "is_correct": false
+            },
+            {
+                "text": "2003 ж. шілдеде",
+                "is_correct": false
+            },
+            {
+                "text": "2002 ж. мамырда.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Алматыда медициналық институт өзінің алғашқы оқу жылын қай жылы бастады?",
+        "variants": [
+            {
+                "text": "1931 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1940 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1934 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1930 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1928 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ахмет Байтұрсыновтың 1919 жылы жарияланған саяси мақаласы:",
+        "variants": [
+            {
+                "text": "Революция және қазақтар",
+                "is_correct": true
+            },
+            {
+                "text": "Маса",
+                "is_correct": false
+            },
+            {
+                "text": "Тағы бір соғыс",
+                "is_correct": false
+            },
+            {
+                "text": "Оян қазақ",
+                "is_correct": false
+            },
+            {
+                "text": "Мұсылмандық жағдайлар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Бірінші бесжылдық жылдары:",
+        "variants": [
+            {
+                "text": "1928-1932 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "1924-1928 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1935-1940 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1929-1933 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1930-1934 жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Генерал-майор И.В. Панфилов қай дивизияны басқарды?",
+        "variants": [
+            {
+                "text": "316-шы атқыштар дивизиясы",
+                "is_correct": true
+            },
+            {
+                "text": "238-ші атқыштар дивизиясы",
+                "is_correct": false
+            },
+            {
+                "text": "30-шы гвардиялық атқыштар дивизиясы",
+                "is_correct": false
+            },
+            {
+                "text": "73-ші гвардиялық атқыштар дивизиясы.",
+                "is_correct": false
+            },
+            {
+                "text": "5-ші гвардиялық дивизия",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Дінмұхамед Ахметұлы Қонаев Қазақстанды қай жылдары басқарды?",
+        "variants": [
+            {
+                "text": "1960 жылғы қаңтардан 1986 жылғы желтоқсанға дейін",
+                "is_correct": true
+            },
+            {
+                "text": "1960 жылғы қаңтардан 1987 жылғы қыркүйекке дейін",
+                "is_correct": false
+            },
+            {
+                "text": "1965 жылғы наурыздан 1986 жылғы қарашаға дейін.",
+                "is_correct": false
+            },
+            {
+                "text": "1964 жылғы қазаннан 1984 жылғы қарашаға дейін",
+                "is_correct": false
+            },
+            {
+                "text": "1972 жылғы наурыздан 1985 жылғы қаңтарға дейін",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Егемен Қазақстанның алғашқы Конституциясы қашан қабылданды?",
+        "variants": [
+            {
+                "text": "1993 ж. қаңтарда",
+                "is_correct": false
+            },
+            {
+                "text": "1994 ж. қаңтарда",
+                "is_correct": false
+            },
+            {
+                "text": "1994 ж. тамызда",
+                "is_correct": false
+            },
+            {
+                "text": "1995 ж. желтоқсанда.",
+                "is_correct": true
+            },
+            {
+                "text": "1993 ж. тамызда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Еңбек процесінде мүдделер қауымдастығына негізделген жұмысшылардың жаппай ұйымы:",
+        "variants": [
+            {
+                "text": "кәсіподақ",
+                "is_correct": true
+            },
+            {
+                "text": "колхоз.",
+                "is_correct": false
+            },
+            {
+                "text": "кеңестер",
+                "is_correct": false
+            },
+            {
+                "text": "партия",
+                "is_correct": false
+            },
+            {
+                "text": "комсомол",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Еуразиялық мемлекеттер одағының идеясын кім ұсынды:",
+        "variants": [
+            {
+                "text": "Н. Назарбаев",
+                "is_correct": true
+            },
+            {
+                "text": "И. Каримов",
+                "is_correct": false
+            },
+            {
+                "text": "Г. Алиев.",
+                "is_correct": false
+            },
+            {
+                "text": "А. Ақаев",
+                "is_correct": false
+            },
+            {
+                "text": "Б. Ельцин",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жезқазған мысын кім ашты және зерттеді?",
+        "variants": [
+            {
+                "text": "Қ. Сәтбаев",
+                "is_correct": true
+            },
+            {
+                "text": "Ф. Голощекин",
+                "is_correct": false
+            },
+            {
+                "text": "Ә. Бөкейханов.",
+                "is_correct": false
+            },
+            {
+                "text": "Ғ. Мұратбаев",
+                "is_correct": false
+            },
+            {
+                "text": "Т. Рысқұлов",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Исатай Тайманұлы мен Махамбет Өтемісұлы бастаған ұлт-азаттық көтеріліс қашан болды?",
+        "variants": [
+            {
+                "text": "1836-1838 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "1839 – 1841 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1835-1838 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1838-1842 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1834- 1836 жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кеңес Одағы Коммунистік партиясының ХХ съезінің тарихи маңызы неде?",
+        "variants": [
+            {
+                "text": "Сталиннің жеке басына табыну әшкереленді.",
+                "is_correct": true
+            },
+            {
+                "text": "\"Американы қуып жету және басып озу\" курсы қабылданды",
+                "is_correct": false
+            },
+            {
+                "text": "1944-1945 жылдары жер аударылған халықтарды оңалту туралы жарияланды.",
+                "is_correct": false
+            },
+            {
+                "text": "халық шаруашылықтарын құру",
+                "is_correct": false
+            },
+            {
+                "text": "ауыл шаруашылығы реформасы әзірленді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кеңес Одағының Батыры атағын екі мәрте алғандар?",
+        "variants": [
+            {
+                "text": "С.Луганский, Т.Бигелдинов, И.Павлов, Л.Беда",
+                "is_correct": true
+            },
+            {
+                "text": "А.Егоров, З.Құсайынов, Қ.Қайсенов",
+                "is_correct": false
+            },
+            {
+                "text": "Ә.Молдағұлова, В.Безголосов, И.Сүлейменов",
+                "is_correct": false
+            },
+            {
+                "text": "В.Клочков, К.Семенченко, И.Карпов",
+                "is_correct": false
+            },
+            {
+                "text": "Б.Момышұлы, Ш.Жексенбаев, С.Рақымов",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кеңес өкіметін құруда белсенді қатысушыларын бөліп көрсетіңіз:",
+        "variants": [
+            {
+                "text": "Ә. Жангелдин, С. Сейфуллин",
+                "is_correct": true
+            },
+            {
+                "text": "К. Тоғысов, М. Тынышпаев",
+                "is_correct": false
+            },
+            {
+                "text": "Ж.Досмұхамедов, С. Асфендияров.",
+                "is_correct": false
+            },
+            {
+                "text": "Ә. Бөкейханов, А. Байтұрсынов",
+                "is_correct": false
+            },
+            {
+                "text": "М. Шоқаев, Ш. Құдайбердиев",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ АКСР-ін құру туралы Декрет қашан шықты?",
+        "variants": [
+            {
+                "text": "1920 ж. тамызда",
+                "is_correct": false
+            },
+            {
+                "text": "1925 ж. сәуірде",
+                "is_correct": false
+            },
+            {
+                "text": "1920 ж. қазанда.",
+                "is_correct": true
+            },
+            {
+                "text": "1918 ж. сәуірде",
+                "is_correct": false
+            },
+            {
+                "text": "1919 ж. шілдеде",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ АКСР-нің одақтас республикаға айналуы қашан орын алды:",
+        "variants": [
+            {
+                "text": "1936 жылғы 5 желтоқсанда",
+                "is_correct": true
+            },
+            {
+                "text": "1937 жылғы 5 желтоқсанда.",
+                "is_correct": false
+            },
+            {
+                "text": "1934 жылғы 5 желтоқсанда",
+                "is_correct": false
+            },
+            {
+                "text": "1938 жылғы 5 желтоқсанда",
+                "is_correct": false
+            },
+            {
+                "text": "1935 жылғы 5 желтоқсанда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ даласын басқару жөніндегі «Қатынас қағазы» жобасын дайындау үшін «Дала комиссиясы» қай жылы құрылды?",
+        "variants": [
+            {
+                "text": "1865 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1880 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1870 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1860 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1875 ж",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ КСР Ғылым Академиясының тұңғыш президенті кім болды ?",
+        "variants": [
+            {
+                "text": "Қ. Сәтбаев",
+                "is_correct": true
+            },
+            {
+                "text": "А. Байтұрсынов.",
+                "is_correct": false
+            },
+            {
+                "text": "О. Сүлейменов",
+                "is_correct": false
+            },
+            {
+                "text": "М. Қозыбаев",
+                "is_correct": false
+            },
+            {
+                "text": "Е. Бекмаханов",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ КСР-нің \"Тіл туралы\" Заңы қашан қабылданды:",
+        "variants": [
+            {
+                "text": "1989 ж. 22 қыркүйекте",
+                "is_correct": true
+            },
+            {
+                "text": "1987 ж. 22 қыркүйекте",
+                "is_correct": false
+            },
+            {
+                "text": "1991 ж. 22 қыркүйекте.",
+                "is_correct": false
+            },
+            {
+                "text": "1988 ж. 22 қыркүйекте",
+                "is_correct": false
+            },
+            {
+                "text": "1990 ж. 22 қыркүйекте",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан әлемде территориясы жөнінен нешінші орын алады?",
+        "variants": [
+            {
+                "text": "9-ші",
+                "is_correct": true
+            },
+            {
+                "text": "8-шы",
+                "is_correct": false
+            },
+            {
+                "text": "5-ші",
+                "is_correct": false
+            },
+            {
+                "text": "10-шы",
+                "is_correct": false
+            },
+            {
+                "text": "6-шы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан Орталық атқару комитеті \"қырғыз (қазақ) тілінде іс жүргізуді енгізу туралы\" Жарлықты қашан қабылдады?",
+        "variants": [
+            {
+                "text": "1923 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1929 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1924 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1931 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1927 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан Республикасы Ғылым Академиясының құрылған жылы?",
+        "variants": [
+            {
+                "text": "1946 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1944 ж",
+                "is_correct": false
+            },
+            {
+                "text": "1945 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1948 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1947 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан Республикасы Президентінің алғашқы жалпыхалықтық сайлауы өткізілді:",
+        "variants": [
+            {
+                "text": "1991 жылдың 1-желтоқсанында",
+                "is_correct": true
+            },
+            {
+                "text": "1993 жылдың 28-қаңтарында.",
+                "is_correct": false
+            },
+            {
+                "text": "1991 жылдың 16-желтоқсанында",
+                "is_correct": false
+            },
+            {
+                "text": "1992 жылдың 22-наурызында",
+                "is_correct": false
+            },
+            {
+                "text": "1990 жылдың 25-қазанында",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан Республикасының Конституциясы бойынша мемлекеттің ең жоғары құндылықтары?",
+        "variants": [
+            {
+                "text": "адам, оның өмірі, құқықтары мен бостандықтары",
+                "is_correct": true
+            },
+            {
+                "text": "мәдениет ескерткіштері",
+                "is_correct": false
+            },
+            {
+                "text": "мәдени жетістіктер.",
+                "is_correct": false
+            },
+            {
+                "text": "архитектуралық ескерткіштер",
+                "is_correct": false
+            },
+            {
+                "text": "экономикалық жетістіктер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан Республикасының Конституциясына сәйкес мемлекеттік құрылым нысаны бойынша:",
+        "variants": [
+            {
+                "text": "унитарлық",
+                "is_correct": true
+            },
+            {
+                "text": "федеративтік",
+                "is_correct": false
+            },
+            {
+                "text": "авторитарлық",
+                "is_correct": false
+            },
+            {
+                "text": "аралас",
+                "is_correct": false
+            },
+            {
+                "text": "конфедеративтік",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан Республикасының Конституциясына сәйкес оның әрбір азаматының қасиетті борышы мен міндеті:",
+        "variants": [
+            {
+                "text": "Қазақстан Республикасын қорғау",
+                "is_correct": true
+            },
+            {
+                "text": "тарих және мәдениет ескерткіштерін сақтау.",
+                "is_correct": false
+            },
+            {
+                "text": "табиғатты қорғау",
+                "is_correct": false
+            },
+            {
+                "text": "ҚР Мемлекеттік рәміздерін құрметтеу",
+                "is_correct": false
+            },
+            {
+                "text": "Конституцияны сақтау",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан Республикасының Конституциясына сәйкес республикадағы мемлекеттік биліктің жалғыз көзі:",
+        "variants": [
+            {
+                "text": "халық",
+                "is_correct": true
+            },
+            {
+                "text": "мәдениет қайраткерлері",
+                "is_correct": false
+            },
+            {
+                "text": "мемлекеттік қызметкерлер",
+                "is_correct": false
+            },
+            {
+                "text": "министрлік.",
+                "is_correct": false
+            },
+            {
+                "text": "билік",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан халқының бірлігін нығайтуға бағытталған ірі қоғамдық ұйым",
+        "variants": [
+            {
+                "text": "Қазақстан жазушылар одағы",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстан халқы Ассамблеясы",
+                "is_correct": true
+            },
+            {
+                "text": "Қазақстан журналистер одағы",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстандағы тарихи және мәдени ескерткіштерді қорғау ұйымы",
+                "is_correct": false
+            },
+            {
+                "text": "Бала құқығын қорғау ұйымы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстанда ақпан төңкерісінен кейін құрылған «Қос үкіметті» көрсет?",
+        "variants": [
+            {
+                "text": "Уақытша үкімет және жұмысшылар мен сарбаздар депутаттарының Кеңестері",
+                "is_correct": true
+            },
+            {
+                "text": "пролетариат диктатурасы және монархияның күші",
+                "is_correct": false
+            },
+            {
+                "text": "Уақытша үкімет және монархиялық билік.",
+                "is_correct": false
+            },
+            {
+                "text": "шаруа депутаттары және казактар",
+                "is_correct": false
+            },
+            {
+                "text": "Уақытша үкімет",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстанда индустрияландыруға бағыт жүргізу қай жылы ұсынылды?",
+        "variants": [
+            {
+                "text": "1925 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1928 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1926 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1927 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1930 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстандағы әлемдегі алғашқы атом суын тұщыландыру станциясы қай жағалауда салынды:",
+        "variants": [
+            {
+                "text": "Каспий теңізі.",
+                "is_correct": true
+            },
+            {
+                "text": "Зайсан көлі",
+                "is_correct": false
+            },
+            {
+                "text": "Балқаш көлі",
+                "is_correct": false
+            },
+            {
+                "text": "Арал теңізі",
+                "is_correct": false
+            },
+            {
+                "text": "Алакөл көлі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстандағы бірінші жоғары оқу орны:",
+        "variants": [
+            {
+                "text": "Қазақ педагогикалық институты",
+                "is_correct": false
+            },
+            {
+                "text": "Алматы мемлекеттік медицина институты",
+                "is_correct": false
+            },
+            {
+                "text": "Алматы зооветеринарлық институты.",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақ мемлекеттік университеті",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақ ауыл шаруашылығы институты",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстандағы ең үлкен сталиндік лагерь?",
+        "variants": [
+            {
+                "text": "Карлаг",
+                "is_correct": true
+            },
+            {
+                "text": "Степлаг",
+                "is_correct": false
+            },
+            {
+                "text": "Қостанай түрмесі",
+                "is_correct": false
+            },
+            {
+                "text": "Өскемен түрмесі",
+                "is_correct": false
+            },
+            {
+                "text": "Алжир.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстандағы индустрияландыру қорытындылары туралы \"Қазақстан отар болып келді және солай қалды\"деген сөздерді кім айтты?",
+        "variants": [
+            {
+                "text": "С. Сәдуақасов",
+                "is_correct": false
+            },
+            {
+                "text": "Д. Омаров",
+                "is_correct": false
+            },
+            {
+                "text": "Ф. Голощекин",
+                "is_correct": true
+            },
+            {
+                "text": "Т. Күзембаев.",
+                "is_correct": false
+            },
+            {
+                "text": "О. Жандосов",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстанды индустрияландырудың басты бағыты:",
+        "variants": [
+            {
+                "text": "шикізат салаларын дамыту",
+                "is_correct": true
+            },
+            {
+                "text": "автомобиль жасауды дамыту",
+                "is_correct": false
+            },
+            {
+                "text": "машина жасауды дамыту",
+                "is_correct": false
+            },
+            {
+                "text": "трактор жасауды дамыту.",
+                "is_correct": false
+            },
+            {
+                "text": "электрониканы дамыту",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстанның көрнекті мемлекет және қоғам қайраткерлері Т. Рысқұлов, О. Жандосов, Ж. Сәдуақасов, Л. Мирзоян, Н. Нұрмақов, А. Сафарбеков қай жылдары қуғын-сүргінге ұшырады?",
+        "variants": [
+            {
+                "text": "1937-1938 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "1940-1941 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1936-1937 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1934-1935 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1935-1936 жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай жылдары Қазақтардың дүниежүзілік құрылтайлары өтті?",
+        "variants": [
+            {
+                "text": "1992 ж., 2002 ж., 2005 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1992 ж., 2012 ж., 2014 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1992 ж., 2001 ж., 2011 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1992 ж., 2002 ж., 2012 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1991 ж., 2005 ж., 2012 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай қалада Ы.Алтынсарин алғашқы қазақ қыздарына арналған мектеп-интернатын ашты?",
+        "variants": [
+            {
+                "text": "Ырғыз",
+                "is_correct": false
+            },
+            {
+                "text": "Қостанай",
+                "is_correct": false
+            },
+            {
+                "text": "Торғай.",
+                "is_correct": false
+            },
+            {
+                "text": "Орал",
+                "is_correct": false
+            },
+            {
+                "text": "Орынбор",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "question": "Қашан Алматыда тұңғыш Азиядағы өзара сенім мен ынтымақтастық кеңесі (АӨСШК) саммиті өтті:",
+        "variants": [
+            {
+                "text": "2002 ж. 3-5 маусымда.",
+                "is_correct": true
+            },
+            {
+                "text": "2003 ж. шілдеде.",
+                "is_correct": false
+            },
+            {
+                "text": "2005 ж. 3-5 шілде.",
+                "is_correct": false
+            },
+            {
+                "text": "2004 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "2001 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қоянды жәрмеңкесінің негізін қалаған көпес?",
+        "variants": [
+            {
+                "text": "Ботов",
+                "is_correct": true
+            },
+            {
+                "text": "Скажутин",
+                "is_correct": false
+            },
+            {
+                "text": "Ушаков",
+                "is_correct": false
+            },
+            {
+                "text": "Попов.",
+                "is_correct": false
+            },
+            {
+                "text": "Колосова",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қырғыз (Қазақ) АКСР-нің бірінші астанасы:",
+        "variants": [
+            {
+                "text": "Орынбор",
+                "is_correct": true
+            },
+            {
+                "text": "Қызылорда",
+                "is_correct": false
+            },
+            {
+                "text": "Ташкент",
+                "is_correct": false
+            },
+            {
+                "text": "Омбы.",
+                "is_correct": false
+            },
+            {
+                "text": "Орал",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Мәскеу шайқасында Бауыржан Момышұлы қандай әскери жасақты басқарды?",
+        "variants": [
+            {
+                "text": "батальон",
+                "is_correct": true
+            },
+            {
+                "text": "взвод",
+                "is_correct": false
+            },
+            {
+                "text": "компания",
+                "is_correct": false
+            },
+            {
+                "text": "дивизия.",
+                "is_correct": false
+            },
+            {
+                "text": "корпус",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Орыс және украин шаруаларының Қазақстан жеріне жаппай көшірілуі қашан басталды?",
+        "variants": [
+            {
+                "text": "ХIХ ғасырдың 60-жылдарында",
+                "is_correct": true
+            },
+            {
+                "text": "ХIХ ғасырдың басында",
+                "is_correct": false
+            },
+            {
+                "text": "XVIII ғасырдың 60-жылдары.",
+                "is_correct": false
+            },
+            {
+                "text": "ХХ ғасырдың басында",
+                "is_correct": false
+            },
+            {
+                "text": "ХVIII ғасырда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Президенттің \"Қазақстан – 2030\" Жолдауында республиканы дамытудағы бірінші стратегиялық басымдық болып табылады::",
+        "variants": [
+            {
+                "text": "Ұлттық қауіпсіздік",
+                "is_correct": true
+            },
+            {
+                "text": "денсаулық, білім",
+                "is_correct": false
+            },
+            {
+                "text": "экономикалық өсу",
+                "is_correct": false
+            },
+            {
+                "text": "кәсіби мемлекет",
+                "is_correct": false
+            },
+            {
+                "text": "ішкі саяси тұрақтылық.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ресей империясындағы халықтың демографиялық, әлеуметтік жағдайы айқындалған алғашқы халық санағы қашан болды?",
+        "variants": [
+            {
+                "text": "1897 ж",
+                "is_correct": true
+            },
+            {
+                "text": "1882 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1881 ж",
+                "is_correct": false
+            },
+            {
+                "text": "1880 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1896 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Республикалық референдумда Қазақстанның жаңа Конституциясы қашан қабылданды?",
+        "variants": [
+            {
+                "text": "1995 ж. 30 тамызда",
+                "is_correct": true
+            },
+            {
+                "text": "1994 ж. 30 тамызда",
+                "is_correct": false
+            },
+            {
+                "text": "1992 ж. 30 тамызда",
+                "is_correct": false
+            },
+            {
+                "text": "1996 ж. 30 тамызда.",
+                "is_correct": false
+            },
+            {
+                "text": "1993 ж. 30 тамызда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сібірді Орта Азиямен байланыстыратын Түркістан-Сібір темір жолының құрылысы қашан басталды?",
+        "variants": [
+            {
+                "text": "1927 жылы",
+                "is_correct": true
+            },
+            {
+                "text": "1928 жылы.",
+                "is_correct": false
+            },
+            {
+                "text": "1925 жылы",
+                "is_correct": false
+            },
+            {
+                "text": "1929 жылы",
+                "is_correct": false
+            },
+            {
+                "text": "1926 жылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Соғыстан кейінгі бес жылдық жоспардың негізгі міндеті қандай?",
+        "variants": [
+            {
+                "text": "халық шаруашылығын қалпына келтіру және одан әрі дамыту",
+                "is_correct": true
+            },
+            {
+                "text": "халықаралық экономикалық интеграцияны күшейту",
+                "is_correct": false
+            },
+            {
+                "text": "экономикалық көрсеткіштер бойынша АҚШ-ты қуып жету және басып озу",
+                "is_correct": false
+            },
+            {
+                "text": "қиыр солтүстік аудандарын игеру",
+                "is_correct": false
+            },
+            {
+                "text": "көмір өнеркәсібін дамыту.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Соғыстан кейінгі кезеңде экономикалық саясаттың қай қағидасы басым болды?",
+        "variants": [
+            {
+                "text": "ауыр өнеркәсіптің жедел дамуы",
+                "is_correct": true
+            },
+            {
+                "text": "әлеуметтік мәселелерді жедел шешу.",
+                "is_correct": false
+            },
+            {
+                "text": "жеңіл өнеркәсіптің жедел дамуы",
+                "is_correct": false
+            },
+            {
+                "text": "ауыл шаруашылығын жедел дамыту",
+                "is_correct": false
+            },
+            {
+                "text": "тұрғын үй құрылысын жедел дамыту",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сырым Датұлы бастаған көтеріліс қандай сипатта болды?",
+        "variants": [
+            {
+                "text": "ұлт-азаттық",
+                "is_correct": true
+            },
+            {
+                "text": "буржуазиялық.",
+                "is_correct": false
+            },
+            {
+                "text": "либералды-демократиялық",
+                "is_correct": false
+            },
+            {
+                "text": "буржуазиялық-демократиялық",
+                "is_correct": false
+            },
+            {
+                "text": "экономикалық",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Тәуелсіз Қазақстан өзінің алтын қорын жинақтауды бастай отырып, өзінің алғашқы алтын құймасын қашан өндірді?",
+        "variants": [
+            {
+                "text": "1992 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1997ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1998 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1991 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1995 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ұжымдастыру жылдарында қазақтардың қоныс аударуының негізгі бағыттары:",
+        "variants": [
+            {
+                "text": "Қытай, Иран, Ауғанстан",
+                "is_correct": false
+            },
+            {
+                "text": "Түркия. Моңғолия",
+                "is_correct": false
+            },
+            {
+                "text": "Үндістан, Түркия",
+                "is_correct": false
+            },
+            {
+                "text": "Қытай, Ресей",
+                "is_correct": true
+            },
+            {
+                "text": "Ресей, Пәкістан.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ұлттық валюта – теңге енгізілген жылды атаңыз:",
+        "variants": [
+            {
+                "text": "1993 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1994 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1996 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1992 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1995 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ұлы Отан соғысы жылдарында қанша қазақстандық қаза тапты?",
+        "variants": [
+            {
+                "text": "410 мың адам",
+                "is_correct": false
+            },
+            {
+                "text": "630 мың адам",
+                "is_correct": true
+            },
+            {
+                "text": "580 мың адам",
+                "is_correct": false
+            },
+            {
+                "text": "220 мың адам",
+                "is_correct": false
+            },
+            {
+                "text": "805 мың адам.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ұлы Отан соғысы жылдарындағы ерліктері үшін 11600 адам Кеңес Одағының Батыры атағына ие болды. Қанша қазақстандық Кеңес Одағының Батыры атағына ие болды:",
+        "variants": [
+            {
+                "text": "497 адам",
+                "is_correct": true
+            },
+            {
+                "text": "370 адам.",
+                "is_correct": false
+            },
+            {
+                "text": "450 адам",
+                "is_correct": false
+            },
+            {
+                "text": "350 адам",
+                "is_correct": false
+            },
+            {
+                "text": "280 адам",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ұлы Отан соғысы майдандарында ерлігімен көзге түскен қазақстандық қолбасшылар:",
+        "variants": [
+            {
+                "text": "Б.Момышұлы, Ш.Жексенбаев, С.Рақымов",
+                "is_correct": true
+            },
+            {
+                "text": "Ә.Досмұхаметов, І.Айтықов, И.Сүлейменов",
+                "is_correct": false
+            },
+            {
+                "text": "Ә.Молдағұлова, М.Мәметова, Х.Доспанова",
+                "is_correct": false
+            },
+            {
+                "text": "А.Егоров, З.Құсайынов, Қ.Қайсенов",
+                "is_correct": false
+            },
+            {
+                "text": "Ә.Молдағұлова, В.Безголосов, И.Сүлейменов",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "ХIХ ғасырдағы Жетісудың ең танымал ақыны, әрі Жамбылдың ұстазы болған кім?",
+        "variants": [
+            {
+                "text": "Сүйінбай",
+                "is_correct": true
+            },
+            {
+                "text": "Шөже",
+                "is_correct": false
+            },
+            {
+                "text": "Шортанбай",
+                "is_correct": false
+            },
+            {
+                "text": "Шернияз",
+                "is_correct": false
+            },
+            {
+                "text": "Дулат.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "ХIХ ғасырдағы шертпе күйдің негізін қалаған күйші?",
+        "variants": [
+            {
+                "text": "Тәттімбет",
+                "is_correct": true
+            },
+            {
+                "text": "Дина Нұрпейісова.",
+                "is_correct": false
+            },
+            {
+                "text": "Құрманғазы",
+                "is_correct": false
+            },
+            {
+                "text": "Ықылас",
+                "is_correct": false
+            },
+            {
+                "text": "Дәулеткерей",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "ХІХ ғасырдың бірінші жартысында “Қырғыз-қазақ немесе қырғыз-қайсақ ордалары мен далаларының сипаттамасы” еңбегін жазған орыс жазушысы?",
+        "variants": [
+            {
+                "text": "А. Левшин",
+                "is_correct": true
+            },
+            {
+                "text": "В. Рубрук",
+                "is_correct": false
+            },
+            {
+                "text": "В. Даль",
+                "is_correct": false
+            },
+            {
+                "text": "П. Паллас",
+                "is_correct": false
+            },
+            {
+                "text": "В.Вельяминов-Зернов.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "ХХ ғасырдың 60-жылдарында Қазақстан картасында ірі қалалардың пайда болуы негізінен мына оқиғалармен байланысты болды:",
+        "variants": [
+            {
+                "text": "пайдалы қазбалардың ірі кен орындарын игеру",
+                "is_correct": true
+            },
+            {
+                "text": "компартияның саясаты.",
+                "is_correct": false
+            },
+            {
+                "text": "демографиялық саясат",
+                "is_correct": false
+            },
+            {
+                "text": "инфраструктураның дамуы",
+                "is_correct": false
+            },
+            {
+                "text": "миграциялық саясат",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ш. Уәлихановтың жазып қалдырған қырғыз халқының эпикалық жыры?",
+        "variants": [
+            {
+                "text": "Манас",
+                "is_correct": true
+            },
+            {
+                "text": "Алпамыс",
+                "is_correct": false
+            },
+            {
+                "text": "Қобыланды",
+                "is_correct": false
+            },
+            {
+                "text": "Қыз Жібек",
+                "is_correct": false
+            },
+            {
+                "text": "Қозы көрпеш Баян сұлу",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Шанхай ынтымақтастық ұйымының құрамына кірген мемлекеттер:",
+        "variants": [
+            {
+                "text": "Қытай, Қазақстан, Ресей, Қырғызстан, Тәжікстан, Өзбекстан.",
+                "is_correct": true
+            },
+            {
+                "text": "Тәжікстан, Қытай, Өзбекстан, Корея.",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстан, Қытай, Монғолия.",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстан, Қытай, Корея, Жапония, Түркия.",
+                "is_correct": false
+            },
+            {
+                "text": "Ресей, Қырғызстан, Корея, Жапония, Түркия.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "«Қазақстан халқы Ассамблеясы» туралы Заң қашан қабылданды?",
+        "variants": [
+            {
+                "text": "2008 жылы",
+                "is_correct": true
+            },
+            {
+                "text": "2006 жылы",
+                "is_correct": false
+            },
+            {
+                "text": "2009 жылы",
+                "is_correct": false
+            },
+            {
+                "text": "2007 жылы",
+                "is_correct": false
+            },
+            {
+                "text": "2010 жылы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "«Орынбор қырғыздары туралы жарғы» жобасының авторы:",
+        "variants": [
+            {
+                "text": "П.Эссен",
+                "is_correct": true
+            },
+            {
+                "text": "A. Пеутлинг",
+                "is_correct": false
+            },
+            {
+                "text": "М.Тевкелев.",
+                "is_correct": false
+            },
+            {
+                "text": "М.Сперанский",
+                "is_correct": false
+            },
+            {
+                "text": "О.Игельстром",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "«Сібір қырғыздары туралы жарғы» бойынша жаңа басқару жүйесінің авторы кім?",
+        "variants": [
+            {
+                "text": "М.М. Сперанский",
+                "is_correct": true
+            },
+            {
+                "text": "Б. Игельстром",
+                "is_correct": false
+            },
+            {
+                "text": "А.И. Тевкелев",
+                "is_correct": false
+            },
+            {
+                "text": "И.К. Кириллов",
+                "is_correct": false
+            },
+            {
+                "text": "Анна Иоанновна.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "«Халықтардың ұлы қоныс аударуы» қашан болды?",
+        "variants": [
+            {
+                "text": "б.э. ІІ-V ғғ.",
+                "is_correct": true
+            },
+            {
+                "text": "552 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э. І ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э. І мың ж. - б.э. ІІ мың ж.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. 47 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1007 жылы Наймандар мен Керейлер қандай дінді қабылдады?",
+        "variants": [
+            {
+                "text": "христиан дінінің несториандық тармағын",
+                "is_correct": true
+            },
+            {
+                "text": "буддизм",
+                "is_correct": false
+            },
+            {
+                "text": "иудаизм.",
+                "is_correct": false
+            },
+            {
+                "text": "ислам",
+                "is_correct": false
+            },
+            {
+                "text": "манихейлік",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1359-1379 жылдар аралығы Алтын Орда тарихы қалай сипатталады?",
+        "variants": [
+            {
+                "text": "«Ұлы дүрбелең» кезеңі",
+                "is_correct": true
+            },
+            {
+                "text": "гүлденген кезең",
+                "is_correct": false
+            },
+            {
+                "text": "Ақсақ Темірмен соғыс кезеңі",
+                "is_correct": false
+            },
+            {
+                "text": "қайтадан күш қуатын жинаған кез",
+                "is_correct": false
+            },
+            {
+                "text": "ислам дінін қабылдаған кезең",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1726 жылы жоңғарларды жеңудің тарихи маңызы қандай болды?",
+        "variants": [
+            {
+                "text": "Қазақ халқы жауға қарсы бірікті",
+                "is_correct": true
+            },
+            {
+                "text": "Кіші жүз босатылды.",
+                "is_correct": false
+            },
+            {
+                "text": "Орта жүз жоңғарлардан толықтай азат етілді",
+                "is_correct": false
+            },
+            {
+                "text": "Ұлы жүздің жартылай босатылуы",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақ жерлері толықтай Жоңғарлардан азат етілді",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1783-1797 жж. Кіші жүздегі қазақтар көтерілісінің салдары қандай болды?",
+        "variants": [
+            {
+                "text": "көтеріліс хан билігінің іргетасын шайқап, оны жоюға алғышарттар жасады",
+                "is_correct": true
+            },
+            {
+                "text": "хан билігін күшейтті.",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақстанның Ресейге қосылуы аяқталды",
+                "is_correct": false
+            },
+            {
+                "text": "Кіші жүз аумағында бекіністер салынды",
+                "is_correct": false
+            },
+            {
+                "text": "Сырым Датұлы Кіші жүздің ханы болды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "1822 ж. М.Сперанский реформасы бойынша Орта жүз аумағына қандай әкімшілік атау берілді?",
+        "variants": [
+            {
+                "text": "Сібір қырғыздарының аймағы",
+                "is_correct": true
+            },
+            {
+                "text": "Ақмола облысы",
+                "is_correct": false
+            },
+            {
+                "text": "Дала бас үкіметі",
+                "is_correct": false
+            },
+            {
+                "text": "Түркістан генерал-губернаторлығы",
+                "is_correct": false
+            },
+            {
+                "text": "Орынбор қырғыздарының облысы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "552 жылы Түрік қағанатының негізін қалаушы кім болды?",
+        "variants": [
+            {
+                "text": "Бумын-қаған",
+                "is_correct": true
+            },
+            {
+                "text": "Мұқан қаған",
+                "is_correct": false
+            },
+            {
+                "text": "Үшілік қаған.",
+                "is_correct": false
+            },
+            {
+                "text": "Тоқ-жабғу қаған",
+                "is_correct": false
+            },
+            {
+                "text": "Жегүй-қаған",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "VI-XII ғғ . Қазақстанның экономикасы мен мәдениетінің негізгі орталығы қандай аудандар болды?",
+        "variants": [
+            {
+                "text": "Жетісу және Оңтүстік Қазақстан",
+                "is_correct": true
+            },
+            {
+                "text": "Маңғыстау және Батыс Қазақстан облыстары",
+                "is_correct": false
+            },
+            {
+                "text": "Мәуераннахр",
+                "is_correct": false
+            },
+            {
+                "text": "Қашғария және Шығыс Қазақстан",
+                "is_correct": false
+            },
+            {
+                "text": "Сарыарқа.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "VIII-XII ғасырларда Қазақ жерінде қандай мемлекет исламды ресми түрде мемлекеттік дін деп жариялады?",
+        "variants": [
+            {
+                "text": "Қараханидтер",
+                "is_correct": true
+            },
+            {
+                "text": "Оғыздар",
+                "is_correct": false
+            },
+            {
+                "text": "Түрік қағанаты",
+                "is_correct": false
+            },
+            {
+                "text": "Қыпшақтар",
+                "is_correct": false
+            },
+            {
+                "text": "Батыс Түрік қағанаты.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "XIV ғасырдың соңында Қожа Ахмет Ясауи архитектуралық ғимараты кімнің бұйрығымен тұрғызылды?",
+        "variants": [
+            {
+                "text": "Ақсақ Темір",
+                "is_correct": true
+            },
+            {
+                "text": "Жәнібек хан",
+                "is_correct": false
+            },
+            {
+                "text": "Өзбек хан.",
+                "is_correct": false
+            },
+            {
+                "text": "Шыңғысхан",
+                "is_correct": false
+            },
+            {
+                "text": "Қасым хан",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "XV ғ. 30-жылдарында Алтын Орданың ыдырауы нәтижесінде Еділ мен Жайық арасындағы аумақта пайда болған мемлекет?",
+        "variants": [
+            {
+                "text": "Ноғай Ордасы",
+                "is_correct": true
+            },
+            {
+                "text": "Көк Орда",
+                "is_correct": false
+            },
+            {
+                "text": "Қырым хандығы.",
+                "is_correct": false
+            },
+            {
+                "text": "Моғолстан",
+                "is_correct": false
+            },
+            {
+                "text": "Ақ Орда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "XVII ғасырда Қазақ хандығының астанасы қай қала болды?",
+        "variants": [
+            {
+                "text": "Түркістан",
+                "is_correct": true
+            },
+            {
+                "text": "Сығанақ",
+                "is_correct": false
+            },
+            {
+                "text": "Сайрам",
+                "is_correct": false
+            },
+            {
+                "text": "Ташкент",
+                "is_correct": false
+            },
+            {
+                "text": "Отырар.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Адамзат алғашқы еңбек құралдарын қандай материалдан жасады?",
+        "variants": [
+            {
+                "text": "тастан",
+                "is_correct": true
+            },
+            {
+                "text": "ағаштан",
+                "is_correct": false
+            },
+            {
+                "text": "саздан",
+                "is_correct": false
+            },
+            {
+                "text": "темірден",
+                "is_correct": false
+            },
+            {
+                "text": "қоладан",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Адамзат баласы садақ пен жебені қашан ойлап тапты?",
+        "variants": [
+            {
+                "text": "мезолитте",
+                "is_correct": true
+            },
+            {
+                "text": "палеолитте",
+                "is_correct": false
+            },
+            {
+                "text": "кейінгі палеолитте",
+                "is_correct": false
+            },
+            {
+                "text": "неолитте",
+                "is_correct": false
+            },
+            {
+                "text": "ерте палеолите",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Адамзат от жағуды қай дәуірде үйренді:",
+        "variants": [
+            {
+                "text": "орта палеолитте",
+                "is_correct": true
+            },
+            {
+                "text": "кейінгі палеолитте",
+                "is_correct": false
+            },
+            {
+                "text": "ерте палеолитте.",
+                "is_correct": false
+            },
+            {
+                "text": "мезолитте",
+                "is_correct": false
+            },
+            {
+                "text": "энеолите",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Адамзат тарихын заттай деректер арқылы зерттейтін ғылым саласы:",
+        "variants": [
+            {
+                "text": "археология",
+                "is_correct": true
+            },
+            {
+                "text": "этнология",
+                "is_correct": false
+            },
+            {
+                "text": "этнография",
+                "is_correct": false
+            },
+            {
+                "text": "астрономия",
+                "is_correct": false
+            },
+            {
+                "text": "антропология",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ақ Орданың ыдырауы нәтижесінде қандай мемлекеттер пайда болды?",
+        "variants": [
+            {
+                "text": "Ноғай Ордасы және Әбілқайыр хандығы",
+                "is_correct": false
+            },
+            {
+                "text": "Өзбек ұлысы мен Көк Орда",
+                "is_correct": false
+            },
+            {
+                "text": "Моғолстан мен Көк Орда",
+                "is_correct": false
+            },
+            {
+                "text": "Ноғай Ордасы және Моғолстан",
+                "is_correct": false
+            },
+            {
+                "text": "Әбілқайыр және Көк Орда хандығы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Алғашқы адамдар негізінен қай мақсатта қауымға бірікті?",
+        "variants": [
+            {
+                "text": "сыртқы шабуылдардан және жыртқыш аңдардан қорғану үшін",
+                "is_correct": true
+            },
+            {
+                "text": "бірігіп жер өңдеу үшін",
+                "is_correct": false
+            },
+            {
+                "text": "отбасын сақтау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "еңбек құралдарын бірігіп дайындау үшін",
+                "is_correct": false
+            },
+            {
+                "text": "қару-жарақ дайындау мақсатында",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Алғашқы қоғамдық еңбек бөлінісі болып не саналады?",
+        "variants": [
+            {
+                "text": "мал шаруашылығының егіншіліктен бөлінуі",
+                "is_correct": true
+            },
+            {
+                "text": "қолөнердің егіншіліктен бөлінуі",
+                "is_correct": false
+            },
+            {
+                "text": "өнердің қолөнерден бөлінуі",
+                "is_correct": false
+            },
+            {
+                "text": "сауда-саттықтың қолөнерден бөлінуі",
+                "is_correct": false
+            },
+            {
+                "text": "сауда-саттықтың егіншіліктен бөлінуі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Александр Македонский қай ғасырда сақтармен соғысты?",
+        "variants": [
+            {
+                "text": "б.э.д. 1V ғ.",
+                "is_correct": true
+            },
+            {
+                "text": "б.э.д. VI ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. VII ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. II ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. I ғ.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Алтын Орданың бас қаласы?",
+        "variants": [
+            {
+                "text": "Сарай",
+                "is_correct": true
+            },
+            {
+                "text": "Түркістан.",
+                "is_correct": false
+            },
+            {
+                "text": "Сығанақ",
+                "is_correct": false
+            },
+            {
+                "text": "Алмалық",
+                "is_correct": false
+            },
+            {
+                "text": "Баласағұн",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Андрондықтардың антропологиялық типі?",
+        "variants": [
+            {
+                "text": "европеоидтар",
+                "is_correct": true
+            },
+            {
+                "text": "монголоидтар",
+                "is_correct": false
+            },
+            {
+                "text": "мулатттар",
+                "is_correct": false
+            },
+            {
+                "text": "метистар",
+                "is_correct": false
+            },
+            {
+                "text": "негроидтар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Андрондықтардың шаруашылығының негізгі түрлері:",
+        "variants": [
+            {
+                "text": "мал шаруашылығы және егіншілік",
+                "is_correct": true
+            },
+            {
+                "text": "балық аулау және бақташылық",
+                "is_correct": false
+            },
+            {
+                "text": "бау-бақша және егіншілік",
+                "is_correct": false
+            },
+            {
+                "text": "аңшылық пен терімшілік.",
+                "is_correct": false
+            },
+            {
+                "text": "егіншілік және қолөнер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Археологтар тапқан «Алтын адам» қай ғасырға жатады?",
+        "variants": [
+            {
+                "text": "б.э.д. V-ІV ғғ.",
+                "is_correct": true
+            },
+            {
+                "text": "б.э.д. I ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. III ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. VII ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. II ғ.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Әбілқайыр мемлекетінің (Көшпелі өзбектер мемлекеті) өмір сүрген жылдары:",
+        "variants": [
+            {
+                "text": "1428-1468 жж",
+                "is_correct": true
+            },
+            {
+                "text": "1500-1672 жж",
+                "is_correct": false
+            },
+            {
+                "text": "1444-1567 жж",
+                "is_correct": false
+            },
+            {
+                "text": "1422-1500 жж",
+                "is_correct": false
+            },
+            {
+                "text": "1270-1281 жж",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Б.э.д. III ғасырда сақ тайпаларының орнына үйсіндер келді. Олар Қазақстанның қай аймағына қоныстанды?",
+        "variants": [
+            {
+                "text": "Жетісуда",
+                "is_correct": true
+            },
+            {
+                "text": "Солтүстік Қазақстанда",
+                "is_correct": false
+            },
+            {
+                "text": "Маңғыстауда",
+                "is_correct": false
+            },
+            {
+                "text": "Сырдария өзенінің аңғарына",
+                "is_correct": false
+            },
+            {
+                "text": "Орталық Қазақстанда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Батыс Түрік қағанатының астанасы:",
+        "variants": [
+            {
+                "text": "Суяб",
+                "is_correct": true
+            },
+            {
+                "text": "Шаш",
+                "is_correct": false
+            },
+            {
+                "text": "Ақтөбе",
+                "is_correct": false
+            },
+            {
+                "text": "Тараз",
+                "is_correct": false
+            },
+            {
+                "text": "Атлах",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Батыс Түрік қағанатының хронологиялық шеңбері:",
+        "variants": [
+            {
+                "text": "603-704 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "652-700 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "429-504 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "441-562 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "550-605 жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Біздің заманымыздың 704-766 жылдары Таразда құйылып, айналымға енген теңгелер кімдерге қатысты?",
+        "variants": [
+            {
+                "text": "Түргештерге",
+                "is_correct": true
+            },
+            {
+                "text": "Қарлұқтарға",
+                "is_correct": false
+            },
+            {
+                "text": "Қараханидтерге.",
+                "is_correct": false
+            },
+            {
+                "text": "Оғыздарға",
+                "is_correct": false
+            },
+            {
+                "text": "Қимақтарға",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ғұн қоғамындағы ең жоғарғы билеушінің титулы?",
+        "variants": [
+            {
+                "text": "шаньюй",
+                "is_correct": true
+            },
+            {
+                "text": "гуньмо",
+                "is_correct": false
+            },
+            {
+                "text": "ябғу",
+                "is_correct": false
+            },
+            {
+                "text": "темник",
+                "is_correct": false
+            },
+            {
+                "text": "шад.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ғұндар қанша руға бөлінген?",
+        "variants": [
+            {
+                "text": "24",
+                "is_correct": true
+            },
+            {
+                "text": "19",
+                "is_correct": false
+            },
+            {
+                "text": "25",
+                "is_correct": false
+            },
+            {
+                "text": "30",
+                "is_correct": false
+            },
+            {
+                "text": "17",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ғұндардың Қазақстанға алғашқы қоныс аударуы қашан болды?",
+        "variants": [
+            {
+                "text": "б.э.д. І ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. ІІ-І ғғ.",
+                "is_correct": true
+            },
+            {
+                "text": "б.э. ІІІ ғ. екінші жартысында",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. ІІ ғ. екінші жартысында",
+                "is_correct": false
+            },
+            {
+                "text": "б.э. ІІ-V ғғ.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ежелгі адамдардың жартас суреттері қалай аталады?",
+        "variants": [
+            {
+                "text": "петроглифтер",
+                "is_correct": true
+            },
+            {
+                "text": "иероглифтер",
+                "is_correct": false
+            },
+            {
+                "text": "фрескалар",
+                "is_correct": false
+            },
+            {
+                "text": "жазбалар",
+                "is_correct": false
+            },
+            {
+                "text": "монограммалар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ежелгі түріктердің тотемі қандай жануар болған?",
+        "variants": [
+            {
+                "text": "көкбөрі.",
+                "is_correct": true
+            },
+            {
+                "text": "түлкі",
+                "is_correct": false
+            },
+            {
+                "text": "аю",
+                "is_correct": false
+            },
+            {
+                "text": "бүркіт",
+                "is_correct": false
+            },
+            {
+                "text": "барыс",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ең алғаш Ресейдің қол астына өтуге ант берген қазақ ханы?",
+        "variants": [
+            {
+                "text": "Әбілқайыр хан",
+                "is_correct": true
+            },
+            {
+                "text": "Абылай хан",
+                "is_correct": false
+            },
+            {
+                "text": "Сәмеке хан",
+                "is_correct": false
+            },
+            {
+                "text": "Әбілмәмбет хан",
+                "is_correct": false
+            },
+            {
+                "text": "Нұралы хан",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Еуропа елдеріне жойқын шапқыншылық кезінде ғұндарды кім басқарды?",
+        "variants": [
+            {
+                "text": "Атилла",
+                "is_correct": true
+            },
+            {
+                "text": "Тоумын",
+                "is_correct": false
+            },
+            {
+                "text": "Скунх.",
+                "is_correct": false
+            },
+            {
+                "text": "Мөде",
+                "is_correct": false
+            },
+            {
+                "text": "Чжи-Чжи",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жеті жарғы деген не ?",
+        "variants": [
+            {
+                "text": "XVIII ғасырдағы қазақтардың әдет-ғұрып заңдары",
+                "is_correct": true
+            },
+            {
+                "text": "Қасым ханның зандары.",
+                "is_correct": false
+            },
+            {
+                "text": "Ақсақ Темір заңдары",
+                "is_correct": false
+            },
+            {
+                "text": "Қазақтың діни заңдары",
+                "is_correct": false
+            },
+            {
+                "text": "Шыңғысхан заңдары",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жоңғар хандығы қай ғасырда құрылды?",
+        "variants": [
+            {
+                "text": "XVII ғ",
+                "is_correct": true
+            },
+            {
+                "text": "XVI ғ",
+                "is_correct": false
+            },
+            {
+                "text": "XVIII ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "XV ғ",
+                "is_correct": false
+            },
+            {
+                "text": "XIV ғ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Жошы ұлысы қай аймақты қамтыды:",
+        "variants": [
+            {
+                "text": "Орталық Қазақстан",
+                "is_correct": true
+            },
+            {
+                "text": "Оңтүстік және оңтүстік шығыс Қазақстан",
+                "is_correct": false
+            },
+            {
+                "text": "Жетісу мен Мәуераннахр.",
+                "is_correct": false
+            },
+            {
+                "text": "Орталық Моңғолия",
+                "is_correct": false
+            },
+            {
+                "text": "Солтүстік шығыс Қазақстан",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "ІХ ғасырда қай қалаларда тиын сарайлары болған?",
+        "variants": [
+            {
+                "text": "Тараз, Испиджаб",
+                "is_correct": true
+            },
+            {
+                "text": "Сығанақ, Шаш",
+                "is_correct": false
+            },
+            {
+                "text": "Пенчуль, Құлан.",
+                "is_correct": false
+            },
+            {
+                "text": "Янгикент, Мерке",
+                "is_correct": false
+            },
+            {
+                "text": "Отырар, Құлан",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кімді Шығыста Аристотельден кейінгі «екінші ұстаз» деп атады?",
+        "variants": [
+            {
+                "text": "Әл-Фараби",
+                "is_correct": true
+            },
+            {
+                "text": "Әл-Бируни",
+                "is_correct": false
+            },
+            {
+                "text": "Әл-Якуби",
+                "is_correct": false
+            },
+            {
+                "text": "Низами",
+                "is_correct": false
+            },
+            {
+                "text": "М.Қашқари.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кітап көлемі мен саны бойынша әлемдегі екінші кітапхана қай қалада болды?",
+        "variants": [
+            {
+                "text": "Отырарда",
+                "is_correct": true
+            },
+            {
+                "text": "Сығанақ қаласында",
+                "is_correct": false
+            },
+            {
+                "text": "Суябта",
+                "is_correct": false
+            },
+            {
+                "text": "Ташкентте",
+                "is_correct": false
+            },
+            {
+                "text": "Таразда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кіші жүз қазақтары Ресей бодандығын қашан қабылдады?",
+        "variants": [
+            {
+                "text": "1731 жылы 19 ақпанда",
+                "is_correct": true
+            },
+            {
+                "text": "1784 жылғы 19 ақпанда",
+                "is_correct": false
+            },
+            {
+                "text": "1789 жылы 19 ақпанда",
+                "is_correct": false
+            },
+            {
+                "text": "1751 жылы 19 ақпанда",
+                "is_correct": false
+            },
+            {
+                "text": "1780 жылы 19 ақпанда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кіші жүзге қандай тайпалар кірді?",
+        "variants": [
+            {
+                "text": "Адай, Жағалбайлы",
+                "is_correct": false
+            },
+            {
+                "text": "Қаракесек, Уақ, қыпшақ",
+                "is_correct": false
+            },
+            {
+                "text": "Арғын, Найман, Қыпшақ,",
+                "is_correct": false
+            },
+            {
+                "text": "Дулат, Албан, Жалайыр",
+                "is_correct": false
+            },
+            {
+                "text": "Жағалбайлы, Шөмекей",
+                "is_correct": true
+            }
+        ]
+    },
+    {
+        "question": "Кіші жүздегі хандық билік қашан жойылды?",
+        "variants": [
+            {
+                "text": "1824 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1820 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1826 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1822 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1818 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Көне түркі жазуы қалай аталды?",
+        "variants": [
+            {
+                "text": "руна жазуы",
+                "is_correct": true
+            },
+            {
+                "text": "санскрит жазуы",
+                "is_correct": false
+            },
+            {
+                "text": "скиф жазуы",
+                "is_correct": false
+            },
+            {
+                "text": "соғды жазуы",
+                "is_correct": false
+            },
+            {
+                "text": "иероглифтік жазу.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ жерін моңғолдардың жаулап алуы қай жылы басталды?",
+        "variants": [
+            {
+                "text": "1219 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1155 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1216 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1222 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1211 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ жерінде ислам дінінің таралуының басталуы:",
+        "variants": [
+            {
+                "text": "VIII ғ.",
+                "is_correct": true
+            },
+            {
+                "text": "III-V ғғ.",
+                "is_correct": false
+            },
+            {
+                "text": "V1-VII ғғ.",
+                "is_correct": false
+            },
+            {
+                "text": "ХV ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "Х ғ.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ тарихына Ақтабан шұбырынды оқиғасы қай жылы болды?",
+        "variants": [
+            {
+                "text": "1723-1727 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "1717-1720 жж",
+                "is_correct": false
+            },
+            {
+                "text": "1729-1733 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1710-1713 жж",
+                "is_correct": false
+            },
+            {
+                "text": "1726-1728 жж",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ халқының негізін құраған ең ежелгі тайпалардың бірі - қаңлылар қай территорияны мекендеді?",
+        "variants": [
+            {
+                "text": "Оңтүстік Қазақстанды",
+                "is_correct": true
+            },
+            {
+                "text": "Маңғыстауды",
+                "is_correct": false
+            },
+            {
+                "text": "Орталық Қазақстанды",
+                "is_correct": false
+            },
+            {
+                "text": "Жетісуды",
+                "is_correct": false
+            },
+            {
+                "text": "Шығыс Қазақстанды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ хандығы қашан құрылды?",
+        "variants": [
+            {
+                "text": "1465 -1466 жж",
+                "is_correct": true
+            },
+            {
+                "text": "1567-1568 жж",
+                "is_correct": false
+            },
+            {
+                "text": "1468-1469 жж",
+                "is_correct": false
+            },
+            {
+                "text": "1455-1456 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1398-1400 жж",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ хандығында таптық топтарға бөлінуінің себебі?",
+        "variants": [
+            {
+                "text": "Әлеуметтік шығу тегі",
+                "is_correct": false
+            },
+            {
+                "text": "Сот істерін жүзеге асыру",
+                "is_correct": false
+            },
+            {
+                "text": "Мүліктік жағдай",
+                "is_correct": true
+            },
+            {
+                "text": "Салық жинау құқығы.",
+                "is_correct": false
+            },
+            {
+                "text": "Хан тұқымына жақындығы",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақ хандығының негізін қай хандар құрды?",
+        "variants": [
+            {
+                "text": "Керей, Жәнібек.",
+                "is_correct": true
+            },
+            {
+                "text": "Есенбұға, Махмұд",
+                "is_correct": false
+            },
+            {
+                "text": "Қасым, Бұрындық",
+                "is_correct": false
+            },
+            {
+                "text": "Әбілқайыр, Барақ",
+                "is_correct": false
+            },
+            {
+                "text": "Абылай, Тәуке",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан аумағында көне жазба деректер қашан пайда болды?",
+        "variants": [
+            {
+                "text": "б. з. д. І мыңжылдықта",
+                "is_correct": true
+            },
+            {
+                "text": "б. з. д. ІІ мыңжылдықта",
+                "is_correct": false
+            },
+            {
+                "text": "б. з. ІІ мыңжылдықта.",
+                "is_correct": false
+            },
+            {
+                "text": "б. з. д. ІІІ мыңжылдықта",
+                "is_correct": false
+            },
+            {
+                "text": "б. з. І мыңжылдықта",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан аумағындағы алғашқы тайпалық одақтардың жалпы атауы қандай?",
+        "variants": [
+            {
+                "text": "сақтар",
+                "is_correct": true
+            },
+            {
+                "text": "ғұндар",
+                "is_correct": false
+            },
+            {
+                "text": "қаңлылар",
+                "is_correct": false
+            },
+            {
+                "text": "үйсіндер",
+                "is_correct": false
+            },
+            {
+                "text": "түріктер",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан территориясында табылған алғашқы адамның іздері қай дәуірге жатады?",
+        "variants": [
+            {
+                "text": "ерте тас дәуірі",
+                "is_correct": true
+            },
+            {
+                "text": "қола дәуірі",
+                "is_correct": false
+            },
+            {
+                "text": "ерте темір дәуірі",
+                "is_correct": false
+            },
+            {
+                "text": "жаңа тас дәуірі",
+                "is_correct": false
+            },
+            {
+                "text": "орта тас дәуірі",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстан территориясындағы ежелгі адамдардың қоныстануы үшін ең қолайлы жерлер - тау жотасы:",
+        "variants": [
+            {
+                "text": "Қаратау",
+                "is_correct": true
+            },
+            {
+                "text": "Алатау",
+                "is_correct": false
+            },
+            {
+                "text": "Тянь-Шань",
+                "is_correct": false
+            },
+            {
+                "text": "Мұғалжар",
+                "is_correct": false
+            },
+            {
+                "text": "Баянауыл",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстандағы VІ-Х ғғ. мемлекеттің сипатын анықтаңыз:",
+        "variants": [
+            {
+                "text": "ерте феодалдық",
+                "is_correct": true
+            },
+            {
+                "text": "ру-тайпалық",
+                "is_correct": false
+            },
+            {
+                "text": "алғашқы қауымдық.",
+                "is_correct": false
+            },
+            {
+                "text": "дамушы",
+                "is_correct": false
+            },
+            {
+                "text": "орталықтандырылған",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстанды толық отарлауға негіз болған реформа қай жылы қабылданды?",
+        "variants": [
+            {
+                "text": "1867-1868 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "1760 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1790 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1731 ж",
+                "is_correct": false
+            },
+            {
+                "text": "1830 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстанның қай аймағында Андрон мәдениетінің 30-дан астам қонысы мен 150-ден астам қорымы табылды?",
+        "variants": [
+            {
+                "text": "Орталық Қазақстанда",
+                "is_correct": true
+            },
+            {
+                "text": "Шығыс Қазақстанда.",
+                "is_correct": false
+            },
+            {
+                "text": "Жетісуда",
+                "is_correct": false
+            },
+            {
+                "text": "Оңтүстік Қазақстанда",
+                "is_correct": false
+            },
+            {
+                "text": "Батыс Қазақстанда",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қазақстанның Ресей мемлекетіне қосылуының басталуы?",
+        "variants": [
+            {
+                "text": "1731 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1721 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1711 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1751 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1741ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қай жылдары Сырым Датұлы басшылығымен шаруалар көтерілісі болды?",
+        "variants": [
+            {
+                "text": "1783-1797 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "1777-1781 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1773-1775 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1795-1799 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "1781-1785 жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қаңлылардың өмір сүру кезеңіндегі саясатының басты бағыты қандай фактор болды?",
+        "variants": [
+            {
+                "text": "Сырдария бойындағы Ұлы Жібек жолы тармақтарын бақылау",
+                "is_correct": true
+            },
+            {
+                "text": "ақша шығару",
+                "is_correct": false
+            },
+            {
+                "text": "Қашғардың уәкілі Бань Чаомен соғыс",
+                "is_correct": false
+            },
+            {
+                "text": "хан әулетімен тығыз экономикалық және саяси байланыстар.",
+                "is_correct": false
+            },
+            {
+                "text": "басқыншылық соғыстар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қарахан мемлекетіндегі «икта»термині қандай мағына берді?",
+        "variants": [
+            {
+                "text": "салық жинау құқығы",
+                "is_correct": true
+            },
+            {
+                "text": "бірінші бороз құқығы",
+                "is_correct": false
+            },
+            {
+                "text": "соғыс жариялау",
+                "is_correct": false
+            },
+            {
+                "text": "жер иелену шекаралары",
+                "is_correct": false
+            },
+            {
+                "text": "сот құқығы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қараханидтер мемлекетінің өмір сүруінің хронологиялық шеңбері:",
+        "variants": [
+            {
+                "text": "942-1210 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "1002-1278 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "905-1290 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "940-980 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "980-1212 жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қола дәуіріндегі керамикалық бұйымдарда қандай ою-өрнек басым?",
+        "variants": [
+            {
+                "text": "геометриялық",
+                "is_correct": true
+            },
+            {
+                "text": "нүктелі",
+                "is_correct": false
+            },
+            {
+                "text": "гүлді",
+                "is_correct": false
+            },
+            {
+                "text": "аңдық стиль",
+                "is_correct": false
+            },
+            {
+                "text": "дөңгелек формалы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қола дәуіріндегі тайпалар қай тілде сөйледі?",
+        "variants": [
+            {
+                "text": "үнді-иран тілінде",
+                "is_correct": true
+            },
+            {
+                "text": "араб тілінде",
+                "is_correct": false
+            },
+            {
+                "text": "үнді европа тілінде.",
+                "is_correct": false
+            },
+            {
+                "text": "қыпшақ тілінде",
+                "is_correct": false
+            },
+            {
+                "text": "көне армян тілінде",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қола дәуірінің хронологиялық шеңбері:",
+        "variants": [
+            {
+                "text": "б.э.д. XVIII ғ. - б.э.д. VIIІ ғ. басы.",
+                "is_correct": true
+            },
+            {
+                "text": "VIIІ ғ. - VII ғ.",
+                "is_correct": false
+            },
+            {
+                "text": "XVIII-VIIІ ғғ. басы.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. Х-ІХ ғғ.",
+                "is_correct": false
+            },
+            {
+                "text": "ІХ-Х ғғ.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қола қандай металдардың қоспасынан алынды?",
+        "variants": [
+            {
+                "text": "мыс пен қалайының",
+                "is_correct": true
+            },
+            {
+                "text": "мырыш пен қорғасынның",
+                "is_correct": false
+            },
+            {
+                "text": "қорғасын мен қалайының.",
+                "is_correct": false
+            },
+            {
+                "text": "темір мен қорғасынның",
+                "is_correct": false
+            },
+            {
+                "text": "мыс пен темірдің",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қыпшақ қоғамындағы ең құқықсыз топ құлдар қалай пайда болды?",
+        "variants": [
+            {
+                "text": "әскери тұтқындарды ұстаудан",
+                "is_correct": true
+            },
+            {
+                "text": "құл базарынан сатып алудан",
+                "is_correct": false
+            },
+            {
+                "text": "қарыздық міндеттемеден.",
+                "is_correct": false
+            },
+            {
+                "text": "руластарды күйретуден",
+                "is_correct": false
+            },
+            {
+                "text": "бір әлеуметтік категориядан екіншісіне өтуден",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Қыпшақтар жайлаған жер қалай аталды?",
+        "variants": [
+            {
+                "text": "Дешті-Қыпшақ",
+                "is_correct": true
+            },
+            {
+                "text": "Түркістан.",
+                "is_correct": false
+            },
+            {
+                "text": "Сарыарқа",
+                "is_correct": false
+            },
+            {
+                "text": "Имакия",
+                "is_correct": false
+            },
+            {
+                "text": "Мәуераннахр",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Монғолдардың қоршауына бес ай төтеп берген қала",
+        "variants": [
+            {
+                "text": "Отырар",
+                "is_correct": true
+            },
+            {
+                "text": "Шаш",
+                "is_correct": false
+            },
+            {
+                "text": "Тараз",
+                "is_correct": false
+            },
+            {
+                "text": "Сығанақ",
+                "is_correct": false
+            },
+            {
+                "text": "Испиджаб.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Моңғол мемлекеті қашан құрылды?",
+        "variants": [
+            {
+                "text": "XIII ғ.басы",
+                "is_correct": true
+            },
+            {
+                "text": "XI ғ. басы",
+                "is_correct": false
+            },
+            {
+                "text": "XII ғ.ортасы",
+                "is_correct": false
+            },
+            {
+                "text": "X ғ.ортасы",
+                "is_correct": false
+            },
+            {
+                "text": "XII ғ. басы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Оғыз мемлекетінде мүліктік теңсіздіктің негізі немене болды?",
+        "variants": [
+            {
+                "text": "мал",
+                "is_correct": true
+            },
+            {
+                "text": "жер",
+                "is_correct": false
+            },
+            {
+                "text": "алтын.",
+                "is_correct": false
+            },
+            {
+                "text": "жылжымайтын мүлік",
+                "is_correct": false
+            },
+            {
+                "text": "құлдар",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Оғыз мемлекетінің өмір сүруінің хронологиялық шеңбері:",
+        "variants": [
+            {
+                "text": "ІХ-ХІ ғғ. басы",
+                "is_correct": true
+            },
+            {
+                "text": "ІХ-Х ғғ. басы",
+                "is_correct": false
+            },
+            {
+                "text": "Х-ХІ ғ. басы",
+                "is_correct": false
+            },
+            {
+                "text": "Х-XII ғғ. басы",
+                "is_correct": false
+            },
+            {
+                "text": "VII-ІХ ғғ. басы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Орта жүзге қандай тайпалар кірді?",
+        "variants": [
+            {
+                "text": "Арғын, Найман, Қыпшақ,",
+                "is_correct": true
+            },
+            {
+                "text": "Табын, Адай, Жағалбайлы",
+                "is_correct": false
+            },
+            {
+                "text": "Қаракесек, Қыпшақ, Жаппас",
+                "is_correct": false
+            },
+            {
+                "text": "Жағалбайлы, Шөмекей",
+                "is_correct": false
+            },
+            {
+                "text": "Дулат, Албан, Жалайыр",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Орта жүздегі хандық билік қашан жойылды?",
+        "variants": [
+            {
+                "text": "1822 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1834 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1814 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1816 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1825 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Орта жүздің бір бөлігі ресми түрде Ресейдің құрамына қашан кірді?",
+        "variants": [
+            {
+                "text": "1732 ж.",
+                "is_correct": true
+            },
+            {
+                "text": "1744 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1731 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1730 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "1734 ж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Орталық Қазақстан территориясындағы соңғы қола мәдениеті қалай аталады?",
+        "variants": [
+            {
+                "text": "Беғазы-Дәндібай мәдениеті",
+                "is_correct": true
+            },
+            {
+                "text": "Атасу мәдениеті.",
+                "is_correct": false
+            },
+            {
+                "text": "Тасмола мәдениеті",
+                "is_correct": false
+            },
+            {
+                "text": "Нұра мәдениеті",
+                "is_correct": false
+            },
+            {
+                "text": "Жетісу мәдениеті",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Орыс зерттеушісі А.И. Левшин «Дала Ликургі» деп қай ханды атады?",
+        "variants": [
+            {
+                "text": "Тәуке ханды",
+                "is_correct": true
+            },
+            {
+                "text": "Абылай ханды",
+                "is_correct": false
+            },
+            {
+                "text": "Әбілқайыр ханды",
+                "is_correct": false
+            },
+            {
+                "text": "Қасым ханды.",
+                "is_correct": false
+            },
+            {
+                "text": "Тәуекел ханды",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сақ қоғамында әйелдердің орны қандай болды:",
+        "variants": [
+            {
+                "text": "әйелдер мен ер адамдардың құқықтары бірдей болды",
+                "is_correct": true
+            },
+            {
+                "text": "ер адамдардан жоғары тұрды.",
+                "is_correct": false
+            },
+            {
+                "text": "балаларды тәрбиелеу жөніндегі жеке құқықтары болды",
+                "is_correct": false
+            },
+            {
+                "text": "құқықтары шектеулі болды",
+                "is_correct": false
+            },
+            {
+                "text": "құқығы болған жоқ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сақ қорғандарынан табылған заттар қандай стильде орындалған?",
+        "variants": [
+            {
+                "text": "аң стилінде",
+                "is_correct": true
+            },
+            {
+                "text": "парсы стилінде.",
+                "is_correct": false
+            },
+            {
+                "text": "соғды стилінде",
+                "is_correct": false
+            },
+            {
+                "text": "геометриялық стильде",
+                "is_correct": false
+            },
+            {
+                "text": "гүлді өрнек түрінде",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сақтар қоғамы қандай үш топқа бөлінді?",
+        "variants": [
+            {
+                "text": "жауынгерлер, абыздар, қауымдар",
+                "is_correct": true
+            },
+            {
+                "text": "көсемдер, бектер, қауымдар",
+                "is_correct": false
+            },
+            {
+                "text": "көсемдер, шаруалар, қауымдар",
+                "is_correct": false
+            },
+            {
+                "text": "патшалар, әмірлер, қауымдар",
+                "is_correct": false
+            },
+            {
+                "text": "патшалар, абыздар, қауымдар.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сақтар туралы ежелгі жазба дерек қалай аталады?",
+        "variants": [
+            {
+                "text": "Авеста",
+                "is_correct": true
+            },
+            {
+                "text": "Кабэ",
+                "is_correct": false
+            },
+            {
+                "text": "Санскрит",
+                "is_correct": false
+            },
+            {
+                "text": "Руна",
+                "is_correct": false
+            },
+            {
+                "text": "Даос жазбаларының қазынасы.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сақтарды қандай жазба деректерде скифтер деп атаған?",
+        "variants": [
+            {
+                "text": "ежелгі грек деректерінде",
+                "is_correct": true
+            },
+            {
+                "text": "Киелі кітапта.",
+                "is_correct": false
+            },
+            {
+                "text": "Қытай деректерінде",
+                "is_correct": false
+            },
+            {
+                "text": "орыс жылнамаларында",
+                "is_correct": false
+            },
+            {
+                "text": "Парсы деректерінде",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Сырым Датұлы бастаған көтеріліс кімге қарсы бағытталды?",
+        "variants": [
+            {
+                "text": "Хандық билікке.",
+                "is_correct": true
+            },
+            {
+                "text": "Қазақ хандарына",
+                "is_correct": false
+            },
+            {
+                "text": "Жоңғарларға",
+                "is_correct": false
+            },
+            {
+                "text": "Хиуа және Қоқан феодалдарына",
+                "is_correct": false
+            },
+            {
+                "text": "Цинь империясына",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Тарихта «Қазақ жерін біріктіруші»деген атаққа ие болған хан?",
+        "variants": [
+            {
+                "text": "Қасым.",
+                "is_correct": true
+            },
+            {
+                "text": "Тәуекел",
+                "is_correct": false
+            },
+            {
+                "text": "Әбілқайыр",
+                "is_correct": false
+            },
+            {
+                "text": "Тәуке",
+                "is_correct": false
+            },
+            {
+                "text": "Абылай",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Тас дәуірі қандай хронологиялық кезеңді қамтиды?",
+        "variants": [
+            {
+                "text": "б.э.д. 2,6 млн. – б.э.д. 3 мың. жж.",
+                "is_correct": true
+            },
+            {
+                "text": "б.э.д. 10 мың. жыл – б.э.д. 5 мың. жж.",
+                "is_correct": false
+            },
+            {
+                "text": "50-40 мың жыл бұрын.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. 2,6 мың жыл – б.э.д 3 мың. жж.",
+                "is_correct": false
+            },
+            {
+                "text": "б.э.д. 15-5 мың – б.э.д. 3 мың жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Түргеш қағанатының хронологиялық шеңберін көрсетіңіз:",
+        "variants": [
+            {
+                "text": "704-756 жж..",
+                "is_correct": true
+            },
+            {
+                "text": "670-770 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "693-699 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "748-851 жж",
+                "is_correct": false
+            },
+            {
+                "text": "698-765 жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Түрік қағанаты өмір сүруінің хронологиялық шеңбері:",
+        "variants": [
+            {
+                "text": "552-603 жж.",
+                "is_correct": true
+            },
+            {
+                "text": "550-605 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "441-562 жж.",
+                "is_correct": false
+            },
+            {
+                "text": "429-504 ж.",
+                "is_correct": false
+            },
+            {
+                "text": "652-700 жж.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Түріктердің басты құдайы",
+        "variants": [
+            {
+                "text": "Көк тәңірі",
+                "is_correct": true
+            },
+            {
+                "text": "Ұмай",
+                "is_correct": false
+            },
+            {
+                "text": "Зеңгі баба.",
+                "is_correct": false
+            },
+            {
+                "text": "От ана",
+                "is_correct": false
+            },
+            {
+                "text": "Алла",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Үйсіндердің билеушісі қалай деп аталды?",
+        "variants": [
+            {
+                "text": "гуньмо",
+                "is_correct": true
+            },
+            {
+                "text": "джабгу",
+                "is_correct": false
+            },
+            {
+                "text": "патша",
+                "is_correct": false
+            },
+            {
+                "text": "ябгу",
+                "is_correct": false
+            },
+            {
+                "text": "елтебер.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Үйсіндердің қай мемлекетпен дипломатиялық және туыстық байланыстары болды?",
+        "variants": [
+            {
+                "text": "Қытаймен",
+                "is_correct": true
+            },
+            {
+                "text": "Парфиямен",
+                "is_correct": false
+            },
+            {
+                "text": "Мидиямен",
+                "is_correct": false
+            },
+            {
+                "text": "Риммен.",
+                "is_correct": false
+            },
+            {
+                "text": "Византиямен",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ұлы Жібек жолының басты тауары:",
+        "variants": [
+            {
+                "text": "Жібек",
+                "is_correct": true
+            },
+            {
+                "text": "асыл тастар",
+                "is_correct": false
+            },
+            {
+                "text": "қару",
+                "is_correct": false
+            },
+            {
+                "text": "алтын",
+                "is_correct": false
+            },
+            {
+                "text": "піл сүйегі.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ұлы жүздің құрамына қандай тайпалар кірді?",
+        "variants": [
+            {
+                "text": "Дулат, Албан, Жалайыр",
+                "is_correct": true
+            },
+            {
+                "text": "Табын, Адай, Арғын",
+                "is_correct": false
+            },
+            {
+                "text": "Найман, Керей, Тама",
+                "is_correct": false
+            },
+            {
+                "text": "Уақ, Қыпшақ.",
+                "is_correct": false
+            },
+            {
+                "text": "Жағалбайлы, Шөмекей",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Халықтың шығу тегін, таралуын баяндайтын тарихтың тармағы?",
+        "variants": [
+            {
+                "text": "шежіре",
+                "is_correct": true
+            },
+            {
+                "text": "этнос.",
+                "is_correct": false
+            },
+            {
+                "text": "адат",
+                "is_correct": false
+            },
+            {
+                "text": "шариғат",
+                "is_correct": false
+            },
+            {
+                "text": "эпос",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question": "Шыңғысхан империясының әскери-құқықтық заңдар жинағы қалай аталады?",
+        "variants": [
+            {
+                "text": "Яса (Жасақ)",
+                "is_correct": true
+            },
+            {
+                "text": "Диуани хикмет",
+                "is_correct": false
+            },
+            {
+                "text": "Табакат-и-Насири",
+                "is_correct": false
+            },
+            {
+                "text": "Жеті жарғы",
+                "is_correct": false
+            },
+            {
+                "text": "Құтадғу білік.",
+                "is_correct": false
+            }
+        ]
+    }
+]
