@@ -17,30 +17,57 @@
         }
         .container {
             text-align: center;
+            padding: 20px;
         }
         h1 {
             color: #333;
             margin-bottom: 20px;
+            font-size: 1.8em;
         }
         .subjects {
             display: flex;
+            flex-wrap: wrap;
             justify-content: center;
             gap: 20px;
         }
         .subject {
             background-color: #007BFF;
             color: white;
-            padding: 20px 40px;
+            padding: 15px 30px;
             border-radius: 10px;
             cursor: pointer;
             text-decoration: none;
-            font-size: 1.2em;
+            font-size: 1em;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             transition: background-color 0.3s, transform 0.2s;
+            text-align: center;
+            width: 100%;
+            max-width: 200px;
         }
         .subject:hover {
             background-color: #0056b3;
             transform: translateY(-5px);
+        }
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.5em;
+            }
+            .subject {
+                font-size: 0.9em;
+                padding: 10px 20px;
+            }
+        }
+        @media (max-width: 480px) {
+            .container {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 1.2em;
+            }
+            .subject {
+                font-size: 0.8em;
+                padding: 8px 15px;
+            }
         }
     </style>
 </head>
