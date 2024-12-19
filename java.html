@@ -56,11 +56,28 @@
         .answer p {
             margin: 0;
         }
+         .back-button {
+        display: inline-block;
+        background-color: #28a745;
+        color: white;
+        text-decoration: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 16px;
+        font-family: 'Verdana', sans-serif;
+        transition: background-color 0.3s ease;
+    }
+    .back-button:hover {
+        background-color: #218838;
+    }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Экзамен сұрақтары</h1>
+          <div style="text-align: center; margin-top: 20px;">
+        <a href="index.html" class="back-button">Арқа қайту</a>
+    </div>
         
         <button class="question" onclick="toggleAnswer(1)">Инкапсуляция дегеніміз не?</button>
         <div class="answer" id="answer1">Инкапсуляция — бұл объектінің ішкі мәліметтерін және оның жұмысын жасыру әдісі. Яғни, объектінің жағдайы тек сыртқы әлеммен оның әдістері арқылы өзгертіліп, басқа объектілер немесе бағдарламалар тек сол әдістер арқылы ғана оған қол жеткізе алады.</div>
