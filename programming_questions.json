@@ -1,4 +1,4 @@
-[
+a[
     {
         "question": "Инкапсуляция дегеніміз не?",
         "variants": [
@@ -596,205 +596,166 @@
         ]
     },
     {
-        "question": "byte — диапазонды дұрыс көрсетіңіз?",
+        "question": "byte типі не үшін қолданылады?",
         "variants": [
-            {
-                "text": "-128 ден 127 дейін",
-                "is_correct": true
-            },
-            {
-                "text": "-2147483648 ден 2147483647 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-32768 ден 32767 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "0 ден 255 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-1 ден 1 дейін",
-                "is_correct": false
-            }
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Жылжымалы нүктелі сандар", "is_correct": false},
+            {"text": "Бүтін сандар", "is_correct": true},
+            {"text": "Символдар", "is_correct": false},
+            {"text": "Мәтіндер", "is_correct": false}
         ]
     },
     {
-        "question": "short — диапазонды дұрыс көрсетіңіз?",
+        "question": "short типінің негізгі ерекшелігі қандай?",
         "variants": [
-            {
-                "text": "-32768 ден 32767 дейін",
-                "is_correct": true
-            },
-            {
-                "text": "-128 ден 127 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "0 ден 255 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-2147483648 ден 2147483647 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-1 ден 1 дейін",
-                "is_correct": false
-            }
+            {"text": "Жылжымалы нүктелі сандарды сақтау", "is_correct": false},
+            {"text": "Бір символды сақтау", "is_correct": false},
+            {"text": "Бүтін сандарды сақтау", "is_correct": true},
+            {"text": "Логикалық мәндерді сақтау", "is_correct": false},
+            {"text": "Мәтіндерді сақтау", "is_correct": false}
         ]
     },
     {
-        "question": "int — диапазонды дұрыс көрсетіңіз?",
+        "question": "int қандай типке жатады?",
         "variants": [
-            {
-                "text": "-2147483648 ден 2147483647 дейін",
-                "is_correct": true
-            },
-            {
-                "text": "-32768 ден 32767 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "0 ден 255 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-128 ден 127 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-1 ден 1 дейін",
-                "is_correct": false
-            }
+            {"text": "Бүтін сандар", "is_correct": true},
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Символдар", "is_correct": false},
+            {"text": "Мәтіндер", "is_correct": false},
+            {"text": "Массивтер", "is_correct": false}
         ]
     },
     {
-        "question": "long — диапазонды дұрыс көрсетіңіз?",
+        "question": "long типі қандай деректер үшін қолданылады?",
         "variants": [
-            {
-                "text": "-9223372036854775808 ден 9223372036854775807 дейін",
-                "is_correct": true
-            },
-            {
-                "text": "-2147483648 ден 2147483647 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-32768 ден 32767 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "0 ден 255 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-1 ден 1 дейін",
-                "is_correct": false
-            }
+            {"text": "Символдар", "is_correct": false},
+            {"text": "Бүтін сандар", "is_correct": true},
+            {"text": "Жылжымалы нүктелі сандар", "is_correct": false},
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Мәтіндер", "is_correct": false}
         ]
     },
     {
-        "question": "float — диапазонды дұрыс көрсетіңіз?",
+        "question": "float қандай деректерді сақтайды?",
         "variants": [
-            {
-                "text": "1.4E-45 ден 3.4028235E38 дейін",
-                "is_correct": true
-            },
-            {
-                "text": "-32768 ден 32767 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-2147483648 ден 2147483647 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-128 ден 127 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "0 ден 255 дейін",
-                "is_correct": false
-            }
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Жылжымалы нүктелі сандар", "is_correct": true},
+            {"text": "Символдар", "is_correct": false},
+            {"text": "Бүтін сандар", "is_correct": false},
+            {"text": "Мәтіндер", "is_correct": false}
         ]
     },
     {
-        "question": "double — диапазонды дұрыс көрсетіңіз?",
+        "question": "double типінің негізгі қолданылуы қандай?",
         "variants": [
-            {
-                "text": "4.9E-324 ден 1.8E308 дейін",
-                "is_correct": true
-            },
-            {
-                "text": "-2147483648 ден 2147483647 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "1.4E-45 ден 3.4028235E38 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-32768 ден 32767 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-128 ден 127 дейін",
-                "is_correct": false
-            }
+            {"text": "Логикалық операциялар", "is_correct": false},
+            {"text": "Бір символды сақтау", "is_correct": false},
+            {"text": "Жылжымалы нүктелі сандарды сақтау", "is_correct": true},
+            {"text": "Массивтер", "is_correct": false},
+            {"text": "Мәтіндерді сақтау", "is_correct": false}
         ]
     },
     {
-        "question": "char — диапазонды дұрыс көрсетіңіз?",
+        "question": "char қандай деректерді сақтайды?",
         "variants": [
-            {
-                "text": "0 ден 65535 дейін",
-                "is_correct": true
-            },
-            {
-                "text": "-32768 ден 32767 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-2147483648 ден 2147483647 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-128 ден 127 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "1.4E-45 ден 3.4028235E38 дейін",
-                "is_correct": false
-            }
+            {"text": "Бүтін сандар", "is_correct": false},
+            {"text": "Бір символ", "is_correct": true},
+            {"text": "Жылжымалы нүктелі сандар", "is_correct": false},
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Мәтіндер", "is_correct": false}
         ]
     },
     {
-        "question": "boolean — диапазонды дұрыс көрсетіңіз?",
+        "question": "boolean не үшін қолданылады?",
         "variants": [
-            {
-                "text": "true немесе false",
-                "is_correct": true
-            },
-            {
-                "text": "0 ден 255 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-32768 ден 32767 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-128 ден 127 дейін",
-                "is_correct": false
-            },
-            {
-                "text": "-1 ден 1 дейін",
-                "is_correct": false
-            }
+            {"text": "Бүтін сандар", "is_correct": false},
+            {"text": "true немесе false мәндерін сақтау", "is_correct": true},
+            {"text": "Бір символды сақтау", "is_correct": false},
+            {"text": "Жылжымалы нүктелі сандар", "is_correct": false},
+            {"text": "Логикалық операцияларды орындау", "is_correct": false}
         ]
     },
+    {
+        "question": "`byte` типінің бит көлемі қандай?",
+        "variants": [
+            {"text": "8 бит", "is_correct": true},
+            {"text": "16 бит", "is_correct": false},
+            {"text": "32 бит", "is_correct": false},
+            {"text": "64 бит", "is_correct": false},
+            {"text": "4 бит", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`short` типінің бит көлемі қандай?",
+        "variants": [
+            {"text": "16 бит", "is_correct": true},
+            {"text": "8 бит", "is_correct": false},
+            {"text": "32 бит", "is_correct": false},
+            {"text": "64 бит", "is_correct": false},
+            {"text": "4 бит", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`int` типінің бит көлемі қандай?",
+        "variants": [
+            {"text": "32 бит", "is_correct": true},
+            {"text": "16 бит", "is_correct": false},
+            {"text": "64 бит", "is_correct": false},
+            {"text": "8 бит", "is_correct": false},
+            {"text": "4 бит", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`long` типінің бит көлемі қандай?",
+        "variants": [
+            {"text": "64 бит", "is_correct": true},
+            {"text": "32 бит", "is_correct": false},
+            {"text": "16 бит", "is_correct": false},
+            {"text": "8 бит", "is_correct": false},
+            {"text": "4 бит", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`float` типінің бит көлемі қандай?",
+        "variants": [
+            {"text": "32 бит", "is_correct": true},
+            {"text": "64 бит", "is_correct": false},
+            {"text": "16 бит", "is_correct": false},
+            {"text": "8 бит", "is_correct": false},
+            {"text": "4 бит", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`double` типінің бит көлемі қандай?",
+        "variants": [
+            {"text": "64 бит", "is_correct": true},
+            {"text": "32 бит", "is_correct": false},
+            {"text": "16 бит", "is_correct": false},
+            {"text": "8 бит", "is_correct": false},
+            {"text": "4 бит", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`char` типінің бит көлемі қандай?",
+        "variants": [
+            {"text": "16 бит", "is_correct": true},
+            {"text": "8 бит", "is_correct": false},
+            {"text": "32 бит", "is_correct": false},
+            {"text": "64 бит", "is_correct": false},
+            {"text": "4 бит", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`boolean` типінің бит көлемі қандай?",
+        "variants": [
+            {"text": "1 бит", "is_correct": true},
+            {"text": "8 бит", "is_correct": false},
+            {"text": "16 бит", "is_correct": false},
+            {"text": "32 бит", "is_correct": false},
+            {"text": "64 бит", "is_correct": false}
+        ]
+    }
+       
     {
         "question": "Метод main() дегеніміз не?",
         "variants": [
