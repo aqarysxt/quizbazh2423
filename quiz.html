@@ -197,7 +197,9 @@
             `;
 
             document.getElementById('prevButton').disabled = currentQuestionIndex === 0;
-            document.getElementById('nextButton').disabled = currentQuestionIndex === questions.length - 1;
+            const nextButton = document.getElementById('nextButton');
+            nextButton.textContent = currentQuestionIndex === questions.length - 1 ? 'Аяқтау' : 'Келесі';
+            nextButton.onclick = currentQuestionIndex === questions.length - 1 ? finishQuiz : nextQuestion;
         }
 
         function checkAnswer(selectedIndex) {
@@ -235,11 +237,25 @@
             }
         }
 
+        function finishQuiz() {
+            const quizDiv = document.getElementById('quiz');
+            const scoreDiv = document.getElementById('score');
+
+            quizDiv.style.display = 'none';
+            document.querySelector('.navigation').style.display = 'none';
+            scoreDiv.style.display = 'block';
+          
+
+            scoreDiv.innerHTML = `Сіздің соңғы ұпайыңыз: ${score} / ${questions.length}`;
+            document.getElementById('review').style.display = 'block';
+        }
+
         function restartQuiz() {
             currentQuestionIndex = 0;
             score = 0;
             mistakes = [];
             document.getElementById('quiz').style.display = 'block';
+            document.getElementById('score').style.display = 'none';
             document.getElementById('review').style.display = 'none';
             document.querySelector('.navigation').style.display = 'flex';
             loadQuestion();
@@ -250,9 +266,13 @@
                 questions = mistakes;
                 currentQuestionIndex = 0;
                 mistakes = [];
+                document.getElementById('quiz').style.display = 'block';
+                document.getElementById('score').style.display = 'none';
+                document.getElementById('review').style.display = 'none';
+                document.querySelector('.navigation').style.display = 'flex';
                 loadQuestion();
- } else {
-                alert("Қате жауаптар жоқ!");
+            } else {
+                alert('Қате жауаптар жоқ!');
             }
         }
     </script>
