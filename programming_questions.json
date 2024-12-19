@@ -1,5 +1,55 @@
 [
     {
+        "question": "`byte` қандай деректер түрін білдіреді?",
+        "variants": [
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Бір символды сақтайды", "is_correct": false},
+            {"text": "Бүтін сандарды білдіреді", "is_correct": true},
+            {"text": "Мәтіндерді сақтайды", "is_correct": false},
+            {"text": "Массивтер", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`short` қандай деректер түрін білдіреді?",
+        "variants": [
+            {"text": "Бүтін сандарды білдіреді", "is_correct": true},
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Бір символды сақтайды", "is_correct": false},
+            {"text": "Мәтіндерді сақтайды", "is_correct": false},
+            {"text": "Жылжымалы нүктелі сандар", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`int` қандай деректер түрін білдіреді?",
+        "variants": [
+            {"text": "Бүтін сандарды білдіреді", "is_correct": true},
+            {"text": "Жылжымалы нүктелі сандар", "is_correct": false},
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Мәтіндерді сақтайды", "is_correct": false},
+            {"text": "Бір символды сақтайды", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`long` қандай деректер түрін білдіреді?",
+        "variants": [
+            {"text": "Бүтін сандарды білдіреді", "is_correct": true},
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Бір символды сақтайды", "is_correct": false},
+            {"text": "Мәтіндерді сақтайды", "is_correct": false},
+            {"text": "Жылжымалы нүктелі сандар", "is_correct": false}
+        ]
+    },
+    {
+        "question": "`float` қандай деректер түрін білдіреді?",
+        "variants": [
+            {"text": "Жылжымалы нүктелі сандарды білдіреді", "is_correct": true},
+            {"text": "Логикалық мәндер", "is_correct": false},
+            {"text": "Бүтін сандарды білдіреді", "is_correct": false},
+            {"text": "Бір символды сақтайды", "is_correct": false},
+            {"text": "Мәтіндерді сақтайды", "is_correct": false}
+        ]
+    },
+    {
         "question": "Инкапсуляция дегеніміз не?",
         "variants": [
             {
