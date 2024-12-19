@@ -5,121 +5,129 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Application</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            box-sizing: border-box;
-        }
+       <style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        box-sizing: border-box;
+    }
+    .container {
+        width: 100%;
+        max-width: 650px;
+        margin: 20px;
+        background: #ffffff;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .question {
+        font-size: 1.4em;
+        font-weight: bold;
+        margin-bottom: 20px;
+        text-align: center;
+        color: #333;
+    }
+    .variants {
+        list-style: none;
+        padding: 0;
+    }
+    .variants li {
+        margin-bottom: 12px;
+    }
+    .variants button {
+        width: 100%;
+        padding: 12px;
+        font-size: 1.1em;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        background-color: #f1f1f1;
+        color: #333;
+        transition: background 0.3s ease;
+    }
+    .variants button.correct {
+        background-color: #4caf50;
+        color: #fff;
+    }
+    .variants button.incorrect {
+        background-color: #f44336;
+        color: #fff;
+    }
+    .variants button:hover {
+        background-color: #e0e0e0;
+    }
+    .navigation {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    .navigation button {
+        padding: 12px 25px;
+        font-size: 1.1em;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        background-color: #007bff;
+        color: white;
+        transition: background 0.3s ease;
+    }
+    .navigation button:hover {
+        background-color: #0056b3;
+    }
+    .score {
+        text-align: center;
+        font-size: 1.6em;
+        font-weight: bold;
+        margin-top: 30px;
+        color: #333;
+    }
+    .review {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .review button {
+        padding: 12px 25px;
+        font-size: 1.1em;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        background-color: #28a745;
+        color: white;
+        transition: background 0.3s ease;
+    }
+    .review button:hover {
+        background-color: #218838;
+    }
+
+    /* Адаптивті дизайн */
+    @media (max-width: 600px) {
         .container {
-            width: 100%;
-            max-width: 600px;
-            margin: 20px;
-            background: #fff;
             padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 90%;
         }
         .question {
             font-size: 1.2em;
-            margin-bottom: 20px;
-        }
-        .variants {
-            list-style: none;
-            padding: 0;
-        }
-        .variants li {
-            margin-bottom: 10px;
         }
         .variants button {
-            width: 100%;
-            padding: 10px;
             font-size: 1em;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            background: #e0e0e0;
-            transition: background 0.3s;
-        }
-        .variants button.correct {
-            background: #4caf50;
-            color: #fff;
-        }
-        .variants button.incorrect {
-            background: #f44336;
-            color: #fff;
-        }
-        .variants button:hover {
-            background: #d6d6d6;
-        }
-        .navigation {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
+            padding: 14px;
         }
         .navigation button {
-            padding: 10px 20px;
             font-size: 1em;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            background: #007bff;
-            color: #fff;
-            transition: background 0.3s;
-        }
-        .navigation button:hover {
-            background: #0056b3;
+            padding: 10px 20px;
         }
         .score {
-            text-align: center;
-            font-size: 1.5em;
-            margin-top: 20px;
+            font-size: 1.4em;
         }
-        .review {
-            text-align: center;
-            margin-top: 20px;
-        }
-        .review button {
-            padding: 10px 20px;
-            font-size: 1em;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            background: #28a745;
-            color: #fff;
-            transition: background 0.3s;
-        }
-        .review button:hover {
-            background: #218838;
-        }
+    }
+</style>
 
-        /* Адаптивті дизайн */
-        @media (max-width: 600px) {
-            .container {
-                padding: 15px;
-                width: 90%;
-            }
-            .question {
-                font-size: 1em;
-            }
-            .variants button {
-                font-size: 0.9em;
-                padding: 12px;
-            }
-            .navigation button {
-                font-size: 0.9em;
-                padding: 8px 16px;
-            }
-            .score {
-                font-size: 1.2em;
-            }
-        }
-    </style>
 </head>
 <body>
     <div class="container">
