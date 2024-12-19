@@ -21,32 +21,32 @@
         }
         h1 {
             text-align: center;
-            color: #333;
+            color: #32304c;
             font-family: 'Arial', sans-serif;
             font-size: 24px;
             margin-bottom: 20px;
         }
         .question {
-            background-color: #007bff;
+            background-color: #4f73ff;
             color: white;
-            padding: 12px;
-            margin: 10px 0;
+            padding: 20px;
+            margin: 8px 0;
             cursor: pointer;
             border: none;
             width: 100%;
             text-align: left;
-            font-size: 18px;
+            font-size: 1.0em;
             font-family: 'Verdana', sans-serif;
-            border-radius: 5px;
+            border-radius: 10px;
             transition: background-color 0.3s ease;
         }
         .question:hover {
-            background-color: #0056b3;
+            background-color:#4362df;
         }
         .answer {
             display: none;
-            background-color: #f0f8ff;
-            padding: 12px;
+            background-color: #e7f0f8;
+            padding: 15px;
             margin-top: 5px;
             border-radius: 5px;
             font-family: 'Verdana', sans-serif;
@@ -58,23 +58,23 @@
         }
          .back-button {
         display: inline-block;
-        background-color: #28a745;
+        background-color: #e5cf2b;
         color: white;
         text-decoration: none;
-        padding: 10px 20px;
-        border-radius: 5px;
+        padding: 10px 30px;
+        border-radius: 15px;
         font-size: 16px;
         font-family: 'Verdana', sans-serif;
         transition: background-color 0.3s ease;
     }
     .back-button:hover {
-        background-color: #218838;
+        background-color: #bcab23;
     }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Экзамен сұрақтары</h1>
+        <h1>Java Lesson</h1>
           <div style="text-align: center; margin-top: 20px;">
         <a href="index.html" class="back-button">Арқа қайту</a>
     </div>
@@ -191,7 +191,12 @@
         <div class="answer" id="answer37">`do` циклы кем дегенде бір рет орындалады, одан кейін шарт тексеріледі.</div>
 
         <button class="question" onclick="toggleAnswer(38)">Қате өңдеу дегеніміз не?</button>
-        <div class="answer" id="answer38">Қате өңдеу — бағдарламаның қате жағдайларын болдырмау немесе оларды басқару үшін арнайы кодты қолдану.</div>
+        <div class="answer" id="answer38">Бір нәрсені орындауға тырысыңыз (try):
+            Қате тудыруы мүмкін Код try блогына орналастырылады.
+            Қатені ұстау (catch):
+            Егер try блогында қате пайда болса, орындау осы қатені өңдеуге болатын тиісті catch блогына өтеді.
+            Әрқашан бір нәрсені орындаңыз (finally) (міндетті емес):
+            Finally блогындағы Код қате болғанына немесе болмағанына қарамастан әрқашан орындалады</div>
     </div>
 
     <script>
