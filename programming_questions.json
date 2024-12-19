@@ -754,7 +754,7 @@
             {"text": "32 бит", "is_correct": false},
             {"text": "64 бит", "is_correct": false}
         ]
-    }
+    },
        
     {
         "question": "Метод main() дегеніміз не?",
