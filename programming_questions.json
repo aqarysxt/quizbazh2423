@@ -54,11 +54,11 @@
         "variants": [
             {
                 "text": "Процедуралық бағдарламалау",
-                "is_correct": true
+                "is_correct": false
             },
             {
                 "text": "Объектіге бағытталған бағдарламалау",
-                "is_correct": false
+                "is_correct": true
             },
             {
                 "text": "Функционалды бағдарламалау",
