@@ -1,0 +1,929 @@
+{
+    "questions": [
+        {
+            "question": "Инкапсуляция деген не?",
+            "variants": [
+                {
+                    "text": "Объектінің деректерін жасыру және тек қажетті функцияларды қолжетімді ету",
+                    "is_correct": true
+                },
+                {
+                    "text": "Деректерді ашық ету",
+                    "is_correct": false
+                },
+                {
+                    "text": "Тек әдістерді жасыру",
+                    "is_correct": false
+                },
+                {
+                    "text": "Класс атын өзгерту",
+                    "is_correct": false
+                },
+                {
+                    "text": "Кодтың қысқа болуын қамтамасыз ету",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Кластың атрибуттары немесе әдістері қандай болуы мүмкін?",
+            "variants": [
+                {
+                    "text": "Жеке, қорғалған, көпшілікке қолжетімді",
+                    "is_correct": true
+                },
+                {
+                    "text": "Тек жеке",
+                    "is_correct": false
+                },
+                {
+                    "text": "Тек көпшілікке қолжетімді",
+                    "is_correct": false
+                },
+                {
+                    "text": "Қорғалған және көпшілікке қолжетімді",
+                    "is_correct": false
+                },
+                {
+                    "text": "Қолданушы анықтай алмайды",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Java қандай бағдарламалау түріне жатады?",
+            "variants": [
+                {
+                    "text": "Объектке бағытталған",
+                    "is_correct": true
+                },
+                {
+                    "text": "Процедуралық",
+                    "is_correct": false
+                },
+                {
+                    "text": "Логикалық",
+                    "is_correct": false
+                },
+                {
+                    "text": "Функционалды",
+                    "is_correct": false
+                },
+                {
+                    "text": "Скрипттік",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Java негізгі компоненттері?",
+            "variants": [
+                {
+                    "text": "JVM, JRE, JDK",
+                    "is_correct": true
+                },
+                {
+                    "text": "IDE, API, CLI",
+                    "is_correct": false
+                },
+                {
+                    "text": "HTML, CSS, JS",
+                    "is_correct": false
+                },
+                {
+                    "text": "SDK, CLI, RTE",
+                    "is_correct": false
+                },
+                {
+                    "text": "Compiler, Interpreter, Debugger",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Экземплярлық айнымалылар деген не?",
+            "variants": [
+                {
+                    "text": "Кластың әр объектісіне арналған жеке айнымалылар",
+                    "is_correct": true
+                },
+                {
+                    "text": "Тек кластағы тұрақты мәндер",
+                    "is_correct": false
+                },
+                {
+                    "text": "Барлық объектілерге ортақ мәндер",
+                    "is_correct": false
+                },
+                {
+                    "text": "Кластың константалары",
+                    "is_correct": false
+                },
+                {
+                    "text": "Уақытша сақталатын мәндер",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Локалды айнымалылар деген не?",
+            "variants": [
+                {
+                    "text": "Әдіс ішінде анықталатын және әдіс аяқталғаннан кейін жойылатын айнымалылар",
+                    "is_correct": true
+                },
+                {
+                    "text": "Тек кластың сыртында қолданылатын айнымалылар",
+                    "is_correct": false
+                },
+                {
+                    "text": "Барлық кластарға ортақ мәндер",
+                    "is_correct": false
+                },
+                {
+                    "text": "Объектінің сыртқы атрибуттары",
+                    "is_correct": false
+                },
+                {
+                    "text": "Тек жүйелік айнымалылар",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Класс қандай айнымалыларды қамтуы мүмкін?",
+            "variants": [
+                {
+                    "text": "Экземплярлық, статикалық, локалды",
+                    "is_correct": true
+                },
+                {
+                    "text": "Тек экземплярлық",
+                    "is_correct": false
+                },
+                {
+                    "text": "Тек статикалық",
+                    "is_correct": false
+                },
+                {
+                    "text": "Барлығы дерлік",
+                    "is_correct": false
+                },
+                {
+                    "text": "Тек тұрақты мәндер",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "public class Cat { }, class нені білдіреді?",
+            "variants": [
+                {
+                    "text": "Класс жариялау үшін қолданылатын негізгі кілттік сөз",
+                    "is_correct": true
+                },
+                {
+                    "text": "Айнымалыны анықтау",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдісті орындау",
+                    "is_correct": false
+                },
+                {
+                    "text": "Статикалық мән жасау",
+                    "is_correct": false
+                },
+                {
+                    "text": "Деректерді жасыру",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "public class Cat { }, Cat нені білдіреді?",
+            "variants": [
+                {
+                    "text": "Кластың атауы",
+                    "is_correct": true
+                },
+                {
+                    "text": "Айнымалы атауы",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдіс атауы",
+                    "is_correct": false
+                },
+                {
+                    "text": "Параметр атауы",
+                    "is_correct": false
+                },
+                {
+                    "text": "Стандартты кілттік сөз",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "public class Cat { }, { } нені білдіреді?",
+            "variants": [
+                {
+                    "text": "Код блогын көрсету",
+                    "is_correct": true
+                },
+                {
+                    "text": "Әдісті аяқтау",
+                    "is_correct": false
+                },
+                {
+                    "text": "Жолдарды бөлу",
+                    "is_correct": false
+                },
+                {
+                    "text": "Айнымалы анықтау",
+                    "is_correct": false
+                },
+                {
+                    "text": "Комментарий жазу",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "public void eat() деген жазу нені білдіреді?",
+            "variants": [
+                {
+                    "text": "\"eat\" әдісін жариялау",
+                    "is_correct": true
+                },
+                {
+                    "text": "Айнымалыны жариялау",
+                    "is_correct": false
+                },
+                {
+                    "text": "Параметрді енгізу",
+                    "is_correct": false
+                },
+                {
+                    "text": "Мәнді қайтару",
+                    "is_correct": false
+                },
+                {
+                    "text": "Конструктор жасау",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "public void eat() жазуындағы eat нені білдіреді?",
+            "variants": [
+                {
+                    "text": "Әдістің атауы",
+                    "is_correct": true
+                },
+                {
+                    "text": "Айнымалының мәні",
+                    "is_correct": false
+                },
+                {
+                    "text": "Константаның атауы",
+                    "is_correct": false
+                },
+                {
+                    "text": "Кілттік сөз",
+                    "is_correct": false
+                },
+                {
+                    "text": "Параметрдің атауы",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "public void eat() жазуындағы public нені білдіреді?",
+            "variants": [
+                {
+                    "text": "Әдістің көпшілікке қолжетімді екенін көрсету",
+                    "is_correct": true
+                },
+                {
+                    "text": "Әдістің жеке екенін көрсету",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдістің тек класта қолданылуын көрсету",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдістің тұрақты екенін көрсету",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдістің орындалуын тоқтату",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "public void eat() жазуындағы void нені білдіреді?",
+            "variants": [
+                {
+                    "text": "Әдіс ешқандай мән қайтармайтынын көрсету",
+                    "is_correct": true
+                },
+                {
+                    "text": "Әдістің тек бүтін мән қайтаруын көрсету",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдістің жол қайтаруын көрсету",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдістің массив қайтаруын көрсету",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдістің статикалық екенін көрсету",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "System.out.print() не үшін қолданылады?",
+            "variants": [
+                {
+                    "text": "Мәтінді консольге шығару үшін",
+                    "is_correct": true
+                },
+                {
+                    "text": "Деректерді енгізу үшін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Жолдарды жою үшін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Кодты аяқтау үшін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Мәндерді салыстыру үшін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "public String speak(String words) { String phrase = words + \"...mauu...\\n\"; return phrase; } жазуындағы String нені білдіреді?",
+            "variants": [
+                {
+                    "text": "Әдістің қайтару типін",
+                    "is_correct": true
+                },
+                {
+                    "text": "Айнымалы типін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Әдістің атауын",
+                    "is_correct": false
+                },
+                {
+                    "text": "Параметрдің типін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Константа мәнін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "byte типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "-128-ден 127-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "0-ден 255-ке дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Мүмкін емес",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "short типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-128-ден 127-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "0-ден 65,535-ке дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "int типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-128-ден 127-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "0-ден 4,294,967,295-ке дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "long типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "0-ден 4,294,967,295-ке дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-128-ден 127-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "float типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "~3.4e-38-ден ~3.4e+38-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "0-ден 1-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "double типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "~1.7e-308-ден ~1.7e+308-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "~3.4e-38-ден ~3.4e+38-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "char типінің сипаттамасы қандай?",
+            "variants": [
+                {
+                    "text": "16-биттік символдарды сақтайды",
+                    "is_correct": true
+                },
+                {
+                    "text": "8-биттік символдарды сақтайды",
+                    "is_correct": false
+                },
+                {
+                    "text": "Тек ASCII символдарын сақтайды",
+                    "is_correct": false
+                },
+                {
+                    "text": "Бүтін сандарды сақтайды",
+                    "is_correct": false
+                },
+                {
+                    "text": "Жолдық мәліметтерді сақтайды",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "boolean типінің сипаттамасы қандай?",
+            "variants": [
+                {
+                    "text": "Шын немесе жалған мәндерді сақтайды",
+                    "is_correct": true
+                },
+                {
+                    "text": "Бүтін мәндерді сақтайды",
+                    "is_correct": false
+                },
+                {
+                    "text": "Символдық мәндерді сақтайды",
+                    "is_correct": false
+                },
+                {
+                    "text": "Қос сандық мәндерді сақтайды",
+                    "is_correct": false
+                },
+                {
+                    "text": "Айнымалының атауын көрсетеді",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "byte типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "-128-ден 127-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "0-ден 255-ке дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "short типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-128-ден 127-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "0-ден 65,535-ке дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "int типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-128-ден 127-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "0-ден 4,294,967,295-ке дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "long типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "0-ден 4,294,967,295-ке дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-128-ден 127-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "float типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "~3.4e-38-ден ~3.4e+38-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "0-ден 1-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "double типінің деректер ауқымы қандай?",
+            "variants": [
+                {
+                    "text": "~1.7e-308-ден ~1.7e+308-ге дейін",
+                    "is_correct": true
+                },
+                {
+                    "text": "-2,147,483,648-ден 2,147,483,647-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-32,768-ден 32,767-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "-9,223,372,036,854,775,808-ден 9,223,372,036,854,775,807-ге дейін",
+                    "is_correct": false
+                },
+                {
+                    "text": "~3.4e-38-ден ~3.4e+38-ге дейін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "main() әдісі деген не?",
+            "variants": [
+                {
+                    "text": "Бағдарламаның бастапқы нүктесі",
+                    "is_correct": true
+                },
+                {
+                    "text": "Айнымалыны жариялау әдісі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Деректерді енгізу әдісі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Константаларды сақтау әдісі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Массивтерді қайта өңдеу әдісі",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Методтар құру және оларды өңдеу қалай іске асады?",
+            "variants": [
+                {
+                    "text": "Методтар класста жарияланып, шақырылады",
+                    "is_correct": true
+                },
+                {
+                    "text": "Методтар тек интерфейсте жарияланады",
+                    "is_correct": false
+                },
+                {
+                    "text": "Методтар тек статикалық болуы керек",
+                    "is_correct": false
+                },
+                {
+                    "text": "Методтарды тек сыртқы файлда құру қажет",
+                    "is_correct": false
+                },
+                {
+                    "text": "Методтар ешқашан қайта шақырылмайды",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Енгізу және шығару ағындары деген не?",
+            "variants": [
+                {
+                    "text": "Деректерді файлдардан оқу және жазу механизмдері",
+                    "is_correct": true
+                },
+                {
+                    "text": "Айнымалыны жариялау тәсілі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Символдарды кодтау әдісі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Бағдарламаны аяқтау тәсілі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Массивтерді басқару әдісі",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Файлдармен жұмыс деген не?",
+            "variants": [
+                {
+                    "text": "Файлдарды ашу, жазу және оқу операциялары",
+                    "is_correct": true
+                },
+                {
+                    "text": "Файлдарды шифрлау тәсілдері",
+                    "is_correct": false
+                },
+                {
+                    "text": "Файлдарды жою механизмдері",
+                    "is_correct": false
+                },
+                {
+                    "text": "Айнымалыларды сақтау тәсілдері",
+                    "is_correct": false
+                },
+                {
+                    "text": "Файлдарды желіге жіберу тәсілдері",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "continue және break операторлары не үшін қолданылады?",
+            "variants": [
+                {
+                    "text": "Циклдерді басқару үшін",
+                    "is_correct": true
+                },
+                {
+                    "text": "Айнымалыларды жариялау үшін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Файлдарды жою үшін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Символдарды өңдеу үшін",
+                    "is_correct": false
+                },
+                {
+                    "text": "Бағдарламаны аяқтау үшін",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "do циклы деген не?",
+            "variants": [
+                {
+                    "text": "Шарт тексерілгеннен кейін кем дегенде бір рет орындалатын цикл",
+                    "is_correct": true
+                },
+                {
+                    "text": "Тек шартқа байланысты орындалатын цикл",
+                    "is_correct": false
+                },
+                {
+                    "text": "Шексіз цикл",
+                    "is_correct": false
+                },
+                {
+                    "text": "Барлық деректерді өңдейтін цикл",
+                    "is_correct": false
+                },
+                {
+                    "text": "Тек бір рет орындалатын цикл",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "Ерекшеліктерді өңдеу деген не?",
+            "variants": [
+                {
+                    "text": "Бағдарламада қателіктерді өңдеу механизмі",
+                    "is_correct": true
+                },
+                {
+                    "text": "Бағдарламаны жылдамдату тәсілі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Айнымалыларды кодтау әдісі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Деректерді шифрлау механизмі",
+                    "is_correct": false
+                },
+                {
+                    "text": "Бағдарламаның тоқтауын басқару механизмі",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}
