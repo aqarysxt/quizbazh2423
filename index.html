@@ -17,68 +17,70 @@
         }
         .container {
             text-align: center;
-            padding: 20px;
         }
         h1 {
-            color: #333;
-            margin-bottom: 20px;
-            font-size: 1.8em;
+            color: #4a4a4a;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            color: #666;
+            margin-bottom: 30px;
         }
         .subjects {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
             gap: 20px;
+            justify-content: center;
         }
         .subject {
-            background-color: #007BFF;
+            background-color: #4f73ff;
             color: white;
-            padding: 15px 30px;
+            padding: 20px;
             border-radius: 10px;
             cursor: pointer;
             text-decoration: none;
             font-size: 1em;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: background-color 0.3s, transform 0.2s;
             text-align: center;
-            width: 100%;
-            max-width: 200px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s, background-color 0.3s;
         }
         .subject:hover {
-            background-color: #0056b3;
-            transform: translateY(-5px);
+            background-color: #3a5fe0;
+            transform: scale(1.05);
         }
         @media (max-width: 768px) {
             h1 {
-                font-size: 1.5em;
+                font-size: 2em;
             }
-            .subject {
-                font-size: 0.9em;
-                padding: 10px 20px;
+            p {
+                font-size: 1em;
             }
         }
         @media (max-width: 480px) {
-            .container {
-                padding: 10px;
-            }
             h1 {
-                font-size: 1.2em;
+                font-size: 1.8em;
+            }
+            p {
+                font-size: 0.9em;
             }
             .subject {
-                font-size: 0.8em;
-                padding: 8px 15px;
+                font-size: 0.9em;
+                padding: 15px;
             }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Тест тақырыптарын таңдаңыз</h1>
+        <h1>WELCOME</h1>
+        <p>Тесттен өту үшін керек пәнді таңдаңыз!</p>
         <div class="subjects">
             <a class="subject" href="quiz.html?subject=fizika.json">Физика</a>
             <a class="subject" href="quiz.html?subject=kaz_tarix.json">Тарих</a>
-            <a class="subject" href="quiz.html?subject=programming_questions.json">Java 40quiz</a>
-            <a class="subject" href="java.html">Java Теория</a>
+            <a class="subject" href="quiz.html?subject=programming_questions.json">Java quiz</a>
+            <a class="subject" href="java.html">Java lessons</a>
         </div>
     </div>
 </body>
