@@ -6,138 +6,140 @@
     <title>Quiz Application</title>
     <style>
     body {
-        font-family: 'Arial', sans-serif;
-        background-color: #f4f4f9;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        box-sizing: border-box;
-    }
-    .container {
-        width: 100%;
-        max-width: 650px;
-        margin: 20px;
-        background: #ffffff;
-        padding: 30px;
-        border-radius: 12px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .question-header {
-        font-size: 1.2em;
-        color: #555;
-        margin-bottom: 20px;
-        text-align: center;
-    }
-    .question {
-        font-size: 1.5em;
-        font-weight: bold;
-        color: #333;
-        text-align: center;
-        margin-bottom: 20px;
-    }
-    .variants {
-        list-style: none;
-        padding: 0;
-        width: 100%;
-    }
-    .variants li {
-        margin-bottom: 12px;
-    }
-    .variants button {
-        width: 100%;
-        padding: 12px;
-        font-size: 1.1em;
-        border: none;
-        border-radius: 8px;
-        cursor: pointer;
-        background-color: #f1f1f1;
-        color: #333;
-        transition: background 0.3s ease;
-    }
-    .variants button.correct {
-        background-color: #4caf50;
-        color: #fff;
-    }
-    .variants button.incorrect {
-        background-color: #f44336;
-        color: #fff;
-    }
-
-
-    .navigation {
-        display: flex;
-        justify-content: space-between;
-        margin-top: 20px;
-        width: 100%;
-    }
-    .navigation button {
-        padding: 12px 25px;
-        font-size: 1.1em;
-        border: none;
-        border-radius: 8px;
-        cursor: pointer;
-        background-color: #4f73ff;
-        color: white;
-        transition: background 0.3s ease;
-    }
-    .navigation button:hover {
-        background-color: #4f36ff;
-    }
-    .score {
-        text-align: center;
-        font-size: 1.6em;
-        font-weight: bold;
-        margin-top: 30px;
-        color: #333;
-    }
-    .review {
-        text-align: center;
-        margin-top: 30px;
-    }
-    .review button {
-        padding: 12px 25px;
-        font-size: 1.1em;
-        border: none;
-        border-radius: 8px;
-        cursor: pointer;
-        background-color: #4f73ff;
-        color: white;
-        transition: background 0.3s ease;
-    }
-    .review button:hover {
-        background-color: #3a5fe0;
-    }
-
-    /* Адаптивті дизайн */
-    @media (max-width: 600px) {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            box-sizing: border-box;
+            background: linear-gradient(135deg, #6a11cb, #2575fc);
+            color: #ffffff;
+        }
         .container {
-            padding: 20px;
-            width: 90%;
+            width: 100%;
+            max-width: 700px;
+            margin: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            backdrop-filter: blur(10px);
         }
         .question-header {
-            font-size: 1em;
+            font-size: 1.4em;
+            color: #f0f0f0;
+            margin-bottom: 20px;
+            text-align: center;
         }
         .question {
-            font-size: 1.2em;
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #ffffff;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .variants {
+            list-style: none;
+            padding: 0;
+            width: 100%;
+        }
+        .variants li {
+            margin-bottom: 15px;
         }
         .variants button {
-            font-size: 1em;
-            padding: 14px;
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1em;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            background-color: rgba(255, 255, 255, 0.2);
+            color: #ffffff;
+            transition: all 0.3s ease;
+        }
+        .variants button:hover {
+            background-color: rgba(255, 255, 255, 0.4);
+        }
+        .variants button.correct {
+            background-color: #28a745;
+            color: #fff;
+        }
+        .variants button.incorrect {
+            background-color: #dc3545;
+            color: #fff;
+        }
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+            width: 100%;
         }
         .navigation button {
-            font-size: 1em;
-            padding: 10px 20px;
+            padding: 12px 30px;
+            font-size: 1.1em;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            background-color: rgba(255, 255, 255, 0.2);
+            color: white;
+            transition: all 0.3s ease;
+        }
+        .navigation button:hover {
+            background-color: rgba(255, 255, 255, 0.4);
         }
         .score {
-            font-size: 1.4em;
+            text-align: center;
+            font-size: 1.8em;
+            font-weight: bold;
+            margin-top: 30px;
+            color: #ffffff;
         }
-    }
+        .review {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .review button {
+            padding: 12px 25px;
+            font-size: 1.1em;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            background-color: rgba(255, 255, 255, 0.2);
+            color: white;
+            transition: all 0.3s ease;
+        }
+        .review button:hover {
+            background-color: rgba(255, 255, 255, 0.4);
+        }
+        /* Адаптивті дизайн */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+                width: 90%;
+            }
+            .question-header {
+                font-size: 1.2em;
+            }
+            .question {
+                font-size: 1.4em;
+            }
+            .variants button {
+                font-size: 1em;
+                padding: 12px;
+            }
+            .navigation button {
+                font-size: 1em;
+                padding: 10px 20px;
+            }
+            .score {
+                font-size: 1.6em;
+            }
+        }
 </style>
 
 
