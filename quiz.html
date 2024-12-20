@@ -10,6 +10,7 @@
             margin: 0;
             padding: 0;
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
@@ -19,9 +20,9 @@
         }
         .container {
             width: 100%;
-            max-width: 700px;
+            max-width: 650px;
             margin: 20px;
-            background: rgba(255, 255, 255, 0.1);
+            background: rgba(255, 255, 255, 0.908);
             padding: 30px;
             border-radius: 15px;
             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
@@ -32,15 +33,15 @@
         }
         .question-header {
             font-size: 1.4em;
-            color: #f0f0f0;
+            color: #2a2a2a;
             margin-bottom: 20px;
             text-align: center;
         }
         .question {
-            font-size: 1.8em;
+            font-size: 1.4em;
             font-weight: bold;
-            color: #ffffff;
-            text-align: center;
+            color: #313131;
+            text-align: left;
             margin-bottom: 20px;
         }
         .variants {
@@ -55,22 +56,23 @@
             width: 100%;
             padding: 15px;
             font-size: 1.1em;
-            border: none;
-            border-radius: 12px;
+            border: solid 1px;
+            border-radius: 25px;
+            border-color: #666666;
             cursor: pointer;
-            background-color: rgba(255, 255, 255, 0.2);
-            color: #ffffff;
+            background-color: rgba(242, 236, 255, 0.2);
+            color: #000000;
             transition: all 0.3s ease;
         }
         .variants button:hover {
             background-color: rgba(255, 255, 255, 0.4);
         }
         .variants button.correct {
-            background-color: #28a745;
+            background-color: #00E880;
             color: #fff;
         }
         .variants button.incorrect {
-            background-color: #dc3545;
+            background-color: #FF0044;
             color: #fff;
         }
         .navigation {
@@ -80,47 +82,83 @@
             width: 100%;
         }
         .navigation button {
-            padding: 12px 30px;
+            padding: 12px 35px;
             font-size: 1.1em;
-            border: none;
-            border-radius: 12px;
+            border: solid 1px;
+            border-radius: 25px;
+            border-color: #666666;
             cursor: pointer;
-            background-color: rgba(255, 255, 255, 0.2);
-            color: white;
+            background-color: rgba(255, 255, 255, 0);
+            color: rgb(40, 40, 40);
             transition: all 0.3s ease;
         }
         .navigation button:hover {
-            background-color: rgba(255, 255, 255, 0.4);
-        }
+            background-color: rgb(255, 200, 0);
+            color: #fff;
+               }
         .score {
             text-align: center;
             font-size: 1.8em;
             font-weight: bold;
             margin-top: 30px;
-            color: #ffffff;
+            color:  rgb(0, 0, 0);
         }
         .review {
             text-align: center;
             margin-top: 30px;
         }
         .review button {
-            padding: 12px 25px;
+            padding: 12px 35px;
             font-size: 1.1em;
-            border: none;
-            border-radius: 12px;
+            border: solid 1px;
+            border-radius: 25px;
+            border-color: #666666;
             cursor: pointer;
-            background-color: rgba(255, 255, 255, 0.2);
-            color: white;
+            background-color: rgba(255, 255, 255, 0);
+            color: rgb(40, 40, 40);
             transition: all 0.3s ease;
         }
         .review button:hover {
-            background-color: rgba(255, 255, 255, 0.4);
+            background-color: rgb(255, 200, 0);
+            color: #fff;
+        }
+
+        .quizscore{
+            font-weight: 500;
+            font-size: 1.2em;
+        }
+    
+        .tab-bar {
+            width: 100%;
+            max-width: 710px;
+            background-color: rgba(255, 255, 255, 0.1);
+            margin-bottom:10px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            position: fixed;
+            bottom: 0;
+            z-index: 1000;
+        }
+        .tab-bar a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 1.2em;
+            font-weight: 900;
+            transition: color 0.3s ease;
+            padding: 15px ;
+        }
+        .tab-bar a:hover {
+            color: #ffce3b;
+           
         }
         /* Адаптивті дизайн */
         @media (max-width: 600px) {
             .container {
                 padding: 20px;
-                width: 90%;
+                width: 85%;
             }
             .question-header {
                 font-size: 1.2em;
@@ -139,12 +177,22 @@
             .score {
                 font-size: 1.6em;
             }
+            .tab-bar a {
+                font-size: 1em;
+            }
+        }
+        .text{
+            font-size: 70px;
+            font-weight: 1000;
+            color: #ffd965;
         }
 </style>
 
 
 </head>
 <body>
+    
+    <div class="text">QUIZ</div>
     <div class="container">
         <div id="quiz">
             <!-- Викторина динамикалық түрде жүктеледі -->
@@ -158,6 +206,11 @@
             <button id="prevButton" onclick="prevQuestion()" disabled>Артқа</button>
             <button id="nextButton" onclick="nextQuestion()">Келесі</button>
         </div>
+    </div>
+    <div class="tab-bar">
+        <a href="/index.html">Home</a>
+        <div id="quizscore" class="quizscore"></div>
+        <a href="/index.html">Close</a>
     </div>
 
     <script>
@@ -194,9 +247,11 @@
 
         function loadQuestion() {
             const quizDiv = document.getElementById('quiz');
+            const quizScore = document.getElementById('quizscore');
             const scoreDiv = document.getElementById('score');
 
             if (currentQuestionIndex >= questions.length) {
+                quizScore.style.display = 'none'
                 quizDiv.style.display = 'none';
                 document.querySelector('.navigation').style.display = 'none';
                 scoreDiv.style.display = 'block';
@@ -208,8 +263,13 @@
             const questionData = questions[currentQuestionIndex];
             const shuffledVariants = shuffleVariants(questionData.variants);
 
+            quizScore.innerHTML = `
+             <div class="quest"> ${currentQuestionIndex + 1} / ${questions.length}</div>
+            `
+
             quizDiv.innerHTML = `
-                <div class="question">${questionData.question} (Сұрақ ${currentQuestionIndex + 1} / ${questions.length})</div>
+                
+                <div class="question">${currentQuestionIndex + 1}. ${questionData.question} </div>
                 <ul class="variants">
                     ${shuffledVariants.map((variant, index) => `
                         <li>
