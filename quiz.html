@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Application</title>
     <style>
-    body {
+        body {
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
@@ -20,10 +20,10 @@
         }
         .container {
             width: 100%;
-            max-width: 650px;
+            max-width: 585px; /* 10% smaller */
             margin: 20px;
             background: rgba(255, 255, 255, 0.908);
-            padding: 30px;
+            padding: 27px; /* 10% smaller */
             border-radius: 15px;
             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
             display: flex;
@@ -32,17 +32,17 @@
             backdrop-filter: blur(10px);
         }
         .question-header {
-            font-size: 1.4em;
+            font-size: 1.26em; /* 10% smaller */
             color: #2a2a2a;
-            margin-bottom: 20px;
+            margin-bottom: 18px; /* 10% smaller */
             text-align: center;
         }
         .question {
-            font-size: 1.4em;
+            font-size: 1.26em; /* 10% smaller */
             font-weight: bold;
             color: #313131;
             text-align: left;
-            margin-bottom: 20px;
+            margin-bottom: 18px; /* 10% smaller */
         }
         .variants {
             list-style: none;
@@ -50,12 +50,12 @@
             width: 100%;
         }
         .variants li {
-            margin-bottom: 15px;
+            margin-bottom: 13px; /* 10% smaller */
         }
         .variants button {
             width: 100%;
-            padding: 15px;
-            font-size: 1.1em;
+            padding: 13.5px; /* 10% smaller */
+            font-size: 1em; /* 10% smaller */
             border: solid 1px;
             border-radius: 25px;
             border-color: #666666;
@@ -78,12 +78,12 @@
         .navigation {
             display: flex;
             justify-content: space-between;
-            margin-top: 20px;
+            margin-top: 18px; /* 10% smaller */
             width: 100%;
         }
         .navigation button {
-            padding: 12px 35px;
-            font-size: 1.1em;
+            padding: 10.8px 31.5px; /* 10% smaller */
+            font-size: 1em; /* 10% smaller */
             border: solid 1px;
             border-radius: 25px;
             border-color: #666666;
@@ -95,21 +95,21 @@
         .navigation button:hover {
             background-color: rgb(255, 200, 0);
             color: #fff;
-               }
+        }
         .score {
             text-align: center;
-            font-size: 1.8em;
+            font-size: 1.62em; /* 10% smaller */
             font-weight: bold;
-            margin-top: 30px;
+            margin-top: 27px; /* 10% smaller */
             color:  rgb(0, 0, 0);
         }
         .review {
             text-align: center;
-            margin-top: 30px;
+            margin-top: 27px; /* 10% smaller */
         }
         .review button {
-            padding: 12px 35px;
-            font-size: 1.1em;
+            padding: 10.8px 31.5px; /* 10% smaller */
+            font-size: 1em; /* 10% smaller */
             border: solid 1px;
             border-radius: 25px;
             border-color: #666666;
@@ -122,17 +122,17 @@
             background-color: rgb(255, 200, 0);
             color: #fff;
         }
-
+    
         .quizscore{
-            font-weight: 500;
-            font-size: 1.2em;
+            font-weight: 450;
+            font-size: 1.08em; /* 10% smaller */
         }
     
         .tab-bar {
             width: 100%;
-            max-width: 710px;
+            max-width: 639px; /* 10% smaller */
             background-color: rgba(255, 255, 255, 0.1);
-            margin-bottom:10px;
+            margin-bottom:9px; /* 10% smaller */
             border-radius: 15px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
             display: flex;
@@ -145,50 +145,47 @@
         .tab-bar a {
             color: #ffffff;
             text-decoration: none;
-            font-size: 1.2em;
+            font-size: 1.08em; /* 10% smaller */
             font-weight: 900;
             transition: color 0.3s ease;
-            padding: 15px ;
+            padding: 13.5px ; /* 10% smaller */
         }
         .tab-bar a:hover {
             color: #ffce3b;
-           
         }
         /* Адаптивті дизайн */
         @media (max-width: 600px) {
             .container {
-                padding: 20px;
+                padding: 18px; /* 10% smaller */
                 width: 85%;
             }
             .question-header {
-                font-size: 1.2em;
+                font-size: 1.08em; /* 10% smaller */
             }
             .question {
-                font-size: 1.4em;
+                font-size: 1.26em; /* 10% smaller */
             }
             .variants button {
-                font-size: 1em;
-                padding: 12px;
+                font-size: 0.9em; /* 10% smaller */
+                padding: 10.8px; /* 10% smaller */
             }
             .navigation button {
-                font-size: 1em;
-                padding: 10px 20px;
+                font-size: 0.9em; /* 10% smaller */
+                padding: 9px 18px; /* 10% smaller */
             }
             .score {
-                font-size: 1.6em;
+                font-size: 1.44em; /* 10% smaller */
             }
             .tab-bar a {
-                font-size: 1em;
+                font-size: 0.9em; /* 10% smaller */
             }
         }
         .text{
-            font-size: 70px;
+            font-size: 63px; /* 10% smaller */
             font-weight: 1000;
             color: #ffd965;
         }
-</style>
-
-
+    </style>
 </head>
 <body>
     
@@ -208,9 +205,9 @@
         </div>
     </div>
     <div class="tab-bar">
-        <a href="index.html">Home</a>
+        <a href="/index.html">Home</a>
         <div id="quizscore" class="quizscore"></div>
-        <a href="index.html">Close</a>
+        <a href="/index.html">Close</a>
     </div>
 
     <script>
