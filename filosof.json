@@ -6467,7 +6467,7 @@
         "variants": [
             {
                 "text": "Милет",
-                "is_correct": false
+                "is_correct": true
             },
             {
                 "text": "Спарта",
@@ -6483,7 +6483,7 @@
             },
             {
                 "text": "Афины",
-                "is_correct": true
+                "is_correct": false
             }
         ]
     },
