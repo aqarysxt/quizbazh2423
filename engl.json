@@ -1,0 +1,5148 @@
+[
+    {
+        "question": "To turn on the computer, __________ the \"Start\" button.",
+        "options": [
+            {
+                "text": "touch",
+                "isCorrect": false
+            },
+            {
+                "text": "switch",
+                "isCorrect": false
+            },
+            {
+                "text": "activate",
+                "isCorrect": false
+            },
+            {
+                "text": "press",
+                "isCorrect": true
+            },
+            {
+                "text": "engage",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The printer has __________ of ink.",
+        "options": [
+            {
+                "text": "ended",
+                "isCorrect": false
+            },
+            {
+                "text": "finished",
+                "isCorrect": false
+            },
+            {
+                "text": "used up",
+                "isCorrect": false
+            },
+            {
+                "text": "exhausted",
+                "isCorrect": false
+            },
+            {
+                "text": "run out",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Unfortunately, my scanner isn't __________ at the moment.",
+        "options": [
+            {
+                "text": "going",
+                "isCorrect": false
+            },
+            {
+                "text": "doing",
+                "isCorrect": false
+            },
+            {
+                "text": "functioning",
+                "isCorrect": false
+            },
+            {
+                "text": "working",
+                "isCorrect": true
+            },
+            {
+                "text": "works",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Please __________ the CD ROM.",
+        "options": [
+            {
+                "text": "insert",
+                "isCorrect": true
+            },
+            {
+                "text": "introduce",
+                "isCorrect": false
+            },
+            {
+                "text": "inject",
+                "isCorrect": false
+            },
+            {
+                "text": "place",
+                "isCorrect": false
+            },
+            {
+                "text": "install",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The projector isn't working because it isn't __________.",
+        "options": [
+            {
+                "text": "plugged in",
+                "isCorrect": true
+            },
+            {
+                "text": "plugged",
+                "isCorrect": false
+            },
+            {
+                "text": "plugged into",
+                "isCorrect": false
+            },
+            {
+                "text": "connected",
+                "isCorrect": false
+            },
+            {
+                "text": "hooked up",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The batteries in my digital camera are nearly dead. They need __________.",
+        "options": [
+            {
+                "text": "exchanging",
+                "isCorrect": false
+            },
+            {
+                "text": "to change",
+                "isCorrect": false
+            },
+            {
+                "text": "replacement",
+                "isCorrect": false
+            },
+            {
+                "text": "changing",
+                "isCorrect": true
+            },
+            {
+                "text": "to be changed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I have to __________ a computer screen for eight hours a day.",
+        "options": [
+            {
+                "text": "ook at",
+                "isCorrect": false
+            },
+            {
+                "text": "see",
+                "isCorrect": false
+            },
+            {
+                "text": "watch",
+                "isCorrect": false
+            },
+            {
+                "text": "stare at",
+                "isCorrect": true
+            },
+            {
+                "text": "gaze at",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Switch off your computer, and __________ it from the wall socket.",
+        "options": [
+            {
+                "text": "unplug",
+                "isCorrect": true
+            },
+            {
+                "text": "de-plug",
+                "isCorrect": false
+            },
+            {
+                "text": "non-plug",
+                "isCorrect": false
+            },
+            {
+                "text": "disconnect",
+                "isCorrect": false
+            },
+            {
+                "text": "detach",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I turned off the photocopier and ___________ the plug.",
+        "options": [
+            {
+                "text": "extracted",
+                "isCorrect": false
+            },
+            {
+                "text": "took away",
+                "isCorrect": false
+            },
+            {
+                "text": "pulled out",
+                "isCorrect": true
+            },
+            {
+                "text": "removed",
+                "isCorrect": false
+            },
+            {
+                "text": "unplugged",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "__________ any key to continue.",
+        "options": [
+            {
+                "text": "hit",
+                "isCorrect": true
+            },
+            {
+                "text": "smash",
+                "isCorrect": false
+            },
+            {
+                "text": "kick",
+                "isCorrect": false
+            },
+            {
+                "text": "tap",
+                "isCorrect": false
+            },
+            {
+                "text": "strike",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The mouse moves on a __________.",
+        "options": [
+            {
+                "text": "mouse carpet",
+                "isCorrect": false
+            },
+            {
+                "text": "mouse table",
+                "isCorrect": false
+            },
+            {
+                "text": "mouse pad",
+                "isCorrect": true
+            },
+            {
+                "text": "mouse surface",
+                "isCorrect": false
+            },
+            {
+                "text": "mouse mat",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "TV and computer screens are usually measured in __________.",
+        "options": [
+            {
+                "text": "miles",
+                "isCorrect": false
+            },
+            {
+                "text": "feet",
+                "isCorrect": false
+            },
+            {
+                "text": "centimeters",
+                "isCorrect": false
+            },
+            {
+                "text": "pixels",
+                "isCorrect": false
+            },
+            {
+                "text": "inches",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Before you start work, __________ the height of your chair",
+        "options": [
+            {
+                "text": "rearrange",
+                "isCorrect": false
+            },
+            {
+                "text": "set",
+                "isCorrect": false
+            },
+            {
+                "text": "regulate",
+                "isCorrect": false
+            },
+            {
+                "text": "adjust",
+                "isCorrect": true
+            },
+            {
+                "text": "change",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To get sound from your computer, plug in a pair of __________.",
+        "options": [
+            {
+                "text": "loudspeakers",
+                "isCorrect": false
+            },
+            {
+                "text": "loudhailers",
+                "isCorrect": false
+            },
+            {
+                "text": "loud voices",
+                "isCorrect": false
+            },
+            {
+                "text": "pair of speakers",
+                "isCorrect": false
+            },
+            {
+                "text": "headphones",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The computer is connected to the telephone line via a __________.",
+        "options": [
+            {
+                "text": "mod",
+                "isCorrect": false
+            },
+            {
+                "text": "router",
+                "isCorrect": false
+            },
+            {
+                "text": "network adapter",
+                "isCorrect": false
+            },
+            {
+                "text": "modem",
+                "isCorrect": true
+            },
+            {
+                "text": "module",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can increase the functions or performance of a computer with an __________.",
+        "options": [
+            {
+                "text": "expansion card",
+                "isCorrect": true
+            },
+            {
+                "text": "exploding card",
+                "isCorrect": false
+            },
+            {
+                "text": "extension card",
+                "isCorrect": false
+            },
+            {
+                "text": "upgrade card",
+                "isCorrect": false
+            },
+            {
+                "text": "expansion module",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Mobile phones and PDAs can communicate with computers via __________.",
+        "options": [
+            {
+                "text": "Bluebeard",
+                "isCorrect": false
+            },
+            {
+                "text": "Wi-Fi",
+                "isCorrect": false
+            },
+            {
+                "text": "Bluetooth",
+                "isCorrect": true
+            },
+            {
+                "text": "Blueberry",
+                "isCorrect": false
+            },
+            {
+                "text": "USB cable",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "There's a spare __________ in the workstation…",
+        "options": [
+            {
+                "text": "power point",
+                "isCorrect": false
+            },
+            {
+                "text": "electric hole",
+                "isCorrect": false
+            },
+            {
+                "text": "electrical opening",
+                "isCorrect": false
+            },
+            {
+                "text": "outlet",
+                "isCorrect": false
+            },
+            {
+                "text": "socket",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "…so you can plug in your mobile phone __________.",
+        "options": [
+            {
+                "text": "charger",
+                "isCorrect": true
+            },
+            {
+                "text": "power",
+                "isCorrect": false
+            },
+            {
+                "text": "electrification",
+                "isCorrect": false
+            },
+            {
+                "text": "bluetooth",
+                "isCorrect": false
+            },
+            {
+                "text": "Wi-Fi",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "SD cards can be read in a computer's __________.",
+        "options": [
+            {
+                "text": "memory reader",
+                "isCorrect": false
+            },
+            {
+                "text": "storage reader",
+                "isCorrect": false
+            },
+            {
+                "text": "SD card slot",
+                "isCorrect": false
+            },
+            {
+                "text": "card reader",
+                "isCorrect": true
+            },
+            {
+                "text": "external card reader",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Oh dear. I pressed the __________ button.",
+        "options": [
+            {
+                "text": "wrong",
+                "isCorrect": true
+            },
+            {
+                "text": "incorrect",
+                "isCorrect": false
+            },
+            {
+                "text": "false",
+                "isCorrect": false
+            },
+            {
+                "text": "mistaken",
+                "isCorrect": false
+            },
+            {
+                "text": "erroneous",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I can't use my mobile phone. The battery's __________.",
+        "options": [
+            {
+                "text": "flat",
+                "isCorrect": true
+            },
+            {
+                "text": "over",
+                "isCorrect": false
+            },
+            {
+                "text": "exhausted",
+                "isCorrect": false
+            },
+            {
+                "text": "drained",
+                "isCorrect": false
+            },
+            {
+                "text": "depleted",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The battery isn't completely flat, but its very __________.",
+        "options": [
+            {
+                "text": "short",
+                "isCorrect": false
+            },
+            {
+                "text": "down",
+                "isCorrect": false
+            },
+            {
+                "text": "depleted",
+                "isCorrect": false
+            },
+            {
+                "text": "drained",
+                "isCorrect": false
+            },
+            {
+                "text": "low",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "My video camera is very __________.",
+        "options": [
+            {
+                "text": "easy to use",
+                "isCorrect": true
+            },
+            {
+                "text": "uncomplicated",
+                "isCorrect": false
+            },
+            {
+                "text": "obvious",
+                "isCorrect": false
+            },
+            {
+                "text": "simple",
+                "isCorrect": false
+            },
+            {
+                "text": "straightforward",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My new computer has a very __________ processor.",
+        "options": [
+            {
+                "text": "high speed",
+                "isCorrect": false
+            },
+            {
+                "text": "quick",
+                "isCorrect": false
+            },
+            {
+                "text": "rapid",
+                "isCorrect": false
+            },
+            {
+                "text": "fast",
+                "isCorrect": true
+            },
+            {
+                "text": "speedy",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The X19 notebook computer features a very __________ design.",
+        "options": [
+            {
+                "text": "compact",
+                "isCorrect": false
+            },
+            {
+                "text": "little",
+                "isCorrect": false
+            },
+            {
+                "text": "small",
+                "isCorrect": false
+            },
+            {
+                "text": "sleek",
+                "isCorrect": true
+            },
+            {
+                "text": "streamlined",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Keeping files on paper is __________ solution.",
+        "options": [
+            {
+                "text": "a past-tech",
+                "isCorrect": false
+            },
+            {
+                "text": "an old-tech",
+                "isCorrect": false
+            },
+            {
+                "text": "an outdated solution",
+                "isCorrect": false
+            },
+            {
+                "text": "a traditional solution",
+                "isCorrect": false
+            },
+            {
+                "text": "a low-tech",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Keeping files on a computer database is a __________ solution.",
+        "options": [
+            {
+                "text": "high-tech",
+                "isCorrect": true
+            },
+            {
+                "text": "now-tech",
+                "isCorrect": false
+            },
+            {
+                "text": "new-tech",
+                "isCorrect": false
+            },
+            {
+                "text": "modern-tech",
+                "isCorrect": false
+            },
+            {
+                "text": "digital-tech",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My new PDA is the __________ model.",
+        "options": [
+            {
+                "text": "latest",
+                "isCorrect": true
+            },
+            {
+                "text": "newest",
+                "isCorrect": false
+            },
+            {
+                "text": "most modern",
+                "isCorrect": false
+            },
+            {
+                "text": "freshest model",
+                "isCorrect": false
+            },
+            {
+                "text": "most up-to-date model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In our office, we've set up a __________ network.",
+        "options": [
+            {
+                "text": "wireless",
+                "isCorrect": true
+            },
+            {
+                "text": "no wires",
+                "isCorrect": false
+            },
+            {
+                "text": "wire-free",
+                "isCorrect": false
+            },
+            {
+                "text": "cordless network",
+                "isCorrect": false
+            },
+            {
+                "text": "wireless network",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A call from New York to Toyko is __________ distance.",
+        "options": [
+            {
+                "text": "far",
+                "isCorrect": false
+            },
+            {
+                "text": "faraway",
+                "isCorrect": false
+            },
+            {
+                "text": "considerable distance",
+                "isCorrect": false
+            },
+            {
+                "text": "long",
+                "isCorrect": true
+            },
+            {
+                "text": "substancial distance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I don't think this printer is __________ with my computer.",
+        "options": [
+            {
+                "text": "compatible",
+                "isCorrect": true
+            },
+            {
+                "text": "connectable",
+                "isCorrect": false
+            },
+            {
+                "text": "suitable",
+                "isCorrect": false
+            },
+            {
+                "text": "suitable",
+                "isCorrect": false
+            },
+            {
+                "text": "appropriate",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My laptop is only 3 centimetres ___________.",
+        "options": [
+            {
+                "text": "thick",
+                "isCorrect": true
+            },
+            {
+                "text": "tall",
+                "isCorrect": false
+            },
+            {
+                "text": "wide",
+                "isCorrect": false
+            },
+            {
+                "text": "narrow",
+                "isCorrect": false
+            },
+            {
+                "text": "slender",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The screen on my laptop isn't very __________.",
+        "options": [
+            {
+                "text": "white",
+                "isCorrect": false
+            },
+            {
+                "text": "light",
+                "isCorrect": false
+            },
+            {
+                "text": "luminous",
+                "isCorrect": false
+            },
+            {
+                "text": "vivid",
+                "isCorrect": false
+            },
+            {
+                "text": "bright",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "In three or four years, my new computer will probably be __________.",
+        "options": [
+            {
+                "text": "obsolete",
+                "isCorrect": true
+            },
+            {
+                "text": "behind the times",
+                "isCorrect": false
+            },
+            {
+                "text": "old fashioned",
+                "isCorrect": false
+            },
+            {
+                "text": "outdated",
+                "isCorrect": false
+            },
+            {
+                "text": "outmoded",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When you connect this to your computer, it will work immediately. It's __________.",
+        "options": [
+            {
+                "text": "plug and play",
+                "isCorrect": true
+            },
+            {
+                "text": "plug and go",
+                "isCorrect": false
+            },
+            {
+                "text": "plug and use",
+                "isCorrect": false
+            },
+            {
+                "text": "plug and operate",
+                "isCorrect": false
+            },
+            {
+                "text": "plug and played",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "After 6pm, calls cost 20p __________ minute",
+        "options": [
+            {
+                "text": "each",
+                "isCorrect": false
+            },
+            {
+                "text": "for two",
+                "isCorrect": false
+            },
+            {
+                "text": "by the",
+                "isCorrect": false
+            },
+            {
+                "text": "per",
+                "isCorrect": true
+            },
+            {
+                "text": "for one",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can't use a mobile in a cave because there's no __________.",
+        "options": [
+            {
+                "text": "network",
+                "isCorrect": false
+            },
+            {
+                "text": "connection",
+                "isCorrect": false
+            },
+            {
+                "text": "power",
+                "isCorrect": false
+            },
+            {
+                "text": "signal",
+                "isCorrect": true
+            },
+            {
+                "text": "reception",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I need to charge up my mobile phone battery. Have you seen my __________?",
+        "options": [
+            {
+                "text": "charging cable",
+                "isCorrect": false
+            },
+            {
+                "text": "power adapter",
+                "isCorrect": false
+            },
+            {
+                "text": "charger",
+                "isCorrect": true
+            },
+            {
+                "text": "recharger",
+                "isCorrect": false
+            },
+            {
+                "text": "charging machine",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When you send a text message, the __________ function can help your write it more quickly.",
+        "options": [
+            {
+                "text": "predictive text",
+                "isCorrect": true
+            },
+            {
+                "text": "predicting text",
+                "isCorrect": false
+            },
+            {
+                "text": "text predictor",
+                "isCorrect": false
+            },
+            {
+                "text": "text prediction",
+                "isCorrect": false
+            },
+            {
+                "text": "auto-suggest",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In the car, it's safer to use a __________ phone.",
+        "options": [
+            {
+                "text": "handless",
+                "isCorrect": false
+            },
+            {
+                "text": "hands-detached",
+                "isCorrect": false
+            },
+            {
+                "text": "hands-unattached",
+                "isCorrect": false
+            },
+            {
+                "text": "hands-free",
+                "isCorrect": true
+            },
+            {
+                "text": "no hands",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If you don't want to dial a number by mistake, turn on the __________.",
+        "options": [
+            {
+                "text": "keypad lock",
+                "isCorrect": true
+            },
+            {
+                "text": "keypad locker",
+                "isCorrect": false
+            },
+            {
+                "text": "locker of keypad",
+                "isCorrect": false
+            },
+            {
+                "text": "keypad security",
+                "isCorrect": false
+            },
+            {
+                "text": "keypad safeguard",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which network has the lowest __________?",
+        "options": [
+            {
+                "text": "call rates",
+                "isCorrect": true
+            },
+            {
+                "text": "call fees",
+                "isCorrect": false
+            },
+            {
+                "text": "call charges",
+                "isCorrect": false
+            },
+            {
+                "text": "call costs",
+                "isCorrect": false
+            },
+            {
+                "text": "call expenses",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My pay-as-you-go account __________ is about £7.",
+        "options": [
+            {
+                "text": "balance",
+                "isCorrect": true
+            },
+            {
+                "text": "level",
+                "isCorrect": false
+            },
+            {
+                "text": "amount",
+                "isCorrect": false
+            },
+            {
+                "text": "credit",
+                "isCorrect": false
+            },
+            {
+                "text": "account",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My average call __________ is about two minutes.",
+        "options": [
+            {
+                "text": "duration",
+                "isCorrect": true
+            },
+            {
+                "text": "length",
+                "isCorrect": false
+            },
+            {
+                "text": "time",
+                "isCorrect": false
+            },
+            {
+                "text": "period",
+                "isCorrect": false
+            },
+            {
+                "text": "interval",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "We're a long way from the nearest __________ …",
+        "options": [
+            {
+                "text": "antenna",
+                "isCorrect": false
+            },
+            {
+                "text": "broadcaster",
+                "isCorrect": false
+            },
+            {
+                "text": "signal lower",
+                "isCorrect": false
+            },
+            {
+                "text": "relay station",
+                "isCorrect": false
+            },
+            {
+                "text": "transmitter",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "…so the __________ is very weak.",
+        "options": [
+            {
+                "text": "signal",
+                "isCorrect": true
+            },
+            {
+                "text": "sign",
+                "isCorrect": false
+            },
+            {
+                "text": "transmission",
+                "isCorrect": false
+            },
+            {
+                "text": "reception",
+                "isCorrect": false
+            },
+            {
+                "text": "connection",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I'll call her on my…",
+        "options": [
+            {
+                "text": "cellular phone",
+                "isCorrect": false
+            },
+            {
+                "text": "smart phone",
+                "isCorrect": false
+            },
+            {
+                "text": "moving phone",
+                "isCorrect": false
+            },
+            {
+                "text": "cell phone",
+                "isCorrect": false
+            },
+            {
+                "text": "mobile phone",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "A mobile phone can't work without a…",
+        "options": [
+            {
+                "text": "similar card",
+                "isCorrect": false
+            },
+            {
+                "text": "sim card",
+                "isCorrect": false
+            },
+            {
+                "text": "sim chip",
+                "isCorrect": false
+            },
+            {
+                "text": "SIM card",
+                "isCorrect": true
+            },
+            {
+                "text": "SIM module",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Don't forget to send me…",
+        "options": [
+            {
+                "text": "a phone message",
+                "isCorrect": false
+            },
+            {
+                "text": "a text",
+                "isCorrect": false
+            },
+            {
+                "text": "an SMS",
+                "isCorrect": false
+            },
+            {
+                "text": "a text message",
+                "isCorrect": true
+            },
+            {
+                "text": "a notification",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When I arrive, I'll…",
+        "options": [
+            {
+                "text": "textualise you",
+                "isCorrect": false
+            },
+            {
+                "text": "text you",
+                "isCorrect": true
+            },
+            {
+                "text": "send you an SMS",
+                "isCorrect": false
+            },
+            {
+                "text": "send you a text",
+                "isCorrect": false
+            },
+            {
+                "text": "shoot you",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When you pay by credit card, your card is __________.",
+        "options": [
+            {
+                "text": "swapped",
+                "isCorrect": false
+            },
+            {
+                "text": "exchanged",
+                "isCorrect": false
+            },
+            {
+                "text": "swuped",
+                "isCorrect": false
+            },
+            {
+                "text": "swiped",
+                "isCorrect": true
+            },
+            {
+                "text": "swooped",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A laptop computer with a screen you can write on is called a __________.",
+        "options": [
+            {
+                "text": "tablet PC",
+                "isCorrect": true
+            },
+            {
+                "text": "table PC",
+                "isCorrect": false
+            },
+            {
+                "text": "flat screen PC",
+                "isCorrect": false
+            },
+            {
+                "text": "convertible PC",
+                "isCorrect": false
+            },
+            {
+                "text": "screen PC",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "An image on TV or computer screen is made up of thousands of __________.",
+        "options": [
+            {
+                "text": "pixels",
+                "isCorrect": true
+            },
+            {
+                "text": "points",
+                "isCorrect": false
+            },
+            {
+                "text": "bits",
+                "isCorrect": false
+            },
+            {
+                "text": "dots",
+                "isCorrect": false
+            },
+            {
+                "text": "elements",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can draw directly onto a computer screen with a __________.",
+        "options": [
+            {
+                "text": "pixel pen",
+                "isCorrect": false
+            },
+            {
+                "text": "stylus pen",
+                "isCorrect": true
+            },
+            {
+                "text": "light pen",
+                "isCorrect": false
+            },
+            {
+                "text": "bright pen",
+                "isCorrect": false
+            },
+            {
+                "text": "digital pen",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A camera connected directly to the internet is calleda.",
+        "options": [
+            {
+                "text": "network camera",
+                "isCorrect": false
+            },
+            {
+                "text": "IP Camera",
+                "isCorrect": true
+            },
+            {
+                "text": "a webcam",
+                "isCorrect": false
+            },
+            {
+                "text": "a web watcher",
+                "isCorrect": false
+            },
+            {
+                "text": "an internet camera",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The woman in the photo is wearing a __________.",
+        "options": [
+            {
+                "text": "headset",
+                "isCorrect": true
+            },
+            {
+                "text": "headphone",
+                "isCorrect": false
+            },
+            {
+                "text": "headpiece",
+                "isCorrect": false
+            },
+            {
+                "text": "headband",
+                "isCorrect": false
+            },
+            {
+                "text": "hairband",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "She talks to customers on the telephone all day. She works in a __________.",
+        "options": [
+            {
+                "text": "call centre",
+                "isCorrect": true
+            },
+            {
+                "text": "telephone centre",
+                "isCorrect": false
+            },
+            {
+                "text": "talking centre",
+                "isCorrect": false
+            },
+            {
+                "text": "customer service center",
+                "isCorrect": false
+            },
+            {
+                "text": "contact center",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Scanners, printers and webcams are __________.",
+        "options": [
+            {
+                "text": "accessories",
+                "isCorrect": false
+            },
+            {
+                "text": "peripherals",
+                "isCorrect": true
+            },
+            {
+                "text": "extras",
+                "isCorrect": false
+            },
+            {
+                "text": "externals",
+                "isCorrect": false
+            },
+            {
+                "text": "devices",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Add extra USB __________ to your computer….",
+        "options": [
+            {
+                "text": "ports",
+                "isCorrect": true
+            },
+            {
+                "text": "doors",
+                "isCorrect": false
+            },
+            {
+                "text": "windows",
+                "isCorrect": false
+            },
+            {
+                "text": "connectors",
+                "isCorrect": false
+            },
+            {
+                "text": "plugs",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "… with a USB __________.",
+        "options": [
+            {
+                "text": "centre",
+                "isCorrect": false
+            },
+            {
+                "text": "port extender",
+                "isCorrect": false
+            },
+            {
+                "text": "docking station",
+                "isCorrect": false
+            },
+            {
+                "text": "hub",
+                "isCorrect": true
+            },
+            {
+                "text": "point",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ADSL is also known as __________.",
+        "options": [
+            {
+                "text": "broadband",
+                "isCorrect": true
+            },
+            {
+                "text": "wideband",
+                "isCorrect": false
+            },
+            {
+                "text": "longband",
+                "isCorrect": false
+            },
+            {
+                "text": "high-speed",
+                "isCorrect": false
+            },
+            {
+                "text": "express",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I want to get a __________ ADSL modem.",
+        "options": [
+            {
+                "text": "quick-speed",
+                "isCorrect": false
+            },
+            {
+                "text": "high-performance",
+                "isCorrect": false
+            },
+            {
+                "text": "quick",
+                "isCorrect": false
+            },
+            {
+                "text": "high-speed",
+                "isCorrect": true
+            },
+            {
+                "text": "fast-speed",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The internet is much faster with a broadband connection than with __________.",
+        "options": [
+            {
+                "text": "phone-up",
+                "isCorrect": false
+            },
+            {
+                "text": "call-up",
+                "isCorrect": false
+            },
+            {
+                "text": "connecting to the phone",
+                "isCorrect": false
+            },
+            {
+                "text": "a traditional dial-up",
+                "isCorrect": false
+            },
+            {
+                "text": "dial-up",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "With a wireless router, you can __________ your broadband connection with other users.",
+        "options": [
+            {
+                "text": "share",
+                "isCorrect": true
+            },
+            {
+                "text": "combine",
+                "isCorrect": false
+            },
+            {
+                "text": "divide",
+                "isCorrect": false
+            },
+            {
+                "text": "distribute",
+                "isCorrect": false
+            },
+            {
+                "text": "expand",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "This wire's too short. I need an __________ cable.",
+        "options": [
+            {
+                "text": "extender",
+                "isCorrect": false
+            },
+            {
+                "text": "extending",
+                "isCorrect": false
+            },
+            {
+                "text": "extend",
+                "isCorrect": false
+            },
+            {
+                "text": "extension",
+                "isCorrect": true
+            },
+            {
+                "text": "extended",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can connect a USB plug to a PS/2 port by using __________.",
+        "options": [
+            {
+                "text": "an adaptor",
+                "isCorrect": true
+            },
+            {
+                "text": "a bridge",
+                "isCorrect": false
+            },
+            {
+                "text": "a connector",
+                "isCorrect": false
+            },
+            {
+                "text": "a cable",
+                "isCorrect": false
+            },
+            {
+                "text": "a plug",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Turn on your computer. It will usually take a few minutes to __________.",
+        "options": [
+            {
+                "text": "get booted",
+                "isCorrect": false
+            },
+            {
+                "text": "start up",
+                "isCorrect": false
+            },
+            {
+                "text": "initialize",
+                "isCorrect": false
+            },
+            {
+                "text": "boot up",
+                "isCorrect": true
+            },
+            {
+                "text": "boot itself",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Windows XP, Macintosh OSX and Linux are __________.",
+        "options": [
+            {
+                "text": "operating systems",
+                "isCorrect": true
+            },
+            {
+                "text": "operating tools",
+                "isCorrect": false
+            },
+            {
+                "text": "operators",
+                "isCorrect": false
+            },
+            {
+                "text": "operating platforms",
+                "isCorrect": false
+            },
+            {
+                "text": "operating environments",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "On my computer, I have a picture of my cat as the __________.",
+        "options": [
+            {
+                "text": "desktop background",
+                "isCorrect": false
+            },
+            {
+                "text": "desktop picture",
+                "isCorrect": false
+            },
+            {
+                "text": "desktop scene",
+                "isCorrect": false
+            },
+            {
+                "text": "wallpaper",
+                "isCorrect": true
+            },
+            {
+                "text": "screensaver",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Microsoft Word, Adobe Acrobat and CorelDraw are programs or __________.",
+        "options": [
+            {
+                "text": "software",
+                "isCorrect": false
+            },
+            {
+                "text": "tools",
+                "isCorrect": false
+            },
+            {
+                "text": "applications",
+                "isCorrect": true
+            },
+            {
+                "text": "appliers",
+                "isCorrect": false
+            },
+            {
+                "text": "applicators",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "To open Microsoft Word, click on the __________.",
+        "options": [
+            {
+                "text": "icon",
+                "isCorrect": true
+            },
+            {
+                "text": "symbol",
+                "isCorrect": false
+            },
+            {
+                "text": "picture",
+                "isCorrect": false
+            },
+            {
+                "text": "shortcut",
+                "isCorrect": false
+            },
+            {
+                "text": "application",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I keep all my digital photos in a __________ called \"Photos\".",
+        "options": [
+            {
+                "text": "repository",
+                "isCorrect": false
+            },
+            {
+                "text": "folder",
+                "isCorrect": true
+            },
+            {
+                "text": "packet",
+                "isCorrect": false
+            },
+            {
+                "text": "box",
+                "isCorrect": false
+            },
+            {
+                "text": "directory",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Is it possible to open Microsoft Excel __________ in Word?",
+        "options": [
+            {
+                "text": "files",
+                "isCorrect": true
+            },
+            {
+                "text": "texts",
+                "isCorrect": false
+            },
+            {
+                "text": "pages",
+                "isCorrect": false
+            },
+            {
+                "text": "documents",
+                "isCorrect": false
+            },
+            {
+                "text": "workbooks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In Microsoft Word, to start typing a new letter, open a new ___________.",
+        "options": [
+            {
+                "text": "paper",
+                "isCorrect": false
+            },
+            {
+                "text": "file",
+                "isCorrect": false
+            },
+            {
+                "text": "sheet",
+                "isCorrect": false
+            },
+            {
+                "text": "document",
+                "isCorrect": true
+            },
+            {
+                "text": "page",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When you __________ a document, it's sent to the recycle bin.",
+        "options": [
+            {
+                "text": "erase",
+                "isCorrect": false
+            },
+            {
+                "text": "destroy",
+                "isCorrect": false
+            },
+            {
+                "text": "discard",
+                "isCorrect": false
+            },
+            {
+                "text": "remove",
+                "isCorrect": false
+            },
+            {
+                "text": "delete",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Deleted documents stay in the recycle bin until you __________ it.",
+        "options": [
+            {
+                "text": "empty",
+                "isCorrect": true
+            },
+            {
+                "text": "wash",
+                "isCorrect": false
+            },
+            {
+                "text": "clean",
+                "isCorrect": false
+            },
+            {
+                "text": "clear",
+                "isCorrect": false
+            },
+            {
+                "text": "purge",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "In Windows, the icon is just a __________ to the application. If you delete the icon, the application will still be on your computer.",
+        "options": [
+            {
+                "text": "tag",
+                "isCorrect": false
+            },
+            {
+                "text": "pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "shortcut",
+                "isCorrect": true
+            },
+            {
+                "text": "connector",
+                "isCorrect": false
+            },
+            {
+                "text": "link",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If the computer crashes, you can try pressing the __________ button.",
+        "options": [
+            {
+                "text": "restart",
+                "isCorrect": false
+            },
+            {
+                "text": "recommence",
+                "isCorrect": false
+            },
+            {
+                "text": "replay",
+                "isCorrect": false
+            },
+            {
+                "text": "reset",
+                "isCorrect": true
+            },
+            {
+                "text": "power",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When I've finished using my computer, I always __________.",
+        "options": [
+            {
+                "text": "shut it off",
+                "isCorrect": false
+            },
+            {
+                "text": "power it off",
+                "isCorrect": false
+            },
+            {
+                "text": "turn it off",
+                "isCorrect": false
+            },
+            {
+                "text": "shut it down",
+                "isCorrect": true
+            },
+            {
+                "text": "close it down",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If I leave my computer on without using it, after a while it goes into __________ mode.",
+        "options": [
+            {
+                "text": "hibernation",
+                "isCorrect": false
+            },
+            {
+                "text": "standby",
+                "isCorrect": false
+            },
+            {
+                "text": "stand down",
+                "isCorrect": false
+            },
+            {
+                "text": "waiting",
+                "isCorrect": false
+            },
+            {
+                "text": "sleep",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Software which is easy to use is…",
+        "options": [
+            {
+                "text": "user-friendly",
+                "isCorrect": true
+            },
+            {
+                "text": "user-easy",
+                "isCorrect": false
+            },
+            {
+                "text": "usable",
+                "isCorrect": false
+            },
+            {
+                "text": "intuitive",
+                "isCorrect": false
+            },
+            {
+                "text": "straightforward",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Software which is obvious to use is…",
+        "options": [
+            {
+                "text": "comprehensible",
+                "isCorrect": false
+            },
+            {
+                "text": "self-explanatory",
+                "isCorrect": true
+            },
+            {
+                "text": "intuition",
+                "isCorrect": false
+            },
+            {
+                "text": "intuitive",
+                "isCorrect": false
+            },
+            {
+                "text": "guessable",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Software which is not obvious to use is…",
+        "options": [
+            {
+                "text": "counter-intuitive",
+                "isCorrect": true
+            },
+            {
+                "text": "unintuitive",
+                "isCorrect": false
+            },
+            {
+                "text": "non-intuitive",
+                "isCorrect": false
+            },
+            {
+                "text": "non-fiction",
+                "isCorrect": false
+            },
+            {
+                "text": "unique",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Software for use by children and schools is…",
+        "options": [
+            {
+                "text": "educational",
+                "isCorrect": true
+            },
+            {
+                "text": "learning",
+                "isCorrect": false
+            },
+            {
+                "text": "teaching",
+                "isCorrect": false
+            },
+            {
+                "text": "pedagocical",
+                "isCorrect": false
+            },
+            {
+                "text": "school-oriented",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Software for use by businesses is…",
+        "options": [
+            {
+                "text": "commercial",
+                "isCorrect": false
+            },
+            {
+                "text": "businesslike",
+                "isCorrect": false
+            },
+            {
+                "text": "busy",
+                "isCorrect": false
+            },
+            {
+                "text": "enterprise",
+                "isCorrect": false
+            },
+            {
+                "text": "business-oriented",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Software made specially for one company is…",
+        "options": [
+            {
+                "text": "unique",
+                "isCorrect": false
+            },
+            {
+                "text": "approximate",
+                "isCorrect": false
+            },
+            {
+                "text": "important",
+                "isCorrect": false
+            },
+            {
+                "text": "tailor-made",
+                "isCorrect": true
+            },
+            {
+                "text": "one-off",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Software for use at home is…",
+        "options": [
+            {
+                "text": "for home use",
+                "isCorrect": true
+            },
+            {
+                "text": "for house use…",
+                "isCorrect": false
+            },
+            {
+                "text": "for household use",
+                "isCorrect": false
+            },
+            {
+                "text": "for homehold use",
+                "isCorrect": false
+            },
+            {
+                "text": "for …",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Software which has been illegally copied is…",
+        "options": [
+            {
+                "text": "pirated",
+                "isCorrect": true
+            },
+            {
+                "text": "unreal",
+                "isCorrect": false
+            },
+            {
+                "text": "fake",
+                "isCorrect": false
+            },
+            {
+                "text": "false",
+                "isCorrect": false
+            },
+            {
+                "text": "untrue",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Software which has been bought from the company that produced it is…",
+        "options": [
+            {
+                "text": "justified",
+                "isCorrect": false
+            },
+            {
+                "text": "legitimate",
+                "isCorrect": false
+            },
+            {
+                "text": "authorized",
+                "isCorrect": false
+            },
+            {
+                "text": "licensed",
+                "isCorrect": true
+            },
+            {
+                "text": "real",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The text about typewriters is divided into three __________.",
+        "options": [
+            {
+                "text": "paragraphs",
+                "isCorrect": false
+            },
+            {
+                "text": "sections",
+                "isCorrect": true
+            },
+            {
+                "text": "chunks",
+                "isCorrect": false
+            },
+            {
+                "text": "segments",
+                "isCorrect": false
+            },
+            {
+                "text": "parts",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Times, Arial and Courier are types of __________.",
+        "options": [
+            {
+                "text": "font",
+                "isCorrect": true
+            },
+            {
+                "text": "lettering",
+                "isCorrect": false
+            },
+            {
+                "text": "character",
+                "isCorrect": false
+            },
+            {
+                "text": "text",
+                "isCorrect": false
+            },
+            {
+                "text": "glyph",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The text about typewriters is __________.",
+        "options": [
+            {
+                "text": "one-and-half spaced",
+                "isCorrect": false
+            },
+            {
+                "text": "triple interval",
+                "isCorrect": false
+            },
+            {
+                "text": "four intervals",
+                "isCorrect": false
+            },
+            {
+                "text": "double spaced",
+                "isCorrect": true
+            },
+            {
+                "text": "single spaced",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "\"Inventions that Changed the World\" is the __________.",
+        "options": [
+            {
+                "text": "header",
+                "isCorrect": false
+            },
+            {
+                "text": "footer",
+                "isCorrect": false
+            },
+            {
+                "text": "footnote",
+                "isCorrect": false
+            },
+            {
+                "text": "banner",
+                "isCorrect": false
+            },
+            {
+                "text": "title page",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Do you think the margins are too __________ or __________?",
+        "options": [
+            {
+                "text": "wide / narrow",
+                "isCorrect": true
+            },
+            {
+                "text": "big / small",
+                "isCorrect": false
+            },
+            {
+                "text": "long / short",
+                "isCorrect": false
+            },
+            {
+                "text": "spacious / cramped",
+                "isCorrect": false
+            },
+            {
+                "text": "wide / limited",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Do you like the page _________?",
+        "options": [
+            {
+                "text": "view",
+                "isCorrect": false
+            },
+            {
+                "text": "text",
+                "isCorrect": false
+            },
+            {
+                "text": "layout",
+                "isCorrect": true
+            },
+            {
+                "text": "organisation",
+                "isCorrect": false
+            },
+            {
+                "text": "pattern",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "\"Winter / Spring Tours\" is the __________.",
+        "options": [
+            {
+                "text": "under-heading",
+                "isCorrect": false
+            },
+            {
+                "text": "below-heading",
+                "isCorrect": false
+            },
+            {
+                "text": "category",
+                "isCorrect": false
+            },
+            {
+                "text": "title",
+                "isCorrect": false
+            },
+            {
+                "text": "sub-heading",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "The body text is divided into two __________.",
+        "options": [
+            {
+                "text": "columns",
+                "isCorrect": true
+            },
+            {
+                "text": "pillars",
+                "isCorrect": false
+            },
+            {
+                "text": "strips",
+                "isCorrect": false
+            },
+            {
+                "text": "parts",
+                "isCorrect": false
+            },
+            {
+                "text": "two blocks",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The body text is __________.",
+        "options": [
+            {
+                "text": "justified",
+                "isCorrect": true
+            },
+            {
+                "text": "uneven on the right",
+                "isCorrect": false
+            },
+            {
+                "text": "right alignment",
+                "isCorrect": false
+            },
+            {
+                "text": "left-aligned",
+                "isCorrect": false
+            },
+            {
+                "text": "centred",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The illustration isn't origina l artwork. It's __________.",
+        "options": [
+            {
+                "text": "clipart",
+                "isCorrect": true
+            },
+            {
+                "text": "screen art",
+                "isCorrect": false
+            },
+            {
+                "text": "free art",
+                "isCorrect": false
+            },
+            {
+                "text": "easel art",
+                "isCorrect": false
+            },
+            {
+                "text": "template image",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "programs\\instructions added to computers:",
+        "options": [
+            {
+                "text": "data processing",
+                "isCorrect": false
+            },
+            {
+                "text": "information security",
+                "isCorrect": false
+            },
+            {
+                "text": "software",
+                "isCorrect": true
+            },
+            {
+                "text": "code",
+                "isCorrect": false
+            },
+            {
+                "text": "hardware",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "the physical parts of a computer",
+        "options": [
+            {
+                "text": "hardware",
+                "isCorrect": true
+            },
+            {
+                "text": "software",
+                "isCorrect": false
+            },
+            {
+                "text": "code",
+                "isCorrect": false
+            },
+            {
+                "text": "data processing",
+                "isCorrect": false
+            },
+            {
+                "text": "information security",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "putting secret information into code",
+        "options": [
+            {
+                "text": "encoding",
+                "isCorrect": true
+            },
+            {
+                "text": "quality assurance",
+                "isCorrect": false
+            },
+            {
+                "text": "data",
+                "isCorrect": false
+            },
+            {
+                "text": "technical support",
+                "isCorrect": false
+            },
+            {
+                "text": "online",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "connected to the Internet",
+        "options": [
+            {
+                "text": "online",
+                "isCorrect": true
+            },
+            {
+                "text": "encoding",
+                "isCorrect": false
+            },
+            {
+                "text": "quality assurance",
+                "isCorrect": false
+            },
+            {
+                "text": "data",
+                "isCorrect": false
+            },
+            {
+                "text": "technical support",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "numbers entered/held in a computer",
+        "options": [
+            {
+                "text": "encoding",
+                "isCorrect": false
+            },
+            {
+                "text": "quality assurance",
+                "isCorrect": false
+            },
+            {
+                "text": "technical support",
+                "isCorrect": false
+            },
+            {
+                "text": "data",
+                "isCorrect": true
+            },
+            {
+                "text": "online",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "checking products for problems",
+        "options": [
+            {
+                "text": "quality assurance",
+                "isCorrect": true
+            },
+            {
+                "text": "data",
+                "isCorrect": false
+            },
+            {
+                "text": "online",
+                "isCorrect": false
+            },
+            {
+                "text": "technical support",
+                "isCorrect": false
+            },
+            {
+                "text": "encoding",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "the act of using information",
+        "options": [
+            {
+                "text": "data processing",
+                "isCorrect": true
+            },
+            {
+                "text": "data",
+                "isCorrect": false
+            },
+            {
+                "text": "online",
+                "isCorrect": false
+            },
+            {
+                "text": "code",
+                "isCorrect": false
+            },
+            {
+                "text": "quality assurance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "helping people use/understand technology",
+        "options": [
+            {
+                "text": "encoding",
+                "isCorrect": false
+            },
+            {
+                "text": "data processing",
+                "isCorrect": false
+            },
+            {
+                "text": "code",
+                "isCorrect": false
+            },
+            {
+                "text": "technical support",
+                "isCorrect": true
+            },
+            {
+                "text": "data",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "program language",
+        "options": [
+            {
+                "text": "code",
+                "isCorrect": true
+            },
+            {
+                "text": "software",
+                "isCorrect": false
+            },
+            {
+                "text": "hardware",
+                "isCorrect": false
+            },
+            {
+                "text": "data",
+                "isCorrect": false
+            },
+            {
+                "text": "technical support",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "the act of protecting information",
+        "options": [
+            {
+                "text": "information security",
+                "isCorrect": true
+            },
+            {
+                "text": "code",
+                "isCorrect": false
+            },
+            {
+                "text": "encoding",
+                "isCorrect": false
+            },
+            {
+                "text": "data",
+                "isCorrect": false
+            },
+            {
+                "text": "data processing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a slotted board with circuits and ports",
+        "options": [
+            {
+                "text": "motherboard",
+                "isCorrect": true
+            },
+            {
+                "text": "hard drive",
+                "isCorrect": false
+            },
+            {
+                "text": "processor",
+                "isCorrect": false
+            },
+            {
+                "text": "expansion card",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a short term, quick memory source",
+        "options": [
+            {
+                "text": "hard drive",
+                "isCorrect": false
+            },
+            {
+                "text": "processor",
+                "isCorrect": false
+            },
+            {
+                "text": "expansion card",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM",
+                "isCorrect": true
+            },
+            {
+                "text": "motherboard",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a part used to cool the processor",
+        "options": [
+            {
+                "text": "heat sink",
+                "isCorrect": true
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "hard drive",
+                "isCorrect": false
+            },
+            {
+                "text": "processor",
+                "isCorrect": false
+            },
+            {
+                "text": "professor",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a part used to store large amounts of data",
+        "options": [
+            {
+                "text": "motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "processor",
+                "isCorrect": false
+            },
+            {
+                "text": "expansion card",
+                "isCorrect": false
+            },
+            {
+                "text": "hard drive",
+                "isCorrect": true
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a part used to increase a computer's functions",
+        "options": [
+            {
+                "text": "expansion card",
+                "isCorrect": true
+            },
+            {
+                "text": "hard drive",
+                "isCorrect": false
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "processor",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a part that completes tasks for the computer",
+        "options": [
+            {
+                "text": "processor",
+                "isCorrect": true
+            },
+            {
+                "text": "RAM",
+                "isCorrect": false
+            },
+            {
+                "text": "motherboard",
+                "isCorrect": false
+            },
+            {
+                "text": "hard drive",
+                "isCorrect": false
+            },
+            {
+                "text": "expansion card",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "processor is …",
+        "options": [
+            {
+                "text": "a slotted board with circuits and ports",
+                "isCorrect": false
+            },
+            {
+                "text": "a part used to cool the processor",
+                "isCorrect": false
+            },
+            {
+                "text": "a part that completes tasks for the computer",
+                "isCorrect": true
+            },
+            {
+                "text": "a part used to increase a computer's functions",
+                "isCorrect": false
+            },
+            {
+                "text": "a short term, quick memory source",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a device that reads images and sends them to a computer",
+        "options": [
+            {
+                "text": "scanner",
+                "isCorrect": true
+            },
+            {
+                "text": "mouse",
+                "isCorrect": false
+            },
+            {
+                "text": "monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "microphone",
+                "isCorrect": false
+            },
+            {
+                "text": "keyboard",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a device that displays images",
+        "options": [
+            {
+                "text": "monitor",
+                "isCorrect": true
+            },
+            {
+                "text": "scanner",
+                "isCorrect": false
+            },
+            {
+                "text": "microphone",
+                "isCorrect": false
+            },
+            {
+                "text": "keyboard",
+                "isCorrect": false
+            },
+            {
+                "text": "mouse",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a device that enters information into a computer",
+        "options": [
+            {
+                "text": "keyboard",
+                "isCorrect": true
+            },
+            {
+                "text": "monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "scanner",
+                "isCorrect": false
+            },
+            {
+                "text": "mouse",
+                "isCorrect": false
+            },
+            {
+                "text": "microphone",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a device that gathers sounds",
+        "options": [
+            {
+                "text": "scanner",
+                "isCorrect": false
+            },
+            {
+                "text": "mouse",
+                "isCorrect": false
+            },
+            {
+                "text": "keyboard",
+                "isCorrect": false
+            },
+            {
+                "text": "microphone",
+                "isCorrect": true
+            },
+            {
+                "text": "monitor",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a device that is used to control a pointer or cursor",
+        "options": [
+            {
+                "text": "mouse",
+                "isCorrect": true
+            },
+            {
+                "text": "monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "scanner",
+                "isCorrect": false
+            },
+            {
+                "text": "keyboard",
+                "isCorrect": false
+            },
+            {
+                "text": "microphone",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The _____ lets a network connect to the Internet",
+        "options": [
+            {
+                "text": "internet",
+                "isCorrect": false
+            },
+            {
+                "text": "WLAN",
+                "isCorrect": false
+            },
+            {
+                "text": "configuration",
+                "isCorrect": false
+            },
+            {
+                "text": "router",
+                "isCorrect": true
+            },
+            {
+                "text": "network",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "A LAN is a type of _____",
+        "options": [
+            {
+                "text": "network",
+                "isCorrect": true
+            },
+            {
+                "text": "router",
+                "isCorrect": false
+            },
+            {
+                "text": "internet",
+                "isCorrect": false
+            },
+            {
+                "text": "WLAN",
+                "isCorrect": false
+            },
+            {
+                "text": "configuration",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Businesses communicate on the ____",
+        "options": [
+            {
+                "text": "internet",
+                "isCorrect": true
+            },
+            {
+                "text": "router",
+                "isCorrect": false
+            },
+            {
+                "text": "cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "CAT-5 cables",
+                "isCorrect": false
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "We do not use cables for our network. We have a ____",
+        "options": [
+            {
+                "text": "WLAN",
+                "isCorrect": true
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": false
+            },
+            {
+                "text": "cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "CAT-5 cables",
+                "isCorrect": false
+            },
+            {
+                "text": "internet",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Routers need a correct ___________ to work properly.",
+        "options": [
+            {
+                "text": "CAT-5 cables",
+                "isCorrect": false
+            },
+            {
+                "text": "controls",
+                "isCorrect": false
+            },
+            {
+                "text": "WLAN",
+                "isCorrect": false
+            },
+            {
+                "text": "configuration",
+                "isCorrect": true
+            },
+            {
+                "text": "congratulation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Businesses with a LAN use _______ to connect computers.",
+        "options": [
+            {
+                "text": "CAT-5 cables",
+                "isCorrect": true
+            },
+            {
+                "text": "WLAN",
+                "isCorrect": false
+            },
+            {
+                "text": "router",
+                "isCorrect": false
+            },
+            {
+                "text": "configurations",
+                "isCorrect": false
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "It is sometimes necessary to ________ a network to make it work.",
+        "options": [
+            {
+                "text": "cycle",
+                "isCorrect": false
+            },
+            {
+                "text": "WLAN",
+                "isCorrect": false
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": false
+            },
+            {
+                "text": "configuration",
+                "isCorrect": true
+            },
+            {
+                "text": "internet",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The __________ provides different IP addresses for computers",
+        "options": [
+            {
+                "text": "CAT-5 cables",
+                "isCorrect": false
+            },
+            {
+                "text": "router",
+                "isCorrect": false
+            },
+            {
+                "text": "network",
+                "isCorrect": false
+            },
+            {
+                "text": "DHCP",
+                "isCorrect": true
+            },
+            {
+                "text": "WLAN",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Use a _________ to type out phrases that you use a lot.",
+        "options": [
+            {
+                "text": "macro",
+                "isCorrect": true
+            },
+            {
+                "text": "compatibility",
+                "isCorrect": false
+            },
+            {
+                "text": "word processing program",
+                "isCorrect": false
+            },
+            {
+                "text": "format",
+                "isCorrect": false
+            },
+            {
+                "text": "document",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My file won't open in other programs due to a ____ problem.",
+        "options": [
+            {
+                "text": "compatibility",
+                "isCorrect": true
+            },
+            {
+                "text": "macro",
+                "isCorrect": false
+            },
+            {
+                "text": "layout",
+                "isCorrect": false
+            },
+            {
+                "text": "spell check",
+                "isCorrect": false
+            },
+            {
+                "text": "micro",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Instead of writing by hand, use a ______",
+        "options": [
+            {
+                "text": "document",
+                "isCorrect": false
+            },
+            {
+                "text": "word processing program",
+                "isCorrect": true
+            },
+            {
+                "text": "spell check",
+                "isCorrect": false
+            },
+            {
+                "text": "macro",
+                "isCorrect": false
+            },
+            {
+                "text": "layout",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "This file is in a _____ that doesn't open in TypeWrite",
+        "options": [
+            {
+                "text": "format",
+                "isCorrect": true
+            },
+            {
+                "text": "macro",
+                "isCorrect": false
+            },
+            {
+                "text": "spell check",
+                "isCorrect": false
+            },
+            {
+                "text": "word processing program",
+                "isCorrect": false
+            },
+            {
+                "text": "layout",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Save each _______ with a different name so you have a copy of each.",
+        "options": [
+            {
+                "text": "document",
+                "isCorrect": true
+            },
+            {
+                "text": "macro",
+                "isCorrect": false
+            },
+            {
+                "text": "layout",
+                "isCorrect": false
+            },
+            {
+                "text": "spell check",
+                "isCorrect": false
+            },
+            {
+                "text": "font",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The letter's _____ is wrong. The heading is in the wrong place.",
+        "options": [
+            {
+                "text": "layout",
+                "isCorrect": true
+            },
+            {
+                "text": "macro",
+                "isCorrect": false
+            },
+            {
+                "text": "document",
+                "isCorrect": false
+            },
+            {
+                "text": "program",
+                "isCorrect": false
+            },
+            {
+                "text": "spell check",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Increase the _____ size to make the file easier to read.",
+        "options": [
+            {
+                "text": "word processing program",
+                "isCorrect": false
+            },
+            {
+                "text": "format",
+                "isCorrect": false
+            },
+            {
+                "text": "font",
+                "isCorrect": true
+            },
+            {
+                "text": "macro",
+                "isCorrect": false
+            },
+            {
+                "text": "layout",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Most word processors offer ____ to help you find mistakes.",
+        "options": [
+            {
+                "text": "spell check",
+                "isCorrect": true
+            },
+            {
+                "text": "font",
+                "isCorrect": false
+            },
+            {
+                "text": "document",
+                "isCorrect": false
+            },
+            {
+                "text": "macro",
+                "isCorrect": false
+            },
+            {
+                "text": "compatibility",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a computer that sends email",
+        "options": [
+            {
+                "text": "SMTP server",
+                "isCorrect": true
+            },
+            {
+                "text": "attachment",
+                "isCorrect": false
+            },
+            {
+                "text": "domain name",
+                "isCorrect": false
+            },
+            {
+                "text": "password",
+                "isCorrect": false
+            },
+            {
+                "text": "email client",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a program that saves sends and receives email",
+        "options": [
+            {
+                "text": "attachment",
+                "isCorrect": false
+            },
+            {
+                "text": "password",
+                "isCorrect": false
+            },
+            {
+                "text": "domain name",
+                "isCorrect": false
+            },
+            {
+                "text": "email client",
+                "isCorrect": true
+            },
+            {
+                "text": "SMTP server",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "words\\letters used to identify companies and addresses",
+        "options": [
+            {
+                "text": "domain name",
+                "isCorrect": true
+            },
+            {
+                "text": "email client",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP server",
+                "isCorrect": false
+            },
+            {
+                "text": "password",
+                "isCorrect": false
+            },
+            {
+                "text": "attachment",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "letters/numbers that let a person access something",
+        "options": [
+            {
+                "text": "password",
+                "isCorrect": true
+            },
+            {
+                "text": "domain name",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP server",
+                "isCorrect": false
+            },
+            {
+                "text": "email client",
+                "isCorrect": false
+            },
+            {
+                "text": "attachment",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a file that is sent with an email",
+        "options": [
+            {
+                "text": "attachment",
+                "isCorrect": true
+            },
+            {
+                "text": "password",
+                "isCorrect": false
+            },
+            {
+                "text": "SMTP server",
+                "isCorrect": false
+            },
+            {
+                "text": "email client",
+                "isCorrect": false
+            },
+            {
+                "text": "domain name",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a collection of related Internet pages",
+        "options": [
+            {
+                "text": "HTML",
+                "isCorrect": false
+            },
+            {
+                "text": "web browser",
+                "isCorrect": false
+            },
+            {
+                "text": "website",
+                "isCorrect": true
+            },
+            {
+                "text": "web host",
+                "isCorrect": false
+            },
+            {
+                "text": "hyperlink",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a program that lets you look at web pages",
+        "options": [
+            {
+                "text": "web browser",
+                "isCorrect": true
+            },
+            {
+                "text": "web host",
+                "isCorrect": false
+            },
+            {
+                "text": "hyperlink",
+                "isCorrect": false
+            },
+            {
+                "text": "HTML",
+                "isCorrect": false
+            },
+            {
+                "text": "website",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a word/image that you can click on to navigate",
+        "options": [
+            {
+                "text": "hyperlink",
+                "isCorrect": true
+            },
+            {
+                "text": "web browser",
+                "isCorrect": false
+            },
+            {
+                "text": "HTML",
+                "isCorrect": false
+            },
+            {
+                "text": "web host",
+                "isCorrect": false
+            },
+            {
+                "text": "website",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a computer language used to make web sites",
+        "options": [
+            {
+                "text": "web browser",
+                "isCorrect": false
+            },
+            {
+                "text": "web host",
+                "isCorrect": false
+            },
+            {
+                "text": "website",
+                "isCorrect": false
+            },
+            {
+                "text": "HTML",
+                "isCorrect": true
+            },
+            {
+                "text": "hyperlink",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a company that provides space for a website",
+        "options": [
+            {
+                "text": "web host",
+                "isCorrect": true
+            },
+            {
+                "text": "web site",
+                "isCorrect": false
+            },
+            {
+                "text": "web browser",
+                "isCorrect": false
+            },
+            {
+                "text": "hyperlink",
+                "isCorrect": false
+            },
+            {
+                "text": "HTML",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Use the _________ to choose files and commands.",
+        "options": [
+            {
+                "text": "pointer",
+                "isCorrect": true
+            },
+            {
+                "text": "icons",
+                "isCorrect": false
+            },
+            {
+                "text": "operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "desktop",
+                "isCorrect": false
+            },
+            {
+                "text": "GUI",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Small pictures or symbols in software are _______.",
+        "options": [
+            {
+                "text": "operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "desktop",
+                "isCorrect": false
+            },
+            {
+                "text": "GUI",
+                "isCorrect": false
+            },
+            {
+                "text": "icons",
+                "isCorrect": true
+            },
+            {
+                "text": "pointer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The _____ is the program that makes a computer work",
+        "options": [
+            {
+                "text": "operating system",
+                "isCorrect": true
+            },
+            {
+                "text": "icons",
+                "isCorrect": false
+            },
+            {
+                "text": "pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "desktop",
+                "isCorrect": false
+            },
+            {
+                "text": "GUI",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When something is on the ____  you see it onscreen",
+        "options": [
+            {
+                "text": "desktop",
+                "isCorrect": true
+            },
+            {
+                "text": "operating system",
+                "isCorrect": false
+            },
+            {
+                "text": "pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "GUI",
+                "isCorrect": false
+            },
+            {
+                "text": "icons",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "An OS(operating system) that uses small pictures to represent files is a _______.",
+        "options": [
+            {
+                "text": "icons",
+                "isCorrect": false
+            },
+            {
+                "text": "pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "window",
+                "isCorrect": false
+            },
+            {
+                "text": "GUI (graphical user interface)",
+                "isCorrect": true
+            },
+            {
+                "text": "desktop",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can minimize files and programs in different ________.",
+        "options": [
+            {
+                "text": "windows",
+                "isCorrect": true
+            },
+            {
+                "text": "GUI",
+                "isCorrect": false
+            },
+            {
+                "text": "icons",
+                "isCorrect": false
+            },
+            {
+                "text": "pointer",
+                "isCorrect": false
+            },
+            {
+                "text": "OS",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "images on a computer, in a book or magazine etc.",
+        "options": [
+            {
+                "text": "graphics",
+                "isCorrect": true
+            },
+            {
+                "text": "JPEG",
+                "isCorrect": false
+            },
+            {
+                "text": "pixel",
+                "isCorrect": false
+            },
+            {
+                "text": "tint",
+                "isCorrect": false
+            },
+            {
+                "text": "exposure",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a small dot that makes up part of an image or a computer screen",
+        "options": [
+            {
+                "text": "pixel",
+                "isCorrect": true
+            },
+            {
+                "text": "JPEG",
+                "isCorrect": false
+            },
+            {
+                "text": "tint",
+                "isCorrect": false
+            },
+            {
+                "text": "exposure",
+                "isCorrect": false
+            },
+            {
+                "text": "graphics",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a file used to store pictures on a computer",
+        "options": [
+            {
+                "text": "tint",
+                "isCorrect": false
+            },
+            {
+                "text": "graphics",
+                "isCorrect": false
+            },
+            {
+                "text": "exposure",
+                "isCorrect": false
+            },
+            {
+                "text": "JPEG",
+                "isCorrect": true
+            },
+            {
+                "text": "pixel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "the length of time film is open to light when taking a picture",
+        "options": [
+            {
+                "text": "exposure",
+                "isCorrect": true
+            },
+            {
+                "text": "pixel",
+                "isCorrect": false
+            },
+            {
+                "text": "JPEG",
+                "isCorrect": false
+            },
+            {
+                "text": "tint",
+                "isCorrect": false
+            },
+            {
+                "text": "graphics",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a small amount of a color in something",
+        "options": [
+            {
+                "text": "JPEG",
+                "isCorrect": false
+            },
+            {
+                "text": "graphics",
+                "isCorrect": false
+            },
+            {
+                "text": "tint",
+                "isCorrect": true
+            },
+            {
+                "text": "pixel",
+                "isCorrect": false
+            },
+            {
+                "text": "resolution",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a computer or camera's ability to produce a clear picture",
+        "options": [
+            {
+                "text": "resolution",
+                "isCorrect": true
+            },
+            {
+                "text": "JPEG",
+                "isCorrect": false
+            },
+            {
+                "text": "tint",
+                "isCorrect": false
+            },
+            {
+                "text": "pixel",
+                "isCorrect": false
+            },
+            {
+                "text": "dot",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "It’s hard to see the details of this picture. Please _____ it so that it is bigger.",
+        "options": [
+            {
+                "text": "resize",
+                "isCorrect": true
+            },
+            {
+                "text": "crop",
+                "isCorrect": false
+            },
+            {
+                "text": "contrast",
+                "isCorrect": false
+            },
+            {
+                "text": "graphic editing program",
+                "isCorrect": false
+            },
+            {
+                "text": "close",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I want to edit my pictures. I need a ______.",
+        "options": [
+            {
+                "text": "contrast",
+                "isCorrect": false
+            },
+            {
+                "text": "money",
+                "isCorrect": false
+            },
+            {
+                "text": "graphic editing program",
+                "isCorrect": true
+            },
+            {
+                "text": "crop",
+                "isCorrect": false
+            },
+            {
+                "text": "resize",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I don't like the background of this picture. Let’s _____ it out.",
+        "options": [
+            {
+                "text": "crop",
+                "isCorrect": true
+            },
+            {
+                "text": "graphic editing program",
+                "isCorrect": false
+            },
+            {
+                "text": "contrast",
+                "isCorrect": false
+            },
+            {
+                "text": "resize",
+                "isCorrect": false
+            },
+            {
+                "text": "computer",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "This picture is too dark. Make the ______ a little lighter.",
+        "options": [
+            {
+                "text": "contrast",
+                "isCorrect": true
+            },
+            {
+                "text": "crop",
+                "isCorrect": false
+            },
+            {
+                "text": "resize",
+                "isCorrect": false
+            },
+            {
+                "text": "editing program",
+                "isCorrect": false
+            },
+            {
+                "text": "size",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a single page of a spreadsheet",
+        "options": [
+            {
+                "text": "worksheet",
+                "isCorrect": true
+            },
+            {
+                "text": "database",
+                "isCorrect": false
+            },
+            {
+                "text": "sort",
+                "isCorrect": false
+            },
+            {
+                "text": "field",
+                "isCorrect": false
+            },
+            {
+                "text": "formula",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a large group of data organized in a computer",
+        "options": [
+            {
+                "text": "formula",
+                "isCorrect": false
+            },
+            {
+                "text": "worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "database",
+                "isCorrect": true
+            },
+            {
+                "text": "sort",
+                "isCorrect": false
+            },
+            {
+                "text": "field",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "to arrange the information in a database",
+        "options": [
+            {
+                "text": "sort",
+                "isCorrect": true
+            },
+            {
+                "text": "field",
+                "isCorrect": false
+            },
+            {
+                "text": "formula",
+                "isCorrect": false
+            },
+            {
+                "text": "worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "database",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a database category that holds a type of information",
+        "options": [
+            {
+                "text": "sort",
+                "isCorrect": false
+            },
+            {
+                "text": "formula",
+                "isCorrect": false
+            },
+            {
+                "text": "field",
+                "isCorrect": true
+            },
+            {
+                "text": "worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "database",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a mathematical instruction that performs spreadsheet calculations",
+        "options": [
+            {
+                "text": "formula",
+                "isCorrect": true
+            },
+            {
+                "text": "worksheet",
+                "isCorrect": false
+            },
+            {
+                "text": "database",
+                "isCorrect": false
+            },
+            {
+                "text": "sort",
+                "isCorrect": false
+            },
+            {
+                "text": "field",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "choosing a website's visuals",
+        "options": [
+            {
+                "text": "web design",
+                "isCorrect": true
+            },
+            {
+                "text": "visibility",
+                "isCorrect": false
+            },
+            {
+                "text": "usability",
+                "isCorrect": false
+            },
+            {
+                "text": "coding",
+                "isCorrect": false
+            },
+            {
+                "text": "content",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "how easily you can find a website on an engine",
+        "options": [
+            {
+                "text": "coding",
+                "isCorrect": false
+            },
+            {
+                "text": "content",
+                "isCorrect": false
+            },
+            {
+                "text": "visibility",
+                "isCorrect": true
+            },
+            {
+                "text": "usability",
+                "isCorrect": false
+            },
+            {
+                "text": "web design",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "a website's programming",
+        "options": [
+            {
+                "text": "coding",
+                "isCorrect": true
+            },
+            {
+                "text": "usability",
+                "isCorrect": false
+            },
+            {
+                "text": "visibility",
+                "isCorrect": false
+            },
+            {
+                "text": "content",
+                "isCorrect": false
+            },
+            {
+                "text": "navigation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "how easily a user can use a website",
+        "options": [
+            {
+                "text": "content",
+                "isCorrect": false
+            },
+            {
+                "text": "usability",
+                "isCorrect": true
+            },
+            {
+                "text": "visibility",
+                "isCorrect": false
+            },
+            {
+                "text": "web site",
+                "isCorrect": false
+            },
+            {
+                "text": "navigation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "moving around a website",
+        "options": [
+            {
+                "text": "navigation",
+                "isCorrect": true
+            },
+            {
+                "text": "web design",
+                "isCorrect": false
+            },
+            {
+                "text": "content",
+                "isCorrect": false
+            },
+            {
+                "text": "usability",
+                "isCorrect": false
+            },
+            {
+                "text": "visibility",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "everything contained in a website",
+        "options": [
+            {
+                "text": "content",
+                "isCorrect": true
+            },
+            {
+                "text": "navigation",
+                "isCorrect": false
+            },
+            {
+                "text": "web design",
+                "isCorrect": false
+            },
+            {
+                "text": "coding",
+                "isCorrect": false
+            },
+            {
+                "text": "context",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The website doesn't work well. I want to improve its ________.",
+        "options": [
+            {
+                "text": "web development",
+                "isCorrect": false
+            },
+            {
+                "text": "CSS",
+                "isCorrect": false
+            },
+            {
+                "text": "cable",
+                "isCorrect": false
+            },
+            {
+                "text": "functionality",
+                "isCorrect": true
+            },
+            {
+                "text": "appearance",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My website looks boring. I’ll give it a more interesting ______.",
+        "options": [
+            {
+                "text": "appearance",
+                "isCorrect": true
+            },
+            {
+                "text": "functionality",
+                "isCorrect": false
+            },
+            {
+                "text": "web development",
+                "isCorrect": false
+            },
+            {
+                "text": "CSS",
+                "isCorrect": false
+            },
+            {
+                "text": "cable",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "If you are interested in making a website, take a ______ class.",
+        "options": [
+            {
+                "text": "web development",
+                "isCorrect": true
+            },
+            {
+                "text": "functionality",
+                "isCorrect": false
+            },
+            {
+                "text": "appearance",
+                "isCorrect": false
+            },
+            {
+                "text": "CSS",
+                "isCorrect": false
+            },
+            {
+                "text": "JPEG",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I'm learning ______ so that I can change my website.",
+        "options": [
+            {
+                "text": "CSS",
+                "isCorrect": true
+            },
+            {
+                "text": "web development",
+                "isCorrect": false
+            },
+            {
+                "text": "appearance",
+                "isCorrect": false
+            },
+            {
+                "text": "functionality",
+                "isCorrect": false
+            },
+            {
+                "text": "cables",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "My computer is not working. No images are showing on the ________",
+        "options": [
+            {
+                "text": "video bridge",
+                "isCorrect": false
+            },
+            {
+                "text": "echo-cancellation",
+                "isCorrect": false
+            },
+            {
+                "text": "monitor",
+                "isCorrect": true
+            },
+            {
+                "text": "dedicated system",
+                "isCorrect": false
+            },
+            {
+                "text": "document sharing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Let’s purchase a ______. It comes with everything we need for videoconferencing.",
+        "options": [
+            {
+                "text": "dedicated system",
+                "isCorrect": true
+            },
+            {
+                "text": "document sharing",
+                "isCorrect": false
+            },
+            {
+                "text": "monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "video bridge",
+                "isCorrect": false
+            },
+            {
+                "text": "echo-cancellation",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Only I can edit the report. The videoconference system does not allow _________.",
+        "options": [
+            {
+                "text": "videoconference",
+                "isCorrect": false
+            },
+            {
+                "text": "dedicated system",
+                "isCorrect": false
+            },
+            {
+                "text": "document sharing",
+                "isCorrect": true
+            },
+            {
+                "text": "monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "video bridge",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "You can’t hold multipoint videoconference without a _______.",
+        "options": [
+            {
+                "text": "video bridge",
+                "isCorrect": true
+            },
+            {
+                "text": "dedicated system",
+                "isCorrect": false
+            },
+            {
+                "text": "document sharing",
+                "isCorrect": false
+            },
+            {
+                "text": "echo-cancellation",
+                "isCorrect": false
+            },
+            {
+                "text": "videoconference",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "The _________ feature eliminates unwanted sound during a videoconference.",
+        "options": [
+            {
+                "text": "echo-cancellation",
+                "isCorrect": true
+            },
+            {
+                "text": "dedicated system",
+                "isCorrect": false
+            },
+            {
+                "text": "videoconference",
+                "isCorrect": false
+            },
+            {
+                "text": "video bridge",
+                "isCorrect": false
+            },
+            {
+                "text": "document sharing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I want a face-to-face meeting. Let’s hold a ________.",
+        "options": [
+            {
+                "text": "videoconference",
+                "isCorrect": true
+            },
+            {
+                "text": "dedicated system",
+                "isCorrect": false
+            },
+            {
+                "text": "video bridge",
+                "isCorrect": false
+            },
+            {
+                "text": "monitor",
+                "isCorrect": false
+            },
+            {
+                "text": "document sharing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What time is it? - I don't know. My watch is broken. I ... take it to a watchmaker.  <variant>Wil",
+        "options": [
+            {
+                "text": "Will go",
+                "isCorrect": false
+            },
+            {
+                "text": "Is going to",
+                "isCorrect": false
+            },
+            {
+                "text": "Are going to",
+                "isCorrect": false
+            },
+            {
+                "text": "Am going to",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Where are you going? - I ... to the shop. There is no food in the fridge.",
+        "options": [
+            {
+                "text": "Am going to",
+                "isCorrect": true
+            },
+            {
+                "text": "Are going to",
+                "isCorrect": false
+            },
+            {
+                "text": "Is going to",
+                "isCorrect": false
+            },
+            {
+                "text": "Will",
+                "isCorrect": false
+            },
+            {
+                "text": "Will go",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Why are you buying this tin of paint? - I ... redecorate my house. I haven't painted it for several years.",
+        "options": [
+            {
+                "text": "Will",
+                "isCorrect": false
+            },
+            {
+                "text": "Are going to",
+                "isCorrect": false
+            },
+            {
+                "text": "Is going to",
+                "isCorrect": false
+            },
+            {
+                "text": "Will going to",
+                "isCorrect": false
+            },
+            {
+                "text": "Am going to",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "He is … to travel to Asia.",
+        "options": [
+            {
+                "text": "Going",
+                "isCorrect": true
+            },
+            {
+                "text": "About",
+                "isCorrect": false
+            },
+            {
+                "text": "Go",
+                "isCorrect": false
+            },
+            {
+                "text": "To go",
+                "isCorrect": false
+            },
+            {
+                "text": "Gone",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I am … to invite all friends to my birthday party.",
+        "options": [
+            {
+                "text": "Going",
+                "isCorrect": true
+            },
+            {
+                "text": "To go",
+                "isCorrect": false
+            },
+            {
+                "text": "About",
+                "isCorrect": false
+            },
+            {
+                "text": "Gone",
+                "isCorrect": false
+            },
+            {
+                "text": "Went",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "He said he was … to tell the truth to everybody",
+        "options": [
+            {
+                "text": "Gone",
+                "isCorrect": false
+            },
+            {
+                "text": "To go",
+                "isCorrect": false
+            },
+            {
+                "text": "About",
+                "isCorrect": false
+            },
+            {
+                "text": "Went",
+                "isCorrect": false
+            },
+            {
+                "text": "Going",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "My brother ... his haircut",
+        "options": [
+            {
+                "text": "Is going to change",
+                "isCorrect": true
+            },
+            {
+                "text": "Is going to changing",
+                "isCorrect": false
+            },
+            {
+                "text": "Is going changing",
+                "isCorrect": false
+            },
+            {
+                "text": "Is changing",
+                "isCorrect": false
+            },
+            {
+                "text": "Going change",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Nancy and Drew …….. their aunt and uncle.",
+        "options": [
+            {
+                "text": "Aren’t going to visit",
+                "isCorrect": true
+            },
+            {
+                "text": "Aren’t going to visiting",
+                "isCorrect": false
+            },
+            {
+                "text": "Aren’t going to visited",
+                "isCorrect": false
+            },
+            {
+                "text": "Aren’t visit",
+                "isCorrect": false
+            },
+            {
+                "text": "Aren’t  go visit",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "……to Paris next summer?",
+        "options": [
+            {
+                "text": "Is she going to fly",
+                "isCorrect": true
+            },
+            {
+                "text": "Is she going to flying",
+                "isCorrect": false
+            },
+            {
+                "text": "Is she going fly",
+                "isCorrect": false
+            },
+            {
+                "text": "Are she going fly",
+                "isCorrect": false
+            },
+            {
+                "text": "Are she go fly",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "As soon as I … home, I will give you a call.",
+        "options": [
+            {
+                "text": "will get",
+                "isCorrect": false
+            },
+            {
+                "text": "getting",
+                "isCorrect": false
+            },
+            {
+                "text": "get",
+                "isCorrect": true
+            },
+            {
+                "text": "gets",
+                "isCorrect": false
+            },
+            {
+                "text": "got",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Kate … to the park after she finishes her homework.",
+        "options": [
+            {
+                "text": "gone",
+                "isCorrect": false
+            },
+            {
+                "text": "will go",
+                "isCorrect": true
+            },
+            {
+                "text": "is going",
+                "isCorrect": false
+            },
+            {
+                "text": "goes",
+                "isCorrect": false
+            },
+            {
+                "text": "go",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "When you … the room, Tommy will put up the decorations.",
+        "options": [
+            {
+                "text": "clean",
+                "isCorrect": true
+            },
+            {
+                "text": "cleaning",
+                "isCorrect": false
+            },
+            {
+                "text": "will clean",
+                "isCorrect": false
+            },
+            {
+                "text": "cleans",
+                "isCorrect": false
+            },
+            {
+                "text": "cleaned",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Since ancient times silver…to human beings.",
+        "options": [
+            {
+                "text": "has been known",
+                "isCorrect": true
+            },
+            {
+                "text": "has  known",
+                "isCorrect": false
+            },
+            {
+                "text": "is being knowing",
+                "isCorrect": false
+            },
+            {
+                "text": "is known",
+                "isCorrect": false
+            },
+            {
+                "text": "has been knowing",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "I prefer a cup of tea.",
+        "options": [
+            {
+                "text": "So done I",
+                "isCorrect": false
+            },
+            {
+                "text": "So has done I",
+                "isCorrect": false
+            },
+            {
+                "text": "So do I",
+                "isCorrect": true
+            },
+            {
+                "text": "So does I",
+                "isCorrect": false
+            },
+            {
+                "text": "So did I",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Give the synonym of the word: expect.",
+        "options": [
+            {
+                "text": "wait",
+                "isCorrect": true
+            },
+            {
+                "text": "allow",
+                "isCorrect": false
+            },
+            {
+                "text": "discuss",
+                "isCorrect": false
+            },
+            {
+                "text": "wear",
+                "isCorrect": false
+            },
+            {
+                "text": "taste",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "More and more people are interested … computers nowadays.",
+        "options": [
+            {
+                "text": "in",
+                "isCorrect": true
+            },
+            {
+                "text": "at",
+                "isCorrect": false
+            },
+            {
+                "text": "about",
+                "isCorrect": false
+            },
+            {
+                "text": "of",
+                "isCorrect": false
+            },
+            {
+                "text": "on",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Mary is very sensitive … other people’s need.",
+        "options": [
+            {
+                "text": "in",
+                "isCorrect": false
+            },
+            {
+                "text": "for",
+                "isCorrect": false
+            },
+            {
+                "text": "to",
+                "isCorrect": true
+            },
+            {
+                "text": "about",
+                "isCorrect": false
+            },
+            {
+                "text": "at",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Lora is a warm, generous, kind- … woman.",
+        "options": [
+            {
+                "text": "hearted",
+                "isCorrect": true
+            },
+            {
+                "text": "minded",
+                "isCorrect": false
+            },
+            {
+                "text": "working",
+                "isCorrect": false
+            },
+            {
+                "text": "looking",
+                "isCorrect": false
+            },
+            {
+                "text": "mannered",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Fill in the missing word: When he started the sun had already… .",
+        "options": [
+            {
+                "text": "risen",
+                "isCorrect": true
+            },
+            {
+                "text": "rise",
+                "isCorrect": false
+            },
+            {
+                "text": "rose",
+                "isCorrect": false
+            },
+            {
+                "text": "rosen",
+                "isCorrect": false
+            },
+            {
+                "text": "put up",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct word: He will come if I… him.",
+        "options": [
+            {
+                "text": "invite",
+                "isCorrect": true
+            },
+            {
+                "text": "invited",
+                "isCorrect": false
+            },
+            {
+                "text": "done",
+                "isCorrect": false
+            },
+            {
+                "text": "do",
+                "isCorrect": false
+            },
+            {
+                "text": "will invite",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct word. What …. does the hotel have?",
+        "options": [
+            {
+                "text": "facilities",
+                "isCorrect": true
+            },
+            {
+                "text": "activities",
+                "isCorrect": false
+            },
+            {
+                "text": "dwellings",
+                "isCorrect": false
+            },
+            {
+                "text": "accommodation",
+                "isCorrect": false
+            },
+            {
+                "text": "destination",
+                "isCorrect": false
+            }
+        ]
+    }
+]
