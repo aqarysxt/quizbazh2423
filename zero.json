@@ -1358,11 +1358,11 @@
             },
             {
                 "text": "stylus pen",
-                "is_correct": true
+                "is_correct": false
             },
             {
                 "text": "light pen",
-                "is_correct": false
+                "is_correct": true
             },
             {
                 "text": "bright pen",
@@ -2254,11 +2254,11 @@
         "variants": [
             {
                 "text": "paragraphs",
-                "is_correct": false
+                "is_correct": true
             },
             {
                 "text": "sections",
-                "is_correct": true
+                "is_correct": false
             },
             {
                 "text": "chunks",
